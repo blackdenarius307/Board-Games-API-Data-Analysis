@@ -26,4 +26,4 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 - [ ] Create charts showing trends over time
 - [ ] Pull data for top publishers
 - [ ] Compare their last five years with last five years
-- [ ] Charts / Summary Tables - whichever better fits the data
+	- [ ] Charts / Summary Tables - whichever better fits the data
