@@ -21,7 +21,7 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 # Rough Breakdown of Tasks:
 - [ ] Pull data from API
 - [ ] Clean data and group by release date
-- [ ] Breakdown mechanics, theme, and player count data
+- [ ] Break down mechanics, theme, and player count data
 - [ ] Create summary data frames for each
 - [ ] Create charts showing trends over time
 - [ ] Pull data for top publishers
