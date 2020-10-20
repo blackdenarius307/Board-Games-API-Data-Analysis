@@ -19,11 +19,11 @@ Player Counts - The number of players who participate in the game at the same ti
 Board Game Atlas API
 
 # Rough Breakdown of Tasks:
-Pull data from API
-Clean data and group by release date
-Breakdown mechanics, theme, and player count data
-Create summary data frames for each
-Create charts showing trends over time
-Pull data for top publishers
-Compare their last five years with last five years
-Charts / Summary Tables - whichever better fits the data
+- [] Pull data from API
+- [] Clean data and group by release date
+- [] Breakdown mechanics, theme, and player count data
+- [] Create summary data frames for each
+- [] Create charts showing trends over time
+- [] Pull data for top publishers
+- [] Compare their last five years with last five years
+- [] Charts / Summary Tables - whichever better fits the data
