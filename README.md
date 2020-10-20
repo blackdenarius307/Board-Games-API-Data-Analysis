@@ -5,9 +5,9 @@
 Project Description & Outline: Using Board Game Atlas, a popular forum for rating games and connecting with other gamers, we will look into board game trends over the last five years and see how those compare to prior years.
 
 # Defining Variables:
--Mechanics - The style of game play by the players’ prominent action, such as dice rolling or deck building.
--Themes - The subject and setting of the board game, such as zombies or island exploration.
--Player Counts - The number of players who participate in the game at the same time.
+1. Mechanics - The style of game play by the players’ prominent action, such as dice rolling or deck building.
+2. Themes - The subject and setting of the board game, such as zombies or island exploration.
+3. Player Counts - The number of players who participate in the game at the same time.
 
 # Research Questions to Answer:
 	- How have mechanics changed?
