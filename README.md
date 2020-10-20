@@ -16,7 +16,7 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 	- Are these trends shared across the top publishers in board gaming?
 
 # Datasets to Be Used:
-Board Game Atlas API
+[Board Game Atlas API](https://www.boardgameatlas.com/api/docs) 
 
 # Rough Breakdown of Tasks:
 - [ ] Pull data from API
