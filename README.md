@@ -25,13 +25,10 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 [Board Game Atlas API](https://www.boardgameatlas.com/api/docs) 
 
 # Rough Breakdown of Tasks:
-- [x] Pull data from API
-	-Top 100 games for each year from 2000 to now.
+- [x] Pull data from API (Top 100 games per year from 2000 to now)
 - [x] Clean data
-	- [x] Handle the Mechanic ID's somehow.
-- [ ] Break down mechanics, theme, and player count data
-- [ ] Create summary data frames for each
+	- [x] Remove unnecessary rows
+	- [x] Decrypt Mechanic ID's for each game into a readable state
+	- [x] Remove any game with no mechanics listed
+- [ ] Create summary dataframes for each year for mechanics and player count
 - [ ] Create charts showing trends over time
-- [ ] Pull data for top publishers
-- [ ] Compare their last five years with last five years
-	- [ ] Charts / Summary Tables - whichever better fits the data
