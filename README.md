@@ -26,9 +26,9 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 
 # Rough Breakdown of Tasks:
 - [x] Pull data from API
-- [ ] Clean data and group by release date
-	- [ ] From the year 2000 to 2015, then 2015 to now
-	- [ ] Handle the Mechanic ID's somehow
+	-Top 100 games for each year from 2000 to now.
+- [x] Clean data
+	- [x] Handle the Mechanic ID's somehow.
 - [ ] Break down mechanics, theme, and player count data
 - [ ] Create summary data frames for each
 - [ ] Create charts showing trends over time
