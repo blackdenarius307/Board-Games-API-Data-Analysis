@@ -7,17 +7,19 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 # Defining Variables:
 1. Mechanics - The style of game play by the players’ prominent action, such as dice rolling or deck building.
 2. Mechanical Complexity - Number of mechanics in a game.
-3. Player Counts - The number of players who participate in the game at the same time.
+3. Player Counts - The number of players who can participate in the game at the same time.
 
 # Research Questions to Answer:
 	- Have games become more mechanically complex over time?
-		Null- If games have not become more mechanically complex over time, then games from the last 5 years will not have more\
+		Null- If games have not become more mechanically complex over time, then games from the last 5 years will not have more
 		mechanics than games from previously.
-		Alternate- If games have become more mechanically complex over time, then games from the last 5 years will have more\
+		Alternate- If games have become more mechanically complex over time, then games from the last 5 years will have more
 		mechanics than games from previously.
-	- Have minimum or maximum player counts shifted considerably?
-		Null-
-		Alternate
+	- Has the prevalence of one player games increased over time?
+		Null- If one player games have not become more prevalent over the last 5 years, then the percentage of games allowing one player will
+		not have increased in the last 5 years.
+		Alternate- If one player games have become more prevalent over the last 5 years, then the percentage of games allowing one player will
+		have increased in the last 5 years.
 
 # Datasets to Be Used:
 [Board Game Atlas API](https://www.boardgameatlas.com/api/docs) 
