@@ -19,7 +19,7 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 [Board Game Atlas API](https://www.boardgameatlas.com/api/docs) 
 
 # Rough Breakdown of Tasks:
-- [ ] Pull data from API
+- [x] Pull data from API
 - [ ] Clean data and group by release date
 	- [ ] From the year 2000 to 2015, then 2015 to now
 	- [ ] Handle the Mechanic ID's somehow
