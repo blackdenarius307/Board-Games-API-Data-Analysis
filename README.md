@@ -16,10 +16,10 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 		Alternate- If games have become more mechanically complex over time, then games from the last 5 years will have more
 		mechanics than games from previously.
 	- Has the prevalence of one player games increased over time?
-		Null- If one player games have not become more prevalent over the last 5 years, then the percentage of games allowing one player will
-		not have increased in the last 5 years.
-		Alternate- If one player games have become more prevalent over the last 5 years, then the percentage of games allowing one player will
-		have increased in the last 5 years.
+		Null- If one player games have not become more prevalent over the last 5 years, then the percentage of games 
+		allowing one player will not have increased in the last 5 years.
+		Alternate- If one player games have become more prevalent over the last 5 years, then the percentage of games
+		allowing one player will have increased in the last 5 years.
 
 # Datasets to Be Used:
 [Board Game Atlas API](https://www.boardgameatlas.com/api/docs) 
