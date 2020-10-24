@@ -11,8 +11,10 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 
 # Research Questions to Answer:
 	- Have games become more mechanically complex over time?
-		Null- If games have not become more mechanically complex over time, then games from the last 5 years will not have more mechanics than games from previously.
-		Alternate- If games have become more mechanically complex over time, then games from the last 5 years will have more mechanics than games from previously.
+		Null- If games have not become more mechanically complex over time, then games from the last 5 years will not have more\
+		mechanics than games from previously.
+		Alternate- If games have become more mechanically complex over time, then games from the last 5 years will have more\
+		mechanics than games from previously.
 	- Have minimum or maximum player counts shifted considerably?
 		Null-
 		Alternate
