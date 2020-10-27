@@ -10,17 +10,16 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 3. Player Counts - The number of players who can participate in the game at the same time.
 
 # Research Questions to Answer:
-	- Have games become more mechanically complex over time?
-		Null- If games have not become more mechanically complex over time, then games from the last 5 years will not have more
-		mechanics than games from previously.
-		Alternate- If games have become more mechanically complex over time, then games from the last 5 years will have more
-		mechanics than games from previously.
-	- Has the prevalence of one player games increased over time?
-		Null- If one player games have not become more prevalent over the last 5 years, then the percentage of games 
-		allowing one player will not have increased in the last 5 years.
-		Alternate- If one player games have become more prevalent over the last 5 years, then the percentage of games
-		allowing one player will have increased in the last 5 years.
-
+	- Have games become more mechanically complex over time in the top 100 games of each year?
+		Null- If games have not become more mechanically complex over time, then the average number of mechanics per game 
+		will not increase year over year.
+		Alternate- If games have become more mechanically complex over time, then the average number of mechanics per game 
+		will increase year over year.
+	- Has the prevalence of one player games increased over time in the top 100 games of each year?
+		Null- If one player games have not become more prevalent over time, then the percentage of games 
+		allowing one player will not have increased over time.
+		Alternate- If one player games have become more prevalent over time, then the percentage of games 
+		allowing one player will have increased over time.
 # Datasets to Be Used:
 [Board Game Atlas API](https://www.boardgameatlas.com/api/docs) 
 
