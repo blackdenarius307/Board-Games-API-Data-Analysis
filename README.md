@@ -5,10 +5,11 @@ Team Members: Max Browning & Zach Gibbs
 
 Project Description & Outline: Using Board Game Atlas, a popular forum for rating games and connecting with other gamers, we will look into board game trends over the last five years and see how those compare to prior years.
 
-# Defining Variables:
+# Defining Terms:
 1. Mechanics - The style of game play by the players’ prominent action, such as dice rolling or deck building.
 2. Mechanical Complexity - Number of mechanics in a game.
 3. Player Counts - The number of players who can participate in the game at the same time.
+4. One Player Games - Games that allow for a single player, but may include more. 
 
 # Research Questions to Answer:
 	- Has the prevalence of one player games increased over time in the top 100 games of each year?
