@@ -1,8 +1,8 @@
 # Board-Games-Group-F
 
 # Project Title: How have the last 5 years of board game production changed from prior years?
-Team Members: Max Browning & Zach Gibbs
-Project Description & Outline: Using Board Game Atlas, a popular forum for rating games and connecting with other gamers, we will look into board game trends over the last five years and see how those compare to prior years.
+-Team Members: Max Browning & Zach Gibbs
+-Project Description & Outline: Using Board Game Atlas, a popular forum for rating games and connecting with other gamers, we will look into board game trends over the last five years and see how those compare to prior years.
 
 # Defining Variables:
 1. Mechanics - The style of game play by the players’ prominent action, such as dice rolling or deck building.
