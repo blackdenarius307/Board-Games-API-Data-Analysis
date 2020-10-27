@@ -1,7 +1,7 @@
 # Board-Games-Group-F
 
 # Project Title: How have the last 5 years of board game production changed from prior years?
- Team Members: Max Browning & Zach Gibbs
+Team Members: Max Browning & Zach Gibbs
 Project Description & Outline: Using Board Game Atlas, a popular forum for rating games and connecting with other gamers, we will look into board game trends over the last five years and see how those compare to prior years.
 
 # Defining Variables:
@@ -29,5 +29,5 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 	- [x] Remove unnecessary rows
 	- [x] Decrypt Mechanic ID's for each game into a readable state
 	- [x] Remove any game with no mechanics listed
-- [ ] Create summary dataframes for each year for mechanics and player count
-- [ ] Create charts showing trends over time
+- [x] Create summary dataframes for each year for mechanics and player count
+- [x] Create charts showing trends over time
