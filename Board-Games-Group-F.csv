@@ -1,6 +1,6 @@
 ,id,name,year_published,min_players,max_players,primary_publisher,mechanics,num_user_ratings,average_user_rating,rank,num_mechs
 0,oGVgRSAKwX,Carcassonne,2000,2.0,5.0,Hans im Glück,"['Tile Placement', 'Worker Placement']",548,3.436131386861317,14,2
-1,d7vHFjxM6M,Blokus,2000,2.0,4.0,Mattel Games,"['Area Enclosure', 'Hand Management', 'Tile Placement']",161,3.0496894409937867,221,3
+1,d7vHFjxM6M,Blokus,2000,2.0,4.0,Mattel Games,"['Area Enclosure', 'Hand Management', 'Tile Placement']",162,3.0555555555555536,221,3
 2,uw69CrJFCL,Citadels: Classic,2000,2.0,8.0,Hans im Glück,"['Bluffing', 'Engine Building', 'Social Deduction', 'Variable Player Powers']",133,3.30827067669173,228,4
 4,JyMsRC64I4,Go,2000,2.0,2.0,John N. Hansen Co.,['Area Enclosure'],82,3.329268292682928,375,1
 6,YD2fbRwJdz,Princes of Florence,2000,2.0,5.0,Rio Grande Games,['Tile Placement'],64,3.253385416666667,487,1
@@ -13,7 +13,7 @@
 13,twr6ppVYWg,Hamsterrolle,2000,2.0,4.0,Lion Rampant Imports Ltd,['Partnerships'],21,3.1904761904761907,1188,1
 16,HYS6BFRAJ4,Carolus Magnus,2000,2.0,4.0,Rio Grande Games,"['Dice Rolling', 'Hand Management', 'Modular Board', 'Partnerships']",9,2.888888888888889,9999999,4
 21,0DckWLfICA,Monza,2000,2.0,6.0,HABA,"['Dice Rolling', 'Roll / Spin and Move']",13,2.846153846153846,9999999,2
-22,aOZpiq3nES,Star Wars the Queen's Gambit,2000,2.0,4.0,"Avalon Hill Games, Inc.",['Dice Rolling'],14,3.7142857142857144,9999999,1
+22,aOZpiq3nES,Star Wars the Queen's Gambit,2000,2.0,4.0,"Avalon Hill Games, Inc.",['Dice Rolling'],15,3.7333333333333334,9999999,1
 23,uWfeqpi0Xm,Java,2000,2.0,4.0,,"['Action Point Allowance System', 'Area Control', 'Tile Placement']",14,3.2142857142857144,9999999,3
 26,lc5gLpSzFf,Web of Power,2000,3.0,5.0,Rio Grande Games,"['Area Control', 'Card Drafting', 'Hand Management', 'Network and Route Building']",12,3.5,9999999,4
 27,UXmJW11uqk,Buffy the Vampire Slayer,2000,1.0,6.0,Jasco Games,"['Partnerships', 'Role Playing', 'Roll / Spin and Move', 'Variable Player Powers']",11,3.272727272727273,9999999,4
@@ -21,8 +21,8 @@
 53,UbSLJbg5zg,Gobblet,2000,2.0,2.0,BLUE ORANGE GAMES,"['Pattern Building', 'Pattern Recognition']",11,3.3636363636363638,9999999,2
 55,yg6oRAvB6g,River Dragons,2000,2.0,6.0,Surfin Meeple,"['Action / Movement Programming', 'Point to Point Movement', 'Simultaneous Play']",17,3.176470588235294,9999999,3
 77,0glqVb0SL4,Canasta Caliente,2000,2.0,6.0,Hasbro,['Set Collection'],12,2.9166666666666665,9999999,1
-100,D0OHY8b8Oc,Hive,2001,2.0,2.0,Gen Four Two Games,"['Grid Movement', 'Tile Placement']",196,3.4317803601272883,92,2
-101,dgZDurgbuY,Munchkin,2001,2.0,6.0,Steve Jackson Games,"['Dice Rolling', 'Drafting', 'Hand Management', 'Take That']",246,2.465845065848963,195,4
+100,D0OHY8b8Oc,Hive,2001,2.0,2.0,Gen Four Two Games,"['Grid Movement', 'Tile Placement']",197,3.4346647237814643,92,2
+101,dgZDurgbuY,Munchkin,2001,2.0,6.0,Steve Jackson Games,"['Dice Rolling', 'Drafting', 'Hand Management', 'Take That']",247,2.472056219428522,195,4
 102,SN5429sV0p,Dvonn Board Game,2001,2.0,2.0,Rio Grande Games,['Grid Movement'],32,3.75,737,1
 103,5mPjB6Ap5h,The Werewolves of Miller's Hollow,2001,8.0,18.0,Asmodee,"['Partnerships', 'Player Elimination', 'Role Playing', 'Variable Player Powers', 'Voting']",50,3.0600000000000005,738,5
 104,eC9nXBEyIg,TransAmerica,2001,2.0,6.0,Rio Grande Games,['Network and Route Building'],39,3.102564102564103,883,1
@@ -38,7 +38,7 @@
 129,xViD75B4N1,Starship Catan,2001,2.0,2.0,Mayfair Games,"['Dice Rolling', 'Memory', 'Press Your Luck', 'Trading']",19,3.052631578947368,9999999,4
 152,cnF4ggWa7y,Hisss,2001,2.0,5.0,,"['Pattern Building', 'Tile Placement']",13,2.230769230769231,9999999,2
 200,k7pnwdyDfC,Puerto Rico,2002,2.0,5.0,Rio Grande Games,['Variable Phase Order'],268,3.62138526119403,43,1
-202,AaRXSVtjLn,BANG!,2002,4.0,7.0,dV Giochi,"['Hand Management', 'Partnerships', 'Player Elimination', 'Take That', 'Variable Player Powers']",147,2.7525150905432603,317,5
+202,AaRXSVtjLn,BANG!,2002,4.0,7.0,dV Giochi,"['Hand Management', 'Partnerships', 'Player Elimination', 'Take That', 'Variable Player Powers']",148,2.747430529120671,317,5
 203,QtV8B2Ln9d,Age of Steam,2002,2.0,6.0,Eagle-Gryphon Games,"['Auction', 'Dice Rolling', 'Player Elimination', 'Tile Placement', 'Network and Route Building']",47,3.6074468085106384,454,5
 204,lPmrDkMTBX,Carcassonne: Hunters & Gatherers,2002,2.0,5.0,Rio Grande Games,['Tile Placement'],59,3.3389830508474576,524,1
 205,LR0akBbN8W,Mexica,2002,2.0,4.0,IELLO,"['Action Point Allowance System', 'Area Control', 'Area Enclosure', 'Grid Movement', 'Tile Placement']",36,3.6111111111111107,626,5
@@ -66,14 +66,14 @@
 236,EXAlzkqUto,Man Bites Dog,2002,2.0,6.0,University Games,List could not be pulled.,8,1.875,9999999,1
 238,sq1mpp1xAa,Fist of Dragonstones,2002,3.0,6.0,Days of Wonder,"['Auction', 'Set Collection']",18,2.6111111111111116,9999999,2
 239,FLlUY8HQoI,1313 Dead End Drive - Board Game,2002,2.0,4.0,Hasbro,['Roll / Spin and Move'],7,2.5714285714285716,9999999,1
-252,Jkht28ODg0,Clash of the Gladiators,2002,2.0,5.0,,"['Dice Rolling', 'Player Elimination']",6,2.3333333333333335,9999999,2
-253,YOmw18bdMx,Goldland,2002,2.0,5.0,,"['Hand Management', 'Modular Board', 'Pick-up and Deliver']",8,3.1250000000000004,9999999,3
-256,0VcXz46yU4,CODA The International Code-Breaking Sensation!,2002,2.0,4.0,Winning Moves,['Deduction'],10,2.9,9999999,1
-257,KCxaUMquCo,Scarab Lords,2002,2.0,2.0,Fantasy Flight Games,"['Area Control', 'Deck Building', 'Hand Management']",10,2.8,9999999,3
-270,mYU7jvN7TE,The Game of Life: Star Wars - Jedi's Path,2002,2.0,4.0,Milton Bradley,['Roll / Spin and Move'],6,2.5,9999999,1
-276,qnheLzWlKy,10 Days In Europe Game,2002,2.0,4.0,Out of the Box,"['Hand Management', 'Network and Route Building']",11,3.090909090909091,9999999,2
+253,Jkht28ODg0,Clash of the Gladiators,2002,2.0,5.0,,"['Dice Rolling', 'Player Elimination']",6,2.3333333333333335,9999999,2
+254,YOmw18bdMx,Goldland,2002,2.0,5.0,,"['Hand Management', 'Modular Board', 'Pick-up and Deliver']",8,3.1250000000000004,9999999,3
+257,0VcXz46yU4,CODA The International Code-Breaking Sensation!,2002,2.0,4.0,Winning Moves,['Deduction'],10,2.9,9999999,1
+258,KCxaUMquCo,Scarab Lords,2002,2.0,2.0,Fantasy Flight Games,"['Area Control', 'Deck Building', 'Hand Management']",10,2.8,9999999,3
+271,mYU7jvN7TE,The Game of Life: Star Wars - Jedi's Path,2002,2.0,4.0,Milton Bradley,['Roll / Spin and Move'],6,2.5,9999999,1
+277,qnheLzWlKy,10 Days In Europe Game,2002,2.0,4.0,Out of the Box,"['Hand Management', 'Network and Route Building']",11,3.090909090909091,9999999,2
 300,PDBYoFDnbu,Alhambra,2003,2.0,6.0,Queen Games,"['Card Drafting', 'Hand Management', 'Set Collection', 'Tile Placement']",158,3.215871470301849,188,4
-301,51qnzEoFUi,"Hey, That's My Fish!",2003,2.0,4.0,Fantasy Flight Games,"['Area Enclosure', 'Grid Movement', 'Modular Board']",149,3.0201342281879198,252,3
+301,51qnzEoFUi,"Hey, That's My Fish!",2003,2.0,4.0,Fantasy Flight Games,"['Area Enclosure', 'Grid Movement', 'Modular Board']",150,3.0200000000000005,252,3
 302,VtoOhDHEFA,Coloretto,2003,3.0,5.0,Rio Grande Games,"['Card Drafting', 'Press Your Luck', 'Set Collection']",117,3.1627039627039633,271,3
 304,I8RXkTaNJ4,Yinsh,2003,2.0,2.0,Rio Grande Games,"['Grid Movement', 'Pattern Building']",47,3.6914893617021267,495,2
 305,P6qMdm3GIK,Carcassonne: The Castle,2003,2.0,2.0,Rio Grande,"['Area Enclosure', 'Tile Placement']",53,3.3018867924528306,563,2
@@ -106,7 +106,7 @@
 400,AuBvbISHR6,Ticket To Ride,2004,2.0,5.0,Days of Wonder,"['Drafting', 'Hand Management', 'Set Collection', 'Network and Route Building']",461,3.3937948096658457,18,4
 402,3RVcHxhPEZ,Betrayal at House on the Hill,2004,3.0,6.0,"Avalon Hill Games, Inc.","['Cooperative Play', 'Dice Rolling', 'Player Elimination', 'Traitor']",284,3.0915492957746467,76,4
 403,YixemhFia7,No Thanks!,2004,3.0,7.0,Amigo Spiel,"['Auction', 'Press Your Luck', 'Set Collection']",184,3.2956150399033266,134,3
-404,6jdckjvp5Y,Tsuro,2004,2.0,8.0,Calliope Games,"['Hand Management', 'Player Elimination', 'Tile Placement', 'Network and Route Building']",210,3.018144499178982,151,4
+404,6jdckjvp5Y,Tsuro,2004,2.0,8.0,Calliope Games,"['Hand Management', 'Player Elimination', 'Tile Placement', 'Network and Route Building']",211,3.018058506291878,151,4
 405,XzBSrq35uz,Memoir '44,2004,2.0,8.0,Days of Wonder,"['Area Control', 'Dice Rolling', 'Grid Movement', 'Hand Management', 'Modular Board']",131,3.522761970853574,164,5
 406,3Ayj28wWBH,San Juan,2004,2.0,4.0,Ravensburger,"['Hand Management', 'Set Collection', 'Tableau Building']",157,3.3630573248407654,165,3
 407,0sd39XHoO7,Saboteur,2004,3.0,10.0,Amigo Spiel,"['Hand Management', 'Partnerships', 'Take That', 'Network and Route Building']",134,2.8880597014925367,282,4
@@ -151,13 +151,13 @@
 487,EqQRgIc3DV,Boomtown,2004,3.0,5.0,Face 2 Face,['Dice Rolling'],11,2.9090909090909087,9999999,1
 500,GJ94Cl7cz5,Ticket to Ride: Europe,2005,2.0,5.0,Days of Wonder,"['Card Drafting', 'Hand Management', 'Set Collection', 'Network and Route Building']",291,3.508617029158929,52,4
 501,nRGa6zZTQu,Twilight Struggle,2005,2.0,2.0,Flat River Group,"['Area Control', 'Campaign', 'Dice Rolling', 'Hand Management', 'Simultaneous Play']",188,3.7287234042553186,74,5
-502,WCk1e4pjrp,Shadows Over Camelot,2005,3.0,7.0,Days of Wonder,"['Cooperative Play', 'Dice Rolling', 'Hand Management', 'Hidden Traitor', 'Partnerships', 'Player Elimination', 'Set Collection', 'Variable Player Powers']",153,3.203802733214499,185,8
+502,WCk1e4pjrp,Shadows Over Camelot,2005,3.0,7.0,Days of Wonder,"['Cooperative Play', 'Dice Rolling', 'Hand Management', 'Hidden Traitor', 'Partnerships', 'Player Elimination', 'Set Collection', 'Variable Player Powers']",154,3.2089728453364827,185,8
 503,UVbhOSJZCA,Diamant,2005,3.0,8.0,IELLO,"['Press Your Luck', 'Simultaneous action selection']",146,3.191780821917807,213,2
 504,CFFV7Sik8v,Caylus,2005,2.0,5.0,Rio Grande Games,['Worker Placement'],117,3.5516852120625697,219,1
-505,MORBdhHtdP,Wits & Wagers,2005,3.0,21.0,North Star Games,"['Betting', 'Paper and Pencil']",131,3.2061068702290076,254,2
+505,MORBdhHtdP,Wits & Wagers,2005,3.0,21.0,North Star Games,"['Betting', 'Paper and Pencil']",132,3.2045454545454546,254,2
 506,Bwawckx54U,Glory To Rome,2005,2.0,5.0,Cambridge Games Factory,"['Card Drafting', 'Hand Management', 'Set Collection', 'Tableau Building']",73,3.684931506849315,262,4
 507,54NFDYrC7y,Reef,2005,2.0,4.0,Next Move Games,"['Hand Management', 'Pattern Building']",73,3.487382840663302,298,2
-508,Vqmr65gYYE,Twilight Imperium 3rd Edition,2005,3.0,6.0,Fantasy Flight Games,"['Action Point Allowance System', 'Dice Rolling', 'Modular Board', 'Player Elimination', 'Tile Placement', 'Trading', 'Variable Phase Order', 'Variable Player Powers', 'Voting']",93,3.4193548387096757,316,9
+508,Vqmr65gYYE,Twilight Imperium 3rd Edition,2005,3.0,6.0,Fantasy Flight Games,"['Action Point Allowance System', 'Dice Rolling', 'Modular Board', 'Player Elimination', 'Tile Placement', 'Trading', 'Variable Phase Order', 'Variable Player Powers', 'Voting']",94,3.4255319148936154,316,9
 509,754qbigK4J,Railways of the World,2005,2.0,6.0,Flat River Group,"['Action Point Allowance System', 'Card Drafting', 'Pick-up and Deliver', 'Tile Placement', 'Network and Route Building']",64,3.486979166666667,427,5
 510,klGlWbHJyb,Animal Upon Animal,2005,2.0,4.0,HABA,['Dice Rolling'],63,3.2380952380952377,502,1
 512,R3VH7nQ9eK,Indonesia,2005,2.0,5.0,Splotter Spellen,"['Area Control', 'Auction', 'Pick-up and Deliver', 'Stock Holding']",38,3.657894736842105,597,4
@@ -222,7 +222,7 @@
 618,cFqGPhKwnk,Cleopatra And The Society of Architects,2006,3.0,5.0,Days of Wonder,"['Area Enclosure', 'Card Drafting', 'Dice Rolling', 'Hand Management', 'Set Collection', 'Tile Placement']",30,3.2,984,6
 619,rUevZTeOtr,Arkadia,2006,2.0,4.0,Rio Grande,"['Area Control', 'Set Collection', 'Stock Holding', 'Tile Placement']",26,3.1538461538461537,1124,4
 620,WIcrsXFwnx,Traders of Osaka,2006,2.0,4.0,Z-Man Games,"['Hand Management', 'Set Collection']",23,3.1304347826086953,1135,2
-621,tnXplx9ANT,To Court the King,2006,2.0,5.0,Rio Grande Games,"['Card Drafting', 'Dice Rolling', 'Pattern Building']",22,2.9545454545454546,1255,3
+621,tnXplx9ANT,To Court the King,2006,2.0,5.0,Rio Grande Games,"['Card Drafting', 'Dice Rolling', 'Pattern Building']",23,2.956521739130435,1255,3
 622,h4BF9Ki2My,Here I Stand,2006,3.0,6.0,GMT Games,"['Dice Rolling', 'Hand Management', 'Point to Point Movement', 'Variable Player Powers']",12,3.3333333333333335,9999999,4
 624,SAxrS9BXL8,Drakon,2006,2.0,6.0,Fantasy Flight Games,"['Grid Movement', 'Modular Board', 'Tile Placement', 'Variable Player Powers', 'Network and Route Building']",17,3.0,9999999,5
 626,P2WwnEFQWz,Mykerinos,2006,2.0,4.0,Rio Grande,"['Area Control', 'Hand Management', 'Modular Board']",16,3.125,9999999,3
@@ -246,16 +246,16 @@
 670,bOsXCQKXKj,Munchkin Impossible,2006,3.0,6.0,Renegade Game Studios,"['Dice Rolling', 'Trading', 'Variable Player Powers']",8,3.0,9999999,3
 687,pZysBllGwD,El Grande Decennial Edition,2006,2.0,5.0,Rio Grande Games,"['Area Control', 'Auction', 'Hand Management', 'Secret Unit Deployment', 'Simultaneous Play', 'Variable Phase Order', 'Variable Player Powers']",17,3.88235294117647,9999999,7
 688,EutyNucKLj,Fiji,2006,2.0,5.0,Rio Grande,"['Auction', 'Set Collection']",7,2.714285714285714,9999999,2
-700,E4ELA8cG85,Race for the Galaxy,2007,2.0,4.0,Rio Grande Games,"['Engine Building', 'Hand Management', 'Simultaneous Play', 'Tableau Building']",274,3.706029611643714,20,4
+700,E4ELA8cG85,Race for the Galaxy,2007,2.0,4.0,Rio Grande Games,"['Engine Building', 'Hand Management', 'Simultaneous Play', 'Tableau Building']",275,3.703462231237737,20,4
 701,A38ipJ48QE,Galaxy Trucker,2007,2.0,4.0,Czech Games Edition,List could not be pulled.,197,3.422647403358064,94,5
-702,a17hwVmwdO,Biblios,2007,2.0,4.0,IELLO,"['Auction', 'Card Drafting', 'Hand Management', 'Press Your Luck', 'Set Collection']",175,3.3153896103896123,138,5
+702,a17hwVmwdO,Biblios,2007,2.0,4.0,IELLO,"['Auction', 'Card Drafting', 'Hand Management', 'Press Your Luck', 'Set Collection']",176,3.3192794421487624,138,5
 703,sXuOW0UGlh,Brass: Lancashire,2007,2.0,4.0,Roxley,"['Hand Management', 'Network and Route Building']",121,3.7685950413223144,144,2
 704,DxWHvojIM1,Agricola,2007,1.0,5.0,Lookout Games,"['Card Drafting', 'Hand Management', 'Worker Placement']",132,3.818181818181818,146,3
-705,i2Z60mRM0G,Jamaica,2007,2.0,6.0,GameWorks SàRL,"['Dice Rolling', 'Hand Management', 'Simultaneous Play']",144,3.2282421740626073,196,3
+705,i2Z60mRM0G,Jamaica,2007,2.0,6.0,GameWorks SàRL,"['Dice Rolling', 'Hand Management', 'Simultaneous Play']",145,3.226668090103555,196,3
 706,UErVHNWdNr,Kingsburg,2007,2.0,5.0,Fantasy Flight Publishing,"['Dice Rolling', 'Worker Placement', 'Worker Placement with Dice Workers']",116,3.2425442684063377,287,3
 707,GGwRDABj7L,Ticket to Ride: Nordic Countries,2007,2.0,3.0,Days of Wonder,"['Card Drafting', 'Hand Management', 'Network and Route Building', 'Set Collection']",70,3.528571428571428,389,4
 708,vU3CiiniIT,Last Night on Earth: The Zombie Game,2007,2.0,6.0,Flying Frog Productions,"['Dice Rolling', 'Hand Management', 'Modular Board', 'Partnerships', 'Roll / Spin and Move', 'Variable Player Powers']",84,3.035714285714285,458,6
-709,x9Fd0eOdGE,Zooloretto,2007,2.0,5.0,ABACUSSPIELE,"['Set Collection', 'Tile Placement']",75,3.092916666666666,462,2
+709,x9Fd0eOdGE,Zooloretto,2007,2.0,5.0,ABACUSSPIELE,"['Set Collection', 'Tile Placement']",76,3.0916940789473677,462,2
 710,uAoaqPhZRT,Notre Dame,2007,2.0,5.0,Ravensburger,"['Area Control', 'Card Drafting', 'Point to Point Movement']",69,3.2635265700483087,474,3
 711,StnENRvzjA,Parade,2007,2.0,6.0,Z-Man Games,"['Hand Management', 'Set Collection']",59,3.3426676492262346,500,2
 712,wa7tVs4Di1,Chicago Express,2007,2.0,6.0,Queen Games,"['Auction', 'Network and Route Building']",56,3.392857142857143,505,2
@@ -268,7 +268,7 @@
 719,QAvB1VYzwn,Age of Empires III Age of Discovery,2007,2.0,5.0,Tropical Games,"['Set Collection', 'Worker Placement']",39,3.4615384615384612,744,2
 720,DuCfaVOsh7,Tammany Hall,2007,3.0,5.0,IDW Games,"['Area Control', 'Auction', 'Variable Player Powers']",33,3.3333333333333335,790,3
 721,ZWyflOVOmp,Cuba,2007,2.0,5.0,Rio Grande,"['Auction', 'Hand Management', 'Variable Phase Order', 'Voting']",47,3.106382978723404,801,4
-722,J1ffKnm5q9,The Red Dragon Inn,2007,2.0,4.0,Slugfest Games,"['Betting', 'Hand Management', 'Player Elimination', 'Take That', 'Variable Player Powers']",58,2.568965517241379,813,5
+722,J1ffKnm5q9,The Red Dragon Inn,2007,2.0,4.0,Slugfest Games,"['Betting', 'Hand Management', 'Player Elimination', 'Take That', 'Variable Player Powers']",59,2.5762711864406778,813,5
 724,W7D9G6rFzg,Cutthroat Caverns,2007,3.0,6.0,IELLO,"['Hand Management', 'Player Elimination', 'Role Playing', 'Take That']",38,2.9473684210526305,925,4
 725,tmvXEOgJVz,Zombie Fluxx,2007,2.0,6.0,Looney Labs,"['Hand Management', 'Set Collection', 'Take That']",61,2.360655737704918,936,3
 726,KihYNNM5NS,Caylus Magna Carta,2007,2.0,4.0,Rio Grande,"['Hand Management', 'Worker Placement']",33,3.0606060606060606,944,2
@@ -310,18 +310,18 @@
 796,oQsogy1pvs,Duel in the Dark,2007,1.0,2.0,Publisher Services Inc (PSI),"['Action / Movement Programming', 'Secret Unit Deployment']",6,3.0,9999999,2
 798,LUzHaMvzmX,Micro Mutants: Evolution,2007,2.0,4.0,Fantasy Flight Games,"['Dice Rolling', 'Player Elimination', 'Variable Player Powers']",6,3.0,9999999,3
 799,nTCg2OIgQt,Before the Wind,2007,2.0,4.0,Mayfair Games,"['Auction', 'Card Drafting', 'Hand Management', 'Set Collection']",8,3.1250000000000004,9999999,4
-800,6FmFeux5xH,Pandemic,2008,2.0,4.0,"Z-Man Games, Inc.","['Action Point Allowance System', 'Cooperative Play', 'Hand Management', 'Point to Point Movement', 'Set Collection', 'Trading', 'Variable Player Powers']",609,3.505517285445005,9,7
-801,H3yXWu5No0,Dixit,2008,3.0,6.0,Libellud,"['Simultaneous Play', 'Storytelling', 'Voting']",309,3.272919351605235,58,3
-802,FVKaz7JhBO,Cosmic Encounter,2008,3.0,5.0,Fantasy Flight Games,"['Auction', 'Hand Management', 'Simultaneous Play', 'Take That']",241,3.515760355244957,62,4
-803,BUDJJb08Uj,Stone Age,2008,2.0,5.0,Z-Man Games,"['Dice Rolling', 'Set Collection', 'Worker Placement']",232,3.470833333333335,67,3
+800,6FmFeux5xH,Pandemic,2008,2.0,4.0,"Z-Man Games, Inc.","['Action Point Allowance System', 'Cooperative Play', 'Hand Management', 'Point to Point Movement', 'Set Collection', 'Trading', 'Variable Player Powers']",610,3.506327912845915,9,7
+801,H3yXWu5No0,Dixit,2008,3.0,6.0,Libellud,"['Simultaneous Play', 'Storytelling', 'Voting']",310,3.2752647730516697,58,3
+802,FVKaz7JhBO,Cosmic Encounter,2008,3.0,5.0,Fantasy Flight Games,"['Auction', 'Hand Management', 'Simultaneous Play', 'Take That']",242,3.513629114107581,62,4
+803,BUDJJb08Uj,Stone Age,2008,2.0,5.0,Z-Man Games,"['Dice Rolling', 'Set Collection', 'Worker Placement']",233,3.4688125894134494,67,3
 804,wU5YAJMv79,Le Havre,2008,1.0,5.0,Lookout Games,['Worker Placement'],150,3.696519902861367,105,1
-805,YIBcOZqGkI,Battlestar Galactica: The Board Game,2008,3.0,6.0,Fantasy Flight Games,"['Cooperative Play', 'Dice Rolling', 'Hand Management', 'Hidden Traitor']",176,3.5086548625792813,114,4
-806,N5RiPUD2dp,Pandemic: On the Brink,2008,2.0,5.0,Z-Man Games,"['Action Point Allowance System', 'Cooperative Play', 'Hand Management', 'Partnerships', 'Point to Point Movement', 'Secret Unit Deployment', 'Set Collection', 'Trading', 'Variable Player Powers']",106,3.732448442299254,187,9
+805,YIBcOZqGkI,Battlestar Galactica: The Board Game,2008,3.0,6.0,Fantasy Flight Games,"['Cooperative Play', 'Dice Rolling', 'Hand Management', 'Hidden Traitor']",177,3.511430823807647,114,4
+806,N5RiPUD2dp,Pandemic: On the Brink,2008,2.0,5.0,Z-Man Games,"['Action Point Allowance System', 'Cooperative Play', 'Hand Management', 'Partnerships', 'Point to Point Movement', 'Secret Unit Deployment', 'Set Collection', 'Trading', 'Variable Player Powers']",107,3.7349489241469245,187,9
 807,cjyxU3TeXF,Ghost Stories,2008,1.0,4.0,Repos Production,"['Dice Rolling', 'Grid Movement', 'Modular Board', 'Variable Player Powers', 'Cooperative Play']",119,3.2773109243697482,232,5
-808,OaNtyb98cm,Formula D,2008,2.0,10.0,Asmodee,"['Dice Movement', 'Dice Rolling', 'Grid Movement', 'Player Elimination', 'Press Your Luck', 'Race', 'Simulation']",126,3.1190476190476177,261,7
-809,uVD7OzRUNZ,Space Alert,2008,1.0,5.0,Czech Games Edition,"['Area Control', 'Hand Management', 'Cooperative Play']",92,3.2173913043478253,293,3
+808,OaNtyb98cm,Formula D,2008,2.0,10.0,Asmodee,"['Dice Movement', 'Dice Rolling', 'Grid Movement', 'Player Elimination', 'Press Your Luck', 'Race', 'Simulation']",127,3.1181102362204713,261,7
+809,uVD7OzRUNZ,Space Alert,2008,1.0,5.0,Czech Games Edition,"['Area Control', 'Hand Management', 'Cooperative Play']",93,3.2043010752688166,293,3
 810,85oBUmnHRW,Race for the Galaxy: The Gathering Storm,2008,1.0,5.0,Rio Grande Games,"['Hand Management', 'Simultaneous action selection', 'Variable Phase Order', 'Variable Player Powers']",62,3.774193548387097,350,4
-811,Oyfx6iH2n4,Roll Through the Ages: The Bronze Age,2008,1.0,4.0,Eagle-Gryphon Games,"['Dice Rolling', 'Paper and Pencil']",74,3.1756756756756763,414,2
+811,Oyfx6iH2n4,Roll Through the Ages: The Bronze Age,2008,1.0,4.0,Eagle-Gryphon Games,"['Dice Rolling', 'Paper and Pencil']",75,3.173333333333334,414,2
 812,levMwXaCM6,Monopoly Deal Card Game,2008,2.0,5.0,Hasbro,List could not be pulled.,85,2.8235294117647056,466,4
 813,v8NDrj9P02,Snow Tails,2008,2.0,5.0,Renegade Game Studios,"['Hand Management', 'Modular Board', 'Player Elimination']",45,3.3333333333333335,656,3
 814,Qqjo8aF5fj,The Climbers,2008,2.0,5.0,Capstone Games,"['Modular Board', 'Tile Placement']",42,3.166666666666668,727,2
@@ -362,25 +362,25 @@
 877,whC6S4JBW4,Aquaretto,2008,2.0,5.0,Flat River Group,"['Set Collection', 'Tile Placement']",11,3.181818181818182,9999999,2
 879,bg6kl4OX5S,The Napoleonic Wars: Second Edition,2008,2.0,5.0,GMT Games,"['Dice Rolling', 'Point to Point Movement']",6,3.166666666666667,9999999,2
 881,vm4bwnbiOf,Monsterpocalypse Collectible Miniature Game Starter Set,2008,2.0,4.0,Privateer Press,"['Dice Rolling', 'Variable Phase Order', 'Variable Player Powers']",6,3.1666666666666665,9999999,3
-887,qj4Lh23OUs,Galactic Emperor,2008,3.0,6.0,Cross-Cut Games,"['Dice Rolling', 'Modular Board', 'Tile Placement', 'Variable Phase Order']",6,2.5,9999999,4
-888,lZ5bFnqeaW,Mow,2008,2.0,10.0,Publisher Services Inc (PSI),['Hand Management'],10,2.8,9999999,1
-890,bijGgaxhzG,Munchkin Booty,2008,3.0,3.0,Steve Jackson Games,"['Dice Rolling', 'Trading', 'Variable Player Powers']",13,2.615384615384616,9999999,3
-891,r8tXoD9KOH,The Red Dragon Inn 2,2008,2.0,4.0,Pegasus Spiele,"['Hand Management', 'Player Elimination', 'Variable Player Powers']",12,3.0,9999999,3
-893,EMSJAs2CD0,Ticket To Ride: The Card Game,2008,2.0,4.0,Days of Wonder,"['Hand Management', 'Memory', 'Set Collection']",14,2.7857142857142856,9999999,3
-894,gz00w3LPuq,Tinners' Trail,2008,3.0,4.0,JKLM Games,"['Action Point Allowance System', 'Dice Rolling', 'Time Track']",19,3.1578947368421053,9999999,3
-895,ctQJ06eAS8,Princes of Machu Picchu,2008,2.0,5.0,Rio Grande Games,"['Area Movement', 'Set Collection', 'Worker Placement']",8,3.125,9999999,3
-896,NzdT1rckO0,2 de Mayo,2008,2.0,2.0,Gryphon Games,"['Area Movement', 'Hand Management', 'Paper and Pencil', 'Simulation', 'Simultaneous Play']",8,3.375,9999999,5
-900,eh0GTvESIX,Jaipur,2009,2.0,2.0,Space Cowboys,"['Drafting', 'Hand Management', 'Set Collection']",353,3.5504478823805456,26,3
-901,8UmzC1ZGGE,Small World,2009,2.0,5.0,Days of Wonder,"['Area Control', 'Dice Rolling']",366,3.2930439573506103,38,2
-902,YL5DYnG28Y,The Resistance,2009,5.0,10.0,Indie Boards & Cards,"['Simultaneous Play', 'Voting']",281,3.2860345609273987,66,2
+888,qj4Lh23OUs,Galactic Emperor,2008,3.0,6.0,Cross-Cut Games,"['Dice Rolling', 'Modular Board', 'Tile Placement', 'Variable Phase Order']",6,2.5,9999999,4
+889,lZ5bFnqeaW,Mow,2008,2.0,10.0,Publisher Services Inc (PSI),['Hand Management'],10,2.8,9999999,1
+891,bijGgaxhzG,Munchkin Booty,2008,3.0,3.0,Steve Jackson Games,"['Dice Rolling', 'Trading', 'Variable Player Powers']",13,2.615384615384616,9999999,3
+892,r8tXoD9KOH,The Red Dragon Inn 2,2008,2.0,4.0,Pegasus Spiele,"['Hand Management', 'Player Elimination', 'Variable Player Powers']",12,3.0,9999999,3
+894,EMSJAs2CD0,Ticket To Ride: The Card Game,2008,2.0,4.0,Days of Wonder,"['Hand Management', 'Memory', 'Set Collection']",14,2.7857142857142856,9999999,3
+895,gz00w3LPuq,Tinners' Trail,2008,3.0,4.0,JKLM Games,"['Action Point Allowance System', 'Dice Rolling', 'Time Track']",19,3.1578947368421053,9999999,3
+896,ctQJ06eAS8,Princes of Machu Picchu,2008,2.0,5.0,Rio Grande Games,"['Area Movement', 'Set Collection', 'Worker Placement']",8,3.125,9999999,3
+897,NzdT1rckO0,2 de Mayo,2008,2.0,2.0,Gryphon Games,"['Area Movement', 'Hand Management', 'Paper and Pencil', 'Simulation', 'Simultaneous Play']",8,3.375,9999999,5
+900,eh0GTvESIX,Jaipur,2009,2.0,2.0,Space Cowboys,"['Drafting', 'Hand Management', 'Set Collection']",354,3.5488929448596966,26,3
+901,8UmzC1ZGGE,Small World,2009,2.0,5.0,Days of Wonder,"['Area Control', 'Dice Rolling']",367,3.294970268093524,38,2
+902,YL5DYnG28Y,The Resistance,2009,5.0,10.0,Indie Boards & Cards,"['Simultaneous Play', 'Voting']",282,3.281474154682975,66,2
 903,cyscZjjlse,Telestrations,2009,4.0,8.0,USAopoly,List could not be pulled.,126,3.332879818594104,247,5
 904,eQcLOlfHSl,Cyclades,2009,2.0,5.0,Matagot,"['Area Control', 'Area Movement', 'Auction', 'Card Drafting', 'Dice Rolling', 'Set Collection']",102,3.433652530779753,250,6
 905,H2QW6jUtqe,Dominion: Seaside,2009,2.0,4.0,Rio Grande Games,"['Card Drafting', 'Deck Building', 'Hand Management']",88,3.7921122994652414,256,3
 906,pHwEkloleb,Hansa Teutonica,2009,2.0,5.0,Argentum Verlag,"['Action Point Allowance System', 'Area Control', 'Network and Route Building']",86,3.6693023255813957,264,3
-907,Aj03KjGY7z,Castle Panic,2009,1.0,6.0,Fireside Games,"['Cooperative Play', 'Dice Rolling', 'Hand Management', 'Trading']",129,2.9911406423034324,291,4
+907,Aj03KjGY7z,Castle Panic,2009,1.0,6.0,Fireside Games,"['Cooperative Play', 'Dice Rolling', 'Hand Management', 'Trading']",130,2.9912087912087904,291,4
 908,dFC1lnGINr,Cards Against Humanity,2009,4.0,30.0,Cards Against Humanity LLC.,"['Hand Management', 'Simultaneous Play']",201,2.333207380817431,304,2
 909,xp7ukp16VO,At the Gates of Loyang,2009,1.0,4.0,Tasty Minstrel Games,"['Card Drafting', 'Set Collection']",72,3.6210593033509695,334,2
-910,3KNI7IpaI8,Tales of the Arabian Nights,2009,1.0,6.0,"Z-Man Games, Inc.","['Dice Rolling', 'Point to Point Movement', 'Role Playing', 'Storytelling', 'Variable Player Powers']",85,3.329411764705882,339,5
+910,3KNI7IpaI8,Tales of the Arabian Nights,2009,1.0,6.0,"Z-Man Games, Inc.","['Dice Rolling', 'Point to Point Movement', 'Role Playing', 'Storytelling', 'Variable Player Powers']",86,3.337209302325581,339,5
 911,fQ1CmHsY5p,Chaos in the Old World,2009,3.0,4.0,Fantasy Flight Games,"['Action Point Allowance System', 'Area Majority/ Influence', 'Dice Rolling', 'Take That', 'Variable Player Powers']",69,3.614492753623188,371,5
 912,zOWVRE0eKL,Spot It!,2009,2.0,8.0,Asmodee Editions,['Pattern Recognition'],91,2.963650032060496,424,1
 913,XZ1Wb2aYWr,Steam,2009,3.0,5.0,Mayfair Games,"['Auction', 'Pick-up and Deliver', 'Tile Placement', 'Network and Route Building']",65,3.4205128205128204,452,4
@@ -399,7 +399,7 @@
 928,ad3gef6WNz,Automobile,2009,2.0,2.0,Distribution Solutions LLC,['Variable Player Powers'],28,3.357142857142857,1004,1
 929,bvDlG6yBuU,Power Grid: Factory Manager,2009,2.0,5.0,2F-Spiele,['Auction'],34,3.0294117647058822,1034,1
 930,Nu3BBWFLYG,My First Carcassonne,2009,2.0,4.0,Z-Man Games,"['Area Enclosure', 'Modular Board', 'Tile Placement']",22,3.863636363636364,1045,3
-931,sfWXZ9YuOj,The Adventurers: The Temple of Chac,2009,2.0,6.0,AEG,"['Action Point Allowance System', 'Dice Rolling', 'Grid Movement', 'Memory', 'Press Your Luck', 'Variable Player Powers']",32,3.0625000000000004,1052,6
+931,sfWXZ9YuOj,The Adventurers: The Temple of Chac,2009,2.0,6.0,AEG,"['Action Point Allowance System', 'Dice Rolling', 'Grid Movement', 'Memory', 'Press Your Luck', 'Variable Player Powers']",33,3.060606060606061,1052,6
 932,A09EbckzmP,Egizia,2009,2.0,4.0,Flat River Group,"['Drafting', 'Worker Placement', 'Time Track']",28,3.2857142857142865,1071,3
 933,TzFWw92gXE,Ad Astra,2009,3.0,5.0,Fantasy Flight Games,"['Action / Movement Programming', 'Simultaneous Play', 'Trading', 'Variable Phase Order']",27,3.148148148148148,1119,4
 935,auBotj6G26,Word on the Street,2009,2.0,10.0,Out of the Box,['Partnerships'],22,3.136363636363636,1208,1
@@ -426,18 +426,18 @@
 978,g4wvQsvgNr,Ugg-Tect,2009,2.0,8.0,Fantasy Flight Publishing,"['Acting', 'Partnerships', 'Pattern Building', 'Tile Placement']",11,3.0909090909090913,9999999,4
 982,02PVTOKqhe,Poo,2009,2.0,2.0,Publisher Services Inc (PSI),"['Hand Management', 'Player Elimination', 'Take That']",18,1.8333333333333333,9999999,3
 983,qP5AHvFIsU,Chronicle Card Game,2009,3.0,6.0,Publisher Services Inc (PSI),"['Set Collection', 'Trick-taking']",12,3.1944444444444446,9999999,2
-986,QSdFB17OHA,Campaign Manager 2008,2009,2.0,2.0,Publisher Services Inc (PSI),"['Area Control', 'Card Drafting', 'Dice Rolling', 'Hand Management', 'Simulation']",20,3.0999999999999996,9999999,5
+986,QSdFB17OHA,Campaign Manager 2008,2009,2.0,2.0,Publisher Services Inc (PSI),"['Area Control', 'Card Drafting', 'Dice Rolling', 'Hand Management', 'Simulation']",21,3.095238095238095,9999999,5
 987,nLAO9X3AlV,Dungeon Twister 2 Prison,2009,1.0,2.0,Flat River Group,"['Action Point Allowance System', 'Grid Movement', 'Hand Management', 'Modular Board', 'Secret Unit Deployment', 'Tile Placement', 'Variable Player Powers']",9,3.2222222222222223,9999999,7
 989,KERYjgHf45,Colonia,2009,3.0,6.0,Queen Games,"['Auction', 'Set Collection', 'Voting', 'Worker Placement']",9,3.555555555555556,9999999,4
 990,gPu1mXwtQH,Kuhhandel Master,2009,2.0,6.0,Ravensburger Spieleverlag GmbH,"['Auction', 'Set Collection', 'Simultaneous Play']",6,3.0,9999999,3
 996,huFnt97lSJ,Are You the Traitor? Card Game,2009,4.0,10.0,Looney Labs,"['Partnerships', 'Role Playing', 'Variable Player Powers']",6,2.5,9999999,3
-1000,OF145SrX44,7 Wonders,2010,2.0,7.0,Repos Production,"['Drafting', 'Hand Management', 'Set Collection', 'Tableau Building']",521,3.5362626816561584,11,4
-1001,4rn2FX1Eon,Forbidden Island,2010,2.0,4.0,Gamewright,"['Cooperative Play', 'Grid Movement', 'Hand Management', 'Set Collection']",364,3.1538461538461493,42,4
-1002,fGZawn3ipZ,Hanabi,2010,2.0,5.0,ABACUSSPIELE,"['Hand Management', 'Memory', 'Set Collection', 'Cooperative Play']",314,3.143499437991757,64,4
+1000,OF145SrX44,7 Wonders,2010,2.0,7.0,Repos Production,"['Drafting', 'Hand Management', 'Set Collection', 'Tableau Building']",522,3.539066776135744,11,4
+1001,4rn2FX1Eon,Forbidden Island,2010,2.0,4.0,Gamewright,"['Cooperative Play', 'Grid Movement', 'Hand Management', 'Set Collection']",365,3.1561643835616393,42,4
+1002,fGZawn3ipZ,Hanabi,2010,2.0,5.0,ABACUSSPIELE,"['Hand Management', 'Memory', 'Set Collection', 'Cooperative Play']",315,3.1462184873949575,64,4
 1003,LDM4TpseTi,Troyes,2010,2.0,4.0,Pearl Games,"['Area Control', 'Dice Rolling', 'Worker Placement', 'Worker Placement with Dice Workers']",131,3.6777981929422454,126,4
-1004,a9DddWJ66a,Innovation,2010,2.0,4.0,Asmadi Games,"['Hand Management', 'Variable Phase Order']",103,4.048543689320387,172,2
-1005,XRp8KrEcdC,Hive Pocket,2010,2.0,2.0,Gen Four Two Games,"['Grid Movement', 'Tile Placement']",123,3.560975609756097,175,2
-1006,ZdHlXy4uxe,Dominant Species,2010,2.0,6.0,GMT Games,"['Area Control', 'Drafting', 'Grid Movement', 'Tile Placement', 'Worker Placement']",110,3.6727272727272733,179,5
+1004,a9DddWJ66a,Innovation,2010,2.0,4.0,Asmadi Games,"['Hand Management', 'Variable Phase Order']",104,4.048076923076922,172,2
+1005,XRp8KrEcdC,Hive Pocket,2010,2.0,2.0,Gen Four Two Games,"['Grid Movement', 'Tile Placement']",124,3.5645161290322576,175,2
+1006,ZdHlXy4uxe,Dominant Species,2010,2.0,6.0,GMT Games,"['Area Control', 'Drafting', 'Grid Movement', 'Tile Placement', 'Worker Placement']",111,3.6756756756756763,179,5
 1007,cODAEDHx5x,Alien Frontiers,2010,2.0,4.0,Game Salute,"['Area Control', 'Card Drafting', 'Dice Rolling', 'Worker Placement', 'Worker Placement with Dice Workers']",113,3.4907964601769925,227,5
 1008,vOaFLLUzWg,Dominion: Prosperity,2010,2.0,4.0,Rio Grande Games,"['Card Drafting', 'Deck Building', 'Hand Management']",89,3.839185393258426,255,3
 1009,KMSrzJe2U1,Ascension: Deckbuilding Game,2010,1.0,4.0,Stone Blade Entertainment,"['Card Drafting', 'Deck Building', 'Hand Management']",105,3.123636363636363,311,3
@@ -451,7 +451,7 @@
 1017,7GFvkQt0up,Mr. Jack Pocket,2010,2.0,2.0,Asmodee Editions,['Modular Board'],68,2.9705882352941178,559,1
 1018,367FfYdpIJ,Navegador,2010,2.0,5.0,PD-Verlag,"['Area Movement', 'Rondel']",47,3.4795417348608844,570,2
 1019,2nIK13bbh2,Sid Meier's Civilization: The Board Game,2010,2.0,4.0,Fantasy Flight Games,"['Grid Movement', 'Modular Board', 'Rock-Paper-Scissors', 'Trading']",39,3.487179487179487,587,4
-1020,g0J496TM5k,Escape From the Aliens in Outer Space,2010,2.0,8.0,Cranio Creations,"['Grid Movement', 'Partnerships', 'Secret Unit Deployment', 'Variable Player Powers']",49,3.1632653061224487,596,4
+1020,g0J496TM5k,Escape From the Aliens in Outer Space,2010,2.0,8.0,Cranio Creations,"['Grid Movement', 'Partnerships', 'Secret Unit Deployment', 'Variable Player Powers']",50,3.1599999999999997,596,4
 1022,nlnpG2WRE9,K2,2010,1.0,5.0,Rebel.pl Publishing,"['Hand Management', 'Player Elimination', 'Point to Point Movement', 'Simultaneous Play']",43,3.4186046511627906,655,4
 1023,BFevOHx7Pv,Dungeons & Dragons: Castle Ravenloft,2010,1.0,5.0,Wizards of the Coast,"['Cooperative Play', 'Dice Rolling', 'Grid Movement', 'Modular Board', 'Role Playing', 'Variable Player Powers']",47,3.234042553191489,667,6
 1025,uFe3mWgIn5,Haggis,2010,2.0,3.0,Indie Boards and Cards,"['Betting', 'Hand Management', 'Trick-taking']",36,3.25,802,3
@@ -471,7 +471,7 @@
 1039,RX8wBnMdhY,Nuns on the Run,2010,2.0,8.0,Mayfair Games,"['Dice Rolling', 'Paper and Pencil', 'Pick-up and Deliver', 'Point to Point Movement', 'Secret Unit Deployment', 'Variable Player Powers']",28,2.9642857142857135,1127,6
 1041,1cNUs3HOhJ,Mystery Express,2010,3.0,5.0,Days of Wonder,"['Action Point Allowance System', 'Hand Management', 'Memory', 'Trading', 'Variable Player Powers']",21,3.1428571428571423,1233,5
 1042,CoaIbOqCKC,Dragonheart,2010,2.0,2.0,Fantasy Flight Publishing,['Hand Management'],23,3.0,1245,1
-1043,cjfcCJgaYJ,51st State,2010,2.0,4.0,Flat River Group,"['Card Drafting', 'Hand Management', 'Variable Player Powers']",21,2.952380952380953,1248,3
+1043,cjfcCJgaYJ,51st State,2010,2.0,4.0,Flat River Group,"['Card Drafting', 'Hand Management', 'Variable Player Powers']",22,3.0000000000000004,1248,3
 1044,f5AHZDQ72M,1817,2010,3.0,7.0,,"['Auction', 'Stock Holding', 'Tile Placement', 'Network and Route Building']",6,3.833333333333333,9999999,4
 1045,VdICjRuFd6,High Frontier Expansion,2010,1.0,5.0,Sierra Madre Games,"['Dice Rolling', 'Hand Management', 'Pick-up and Deliver', 'Point to Point Movement', 'Simulation', 'Variable Player Powers']",6,3.1666666666666665,9999999,6
 1046,0c8Sj9iDmb,BattleCON: War of Indines,2010,2.0,2.0,Level 99 Games,"['Hand Management', 'Rock-Paper-Scissors', 'Simultaneous Play', 'Variable Player Powers']",14,3.571428571428571,9999999,4
@@ -496,41 +496,41 @@
 1092,uOEGfLoiSK,Malta,2010,2.0,6.0,Z-Man Games,"['Hand Management', 'Modular Board', 'Player Elimination']",6,2.0,9999999,3
 1098,lCu5OoUYRK,Resident Evil Resident Evil Deck Building Game,2010,1.0,4.0,Bandai,"['Card Drafting', 'Variable Player Powers']",13,3.076923076923077,9999999,2
 1099,Awaxx5xKNk,Reverse Charades,2010,6.0,99.0,Retro Play,['Acting'],11,2.7575757575757582,9999999,1
-1100,VNBC6yq1WO,The Castles of Burgundy,2011,2.0,4.0,Ravensburger,List could not be pulled.,359,3.8503000890216255,15,5
-1101,Y2WacykMm5,King of Tokyo,2011,2.0,6.0,IELLO,"['Area Control', 'Dice Rolling', 'Drafting', 'Player Elimination']",427,3.1950427231450287,29,4
-1102,wrEoWdWxVq,Takenoko,2011,2.0,4.0,Matagot,"['Dice Rolling', 'Grid Movement', 'Network and Route Building', 'Set Collection', 'Tile Placement']",276,3.319609134826528,65,5
+1100,VNBC6yq1WO,The Castles of Burgundy,2011,2.0,4.0,Ravensburger,List could not be pulled.,360,3.8507159221076765,15,5
+1101,Y2WacykMm5,King of Tokyo,2011,2.0,6.0,IELLO,"['Area Control', 'Dice Rolling', 'Drafting', 'Player Elimination']",428,3.1969234644460918,29,4
+1102,wrEoWdWxVq,Takenoko,2011,2.0,4.0,Matagot,"['Dice Rolling', 'Grid Movement', 'Network and Route Building', 'Set Collection', 'Tile Placement']",277,3.3220654195383457,65,5
 1103,exdy1Z2bSC,Mage Knight,2011,1.0,4.0,WizKids,"['Cooperative Play', 'Deck Building', 'Dice Rolling', 'Drafting', 'Grid Movement', 'Hand Management', 'Modular Board', 'Tile Placement']",160,3.706781914893619,77,8
 1104,K92cryrFW5,Skull,2011,3.0,6.0,Asmodee Editions,"['Auction', 'Hand Management', 'Player Elimination']",178,3.4382022471910094,84,3
-1105,zzISbkSWvd,Friday,2011,1.0,1.0,Rio Grande Games,"['Deck Building', 'Hand Management']",172,3.210444352159469,129,2
+1105,zzISbkSWvd,Friday,2011,1.0,1.0,Rio Grande Games,"['Deck Building', 'Hand Management']",174,3.2252668308702797,129,2
 1106,7o1BvaDKoO,Eclipse,2011,2.0,6.0,Asmodee Editions,"['Area Control', 'Dice Rolling', 'Grid Movement', 'Tile Placement']",142,3.669014084507042,135,4
-1107,CqocZK7pu6,Flash Point: Fire Rescue,2011,1.0,6.0,Publisher Services Inc (PSI),"['Action Point Allowance System', 'Dice Building', 'Grid Movement', 'Pick-up and Deliver', 'Simulation', 'Variable Player Powers', 'Cooperative Play']",168,3.3154761904761907,140,7
+1107,CqocZK7pu6,Flash Point: Fire Rescue,2011,1.0,6.0,Publisher Services Inc (PSI),"['Action Point Allowance System', 'Dice Building', 'Grid Movement', 'Pick-up and Deliver', 'Simulation', 'Variable Player Powers', 'Cooperative Play']",169,3.319526627218935,140,7
 1108,z2GeV6FSRZ,Trajan,2011,2.0,4.0,HUCH! and Friends,"['Area Movement', 'Drafting', 'Hand Management', 'Set Collection']",113,3.64305331531453,170,4
 1109,ZF9FOLsqys,The Lord of the Rings: The Card Game,2011,1.0,4.0,Fantasy Flight Publishing,"['Cooperative Play', 'Deck Building', 'Engine Building', 'Hand Management', 'Variable Player Powers']",129,3.4263565891472862,174,5
 1110,TtPHSNukZB,Village,2011,2.0,4.0,eggertspiele,['Worker Placement'],132,3.4332514332514323,181,1
 1111,5e5qeOvkp3,Elder Sign,2011,1.0,8.0,Fantasy Flight Games,"['Cooperative Play', 'Dice Rolling', 'Modular Board', 'Variable Player Powers']",163,3.1165644171779148,193,4
 1112,LZM8VP9UpT,A Game of Thrones: The Board Game Second Edition,2011,3.0,6.0,Fantasy Flight Games,"['Area Control', 'Area Movement', 'Auction', 'Hand Management', 'Partnerships', 'Variable Phase Order', 'Variable Player Powers', 'Simultaneous action selection']",123,3.4240650406504063,203,8
 1113,vPUTmVPc1E,Kingdom Builder,2011,2.0,4.0,Queen Games,"['Area Control', 'Modular Board', 'Area Enclosure', 'Network and Route Building']",139,3.276434462186349,206,4
-1114,4bnR8NO0Pr,Sentinels of the Multiverse,2011,2.0,5.0,Greater Than Games,"['Cooperative Play', 'Hand Management']",142,3.169014084507042,209,2
+1114,4bnR8NO0Pr,Sentinels of the Multiverse,2011,2.0,5.0,Greater Than Games,"['Cooperative Play', 'Hand Management']",143,3.1818181818181817,209,2
 1115,esKU38B2OY,7 Wonders: Leaders,2011,2.0,7.0,Repos Production,"['Card Drafting', 'Hand Management', 'Set Collection', 'Simultaneous action selection', 'Variable Player Powers']",88,3.5625,277,5
-1116,VohIyfIoow,Dungeon Petz,2011,2.0,4.0,Czech Games Edition,"['Action Selection', 'Auction', 'Hand Management', 'Simultaneous action selection', 'Worker Placement']",94,3.478723404255319,279,5
+1116,VohIyfIoow,Dungeon Petz,2011,2.0,4.0,Czech Games Edition,"['Action Selection', 'Auction', 'Hand Management', 'Simultaneous action selection', 'Worker Placement']",95,3.494736842105263,279,5
 1117,JaFhOYFA6v,Letters from Whitechapel,2011,2.0,6.0,Fantasy Flight Games,"['Memory', 'Partnerships', 'Point to Point Movement', 'Secret Unit Deployment']",90,3.4333333333333336,297,4
 1118,KfNhnaKT92,Rhino Hero,2011,2.0,5.0,HABA,['Hand Management'],98,3.2551020408163254,326,1
-1119,FD8CqReNt1,Eminent Domain,2011,2.0,4.0,Tasty Minstrel Games,"['Card Drafting', 'Deck Building', 'Hand Management', 'Variable Phase Order']",92,3.282608695652174,328,4
+1119,FD8CqReNt1,Eminent Domain,2011,2.0,4.0,Tasty Minstrel Games,"['Card Drafting', 'Deck Building', 'Hand Management', 'Variable Phase Order']",93,3.290322580645161,328,4
 1120,fQ8NGxSBVH,Dixit: Odyssey,2011,3.0,12.0,Libellud,"['Partnerships', 'Simultaneous Play', 'Storytelling', 'Voting']",84,3.4642857142857144,346,4
 1121,gip0b8lEIl,Last Will,2011,2.0,5.0,Czech Games Edition,"['Action Point Allowance System', 'Hand Management', 'Worker Placement']",87,3.3103448275862064,353,3
 1122,NbD7rJP2qz,Ora et Labora,2011,1.0,4.0,Z-Man Games,"['Modular Board', 'Worker Placement']",58,3.7887931034482767,369,2
 1123,7CQxPn3IWt,Summoner Wars Master Set,2011,2.0,4.0,Plaid Hat Games,List could not be pulled.,81,3.244444444444445,398,2
-1124,M7UpZZ00UO,Risk: Legacy,2011,3.0,5.0,Hasbro,"['Area Movement', 'Card Drafting', 'Dice Rolling', 'Legacy', 'Player Elimination', 'Variable Player Powers']",61,3.5081967213114744,410,6
+1124,M7UpZZ00UO,Risk: Legacy,2011,3.0,5.0,Hasbro,"['Area Movement', 'Card Drafting', 'Dice Rolling', 'Legacy', 'Player Elimination', 'Variable Player Powers']",62,3.499999999999999,410,6
 1126,g8GGQ9Xjoo,Airlines Europe,2011,2.0,5.0,Rio Grande Games,"['Card Drafting', 'Set Collection', 'Stock Holding', 'Network and Route Building']",60,3.6656250000000004,479,4
 1127,fOHzVVFf13,Small World: Underground,2011,2.0,5.0,Days of Wonder,"['Area Movement', 'Dice Rolling', 'Variable Player Powers']",57,3.2807017543859645,535,3
 1128,2FfPhO1l1B,Lancaster,2011,2.0,5.0,Queen Games,"['Area Majority/ Influence', 'Auction', 'Voting', 'Worker Placement']",48,3.5416666666666665,546,4
 1129,CSWZgC2TUk,A Few Acres of Snow,2011,2.0,2.0,,"['Area Control', 'Card Drafting', 'Deck Building', 'Hand Management', 'Point to Point Movement']",40,3.226470588235294,553,5
-1130,EMruFVs0Xc,Sekigahara: The Unification of Japan,2011,2.0,2.0,GMT Games,"['Hand Management', 'Point to Point Movement', 'Secret Unit Deployment']",36,3.7666666666666666,562,3
+1130,EMruFVs0Xc,Sekigahara: The Unification of Japan,2011,2.0,2.0,GMT Games,"['Hand Management', 'Point to Point Movement', 'Secret Unit Deployment']",37,3.691891891891892,562,3
 1131,y4lxyGDCJP,Discworld: Ankh-Morpork,2011,2.0,4.0,Flat River Group,"['Area Control', 'Dice Rolling', 'Hand Management', 'Take That', 'Variable Player Powers']",53,3.3207547169811322,578,5
 1132,oDEic7hRsR,Dark Moon,2011,3.0,7.0,Stronghold Games,"['Dice Rolling', 'Partnerships', 'Role Playing', 'Variable Player Powers']",46,3.4130434782608696,593,4
 1133,JhqgE9MlGB,Blood Bowl: Team Manager - The Card Game,2011,2.0,4.0,Fantasy Flight Games,"['Area Majority/ Influence', 'Card Drafting', 'Deck Building', 'Dice Rolling', 'Hand Management']",49,3.351797862001944,637,5
 1135,Be5htM2rDA,Belfort,2011,2.0,5.0,Tasty Minstrel Games,"['Area Control', 'Card Drafting', 'Hand Management', 'Worker Placement']",47,3.234042553191489,675,4
-1136,MpLw5DwBpm,Dungeons & Dragons: Legend of Drizzt,2011,1.0,5.0,Wizards of the Coast,"['Cooperative Play', 'Dice Rolling', 'Grid Movement', 'Modular Board', 'Role Playing', 'Variable Player Powers']",42,3.1904761904761902,773,6
+1136,MpLw5DwBpm,Dungeons & Dragons: Legend of Drizzt,2011,1.0,5.0,Wizards of the Coast,"['Cooperative Play', 'Dice Rolling', 'Grid Movement', 'Modular Board', 'Role Playing', 'Variable Player Powers']",43,3.186046511627907,773,6
 1137,Uguuoe9au0,Core Worlds,2011,2.0,5.0,Stronghold Games,"['Card Drafting', 'Deck Building', 'Hand Management']",37,3.3513513513513518,781,3
 1138,ZsMfoCCeSm,Ticket To Ride: Asia & Legendary Asia,2011,2.0,6.0,Days of Wonder,"['Card Drafting', 'Hand Management', 'Network and Route Building', 'Partnerships', 'Set Collection']",32,3.5,797,5
 1139,jtTJf89YOX,Dungeons & Dragons: Wrath of Ashardalon,2011,1.0,5.0,Wizards of the Coast,"['Cooperative Play', 'Dice Rolling', 'Grid Movement', 'Modular Board', 'Role Playing', 'Variable Player Powers']",40,3.075,819,6
@@ -540,13 +540,13 @@
 1144,YvDX4GruzL,Gears Of War,2011,1.0,4.0,Fantasy Flight Publishing,List could not be pulled.,25,3.5999999999999996,943,8
 1145,WkPRcGRSSQ,Telestrations 12 Player Party Pack,2011,4.0,12.0,USAopoly,['Line Drawing'],31,3.2580645161290316,968,1
 1146,Cq7HxW69ib,Space Empires 4X,2011,2.0,4.0,GMT Games,"['Dice Rolling', 'Secret Unit Deployment', 'Simulation']",21,3.595238095238095,977,3
-1147,ahqg4WBywD,Star Fluxx Card Game,2011,2.0,5.0,Looney Labs,"['Hand Management', 'Set Collection']",45,2.577777777777777,994,2
+1147,ahqg4WBywD,Star Fluxx Card Game,2011,2.0,5.0,Looney Labs,"['Hand Management', 'Set Collection']",46,2.5652173913043472,994,2
 1148,8ReY2OeH8h,Dungeon Fighter,2011,1.0,6.0,IELLO,"['Card Drafting', 'Cooperative Play', 'Dice Rolling', 'Modular Board', 'Point to Point Movement', 'Variable Player Powers']",36,2.888888888888888,1025,6
 1149,ULWQvi77f5,Catan: Junior,2011,2.0,4.0,Catan Studio,"['Dice Rolling', 'Network and Route Building']",32,2.999999999999999,1037,2
 1150,9PnOFrFdCQ,Tales & Games: The Hare and the Tortoise,2011,2.0,5.0,,['Hand Management'],30,3.066666666666666,1047,1
 1151,jyCaDC8AT7,Hawaii,2011,2.0,5.0,"Z-Man Games, Inc.","['Action Point Allowance System', 'Area Movement', 'Modular Board']",31,3.1013824884792625,1050,3
 1152,ToHciXSlx4,Omen: A Reign of War,2011,2.0,2.0,,"['Area Control', 'Card Drafting', 'Hand Management', 'Variable Player Powers']",22,3.454545454545454,1075,4
-1153,ZRYREJspcV,Fortune and Glory: The Cliffhanger Game,2011,1.0,8.0,Flying Frog Productions,"['Area Movement', 'Cooperative Play', 'Dice Rolling', 'Pick-up and Deliver', 'Press Your Luck', 'Roll / Spin and Move', 'Variable Player Powers']",25,3.16,1077,7
+1153,ZRYREJspcV,Fortune and Glory: The Cliffhanger Game,2011,1.0,8.0,Flying Frog Productions,"['Area Movement', 'Cooperative Play', 'Dice Rolling', 'Pick-up and Deliver', 'Press Your Luck', 'Roll / Spin and Move', 'Variable Player Powers']",26,3.1923076923076925,1077,7
 1155,YQmWPGv77k,Ascension: Storm of Souls,2011,2.0,6.0,Stone Blade Entertainment,"['Card Drafting', 'Deck Building', 'Hand Management']",24,3.2916666666666665,1130,3
 1157,lLFE7PdkdG,Nightfall,2011,2.0,5.0,Alderac Entertainment Group,"['Card Drafting', 'Deck Building', 'Hand Management', 'Pattern Building', 'Take That', 'Variable Player Powers']",31,2.6774193548387095,1168,6
 1158,0sNWtYw29o,Martian Dice Game,2011,2.0,99.0,Publisher Services Inc (PSI),"['Dice Rolling', 'Press Your Luck', 'Set Collection']",29,2.793103448275862,1173,3
@@ -554,7 +554,7 @@
 1160,eQMnHWxiGL,Tournay,2011,2.0,4.0,Heidelberger Spieleverlag,"['Card Drafting', 'Hand Management', 'Worker Placement']",22,2.8636363636363633,1239,3
 1162,D1ogTZ7uxN,Power Grid: First Sparks,2011,2.0,6.0,2F-Spiele,"['Area Movement', 'Card Drafting', 'Modular Board', 'Network and Route Building']",23,2.956521739130435,1247,4
 1163,Q4V6cZwJK9,Saboteur 2,2011,2.0,12.0,AMIGO,"['Hand Management', 'Network and Route Building', 'Take That', 'Teams']",22,2.6818181818181817,1251,4
-1164,asOU5AKr0l,Pirate Fluxx,2011,2.0,6.0,Looney Labs,"['Hand Management', 'Set Collection', 'Take That']",22,2.772727272727273,1264,3
+1164,asOU5AKr0l,Pirate Fluxx,2011,2.0,6.0,Looney Labs,"['Hand Management', 'Set Collection', 'Take That']",23,2.739130434782609,1264,3
 1165,Ke6m2tEfuK,Kittens in a Blender,2011,2.0,4.0,Redshift Game,"['Hand Management', 'Rock-Paper-Scissors']",29,2.310344827586207,1271,2
 1166,10SJBB91sW,Roll For It!,2011,2.0,4.0,Calliope Games,['Dice Rolling'],28,2.2142857142857135,1278,1
 1167,QLVQK2xw9Q,Heart of Crown,2011,2.0,4.0,Japanime Games,"['Card Drafting', 'Deck Building', 'Hand Management', 'Variable Player Powers']",11,3.818181818181818,9999999,4
@@ -578,11 +578,11 @@
 1195,CYek8o1acD,Fealty,2011,2.0,2.0,Asmadi Games,"['Area Control', 'Area Enclosure', 'Hand Management', 'Modular Board', 'Simultaneous Play']",7,3.1428571428571432,9999999,5
 1197,wzzMD6IGC5,Stone Age: The Expansion,2011,2.0,5.0,Z-Man Games,"['Dice Rolling', 'Set Collection', 'Trading', 'Worker Placement']",19,2.6184210526315788,9999999,4
 1199,kXWCZE7n6h,Deadwood,2011,2.0,5.0,Fantasy Flight Publishing,"['Dice Rolling', 'Worker Placement']",19,2.6842105263157903,9999999,2
-1200,T5lx9elSDt,Love Letter,2012,2.0,4.0,Z-Man Games,"['Hand Management', 'Player Elimination']",420,3.2794289123348954,28,2
-1201,axOr9uuOwN,Lords of Waterdeep,2012,2.0,5.0,Wizards of the Coast,"['Set Collection', 'Take That', 'Worker Placement']",324,3.4990704205236534,34,3
+1200,T5lx9elSDt,Love Letter,2012,2.0,4.0,Z-Man Games,"['Hand Management', 'Player Elimination']",421,3.281140482614385,28,2
+1201,axOr9uuOwN,Lords of Waterdeep,2012,2.0,5.0,Wizards of the Coast,"['Set Collection', 'Take That', 'Worker Placement']",325,3.494457896152811,34,3
 1202,07FXm6tX4o,Clank! A Deck-Building Adventure,2012,2.0,4.0,Renegade Game Studios,"['Deck Building', 'Player Elimination', 'Point to Point Movement', 'Press Your Luck']",270,3.672372372372372,36,4
-1203,aD2aeY8DEP,Tzolk'in: The Mayan Calendar,2012,2.0,4.0,Czech Games Edition,"['Set Collection', 'Worker Placement']",209,3.6701883452720074,49,2
-1204,19C9ka2hEx,Coup,2012,2.0,6.0,Indie Boards and Cards,"['Player Elimination', 'Take That']",343,3.1610905787182597,51,2
+1203,aD2aeY8DEP,Tzolk'in: The Mayan Calendar,2012,2.0,4.0,Czech Games Edition,"['Set Collection', 'Worker Placement']",210,3.671758876961188,49,2
+1204,19C9ka2hEx,Coup,2012,2.0,6.0,Indie Boards and Cards,"['Player Elimination', 'Take That']",344,3.157715315408032,51,2
 1205,30ltPnwaqy,Robinson Crusoe: Adventures on the Cursed Island,2012,1.0,4.0,PSIQ7,"['Cooperative Play', 'Dice Rolling', 'Press Your Luck', 'Storytelling', 'Tile Placement', 'Variable Player Powers', 'Worker Placement']",198,3.623545582406341,61,7
 1206,sxLwbJHu77,Terra Mystica,2012,2.0,5.0,Z-Man Games,"['Area Control', 'Network and Route Building']",207,3.7826086956521747,63,2
 1207,lDg8hjuvRb,Keyflower,2012,2.0,6.0,R&D Games,"['Auction', 'Memory', 'Set Collection', 'Tile Placement', 'Worker Placement', 'Network and Route Building']",166,3.7289156626506013,72,6
@@ -592,36 +592,36 @@
 1211,VbH6pNiGCH,War of the Ring (Second Edition),2012,2.0,4.0,Ares Games,"['Area Control', 'Campaign', 'Dice Rolling', 'Hand Management']",87,4.080459770114942,115,4
 1212,NYMPJIwU5Y,Kemet,2012,2.0,5.0,Publisher Services Inc (PSI),"['Area Control', 'Drafting', 'Hand Management']",142,3.6338028169014103,122,3
 1213,5uqIWPjZZM,Legendary: A Marvel Deck Building Game,2012,1.0,5.0,Upper Deck Company,"['Deck Building', 'Cooperative Play']",164,3.486964773679874,124,2
-1214,Yzurao9vqw,Targi,2012,2.0,2.0,Thames & Kosmos,List could not be pulled.,121,3.7685950413223126,125,5
-1215,M8JSS7lEFH,Tokaido,2012,2.0,5.0,Funforge,"['Point to Point Movement', 'Set Collection', 'Time Track', 'Variable Player Powers']",188,3.0850403065944247,137,4
-1216,7zzrahBDY6,Machi Koro,2012,2.0,4.0,IDW Games,"['Card Drafting', 'Dice Rolling']",221,2.812818603585543,160,2
-1217,Q3EWjC8Dm7,Smash Up,2012,2.0,4.0,Alderac Entertainment Group,"['Area Control', 'Hand Management', 'Take That', 'Variable Player Powers']",203,2.954556650246304,162,4
+1214,Yzurao9vqw,Targi,2012,2.0,2.0,Thames & Kosmos,List could not be pulled.,122,3.770491803278687,125,5
+1215,M8JSS7lEFH,Tokaido,2012,2.0,5.0,Funforge,"['Point to Point Movement', 'Set Collection', 'Time Track', 'Variable Player Powers']",189,3.084590357882285,137,4
+1216,7zzrahBDY6,Machi Koro,2012,2.0,4.0,IDW Games,"['Card Drafting', 'Dice Rolling']",222,2.8091572585243467,160,2
+1217,Q3EWjC8Dm7,Smash Up,2012,2.0,4.0,Alderac Entertainment Group,"['Area Control', 'Hand Management', 'Take That', 'Variable Player Powers']",204,2.9498774509803907,162,4
 1218,kbQ7WwkwRW,Escape: The Curse of the Temple,2012,1.0,5.0,Queen Games,"['Cooperative Play', 'Dice Rolling', 'Grid Movement', 'Modular Board', 'Press Your Luck', 'Roll / Spin and Move', 'Tile Placement']",153,3.282234105763518,173,7
-1219,6507yfEQMq,Star Wars X-Wing: Core Set,2012,2.0,2.0,Fantasy Flight Publishing,"['Action / Movement Programming', 'Dice Rolling', 'Player Elimination', 'Variable Player Powers']",137,3.411234528721042,186,4
+1219,6507yfEQMq,Star Wars X-Wing: Core Set,2012,2.0,2.0,Fantasy Flight Publishing,"['Action / Movement Programming', 'Dice Rolling', 'Player Elimination', 'Variable Player Powers']",138,3.4227473219911793,186,4
 1220,wSsuGhYnVo,Seasons,2012,2.0,4.0,Libellud,"['Card Drafting', 'Dice Rolling', 'Hand Management', 'Take That']",131,3.383727425060511,200,4
 1221,yfbV1dhSK4,Agricola: All Creatures Big and Small,2012,2.0,2.0,"Z-Man Games, Inc.","['Area Enclosure', 'Tile Placement', 'Worker Placement']",114,3.352593440122043,266,3
 1222,El8zJPnpYZ,King of Tokyo: Power Up,2012,2.0,6.0,IELLO,"['Dice Rolling', 'Variable Player Powers']",90,3.558689458689459,267,2
 1223,7mTdDnpqda,Libertalia,2012,2.0,6.0,Asmodee Editions,"['Hand Management', 'Set Collection', 'Variable Phase Order']",101,3.2183168316831687,312,3
 1224,L121GpLm8J,Archipelago,2012,2.0,5.0,Asmodee,List could not be pulled.,69,3.2632071061243573,347,9
 1225,tAVKBpUzgB,Las Vegas,2012,2.0,5.0,alea,"['Area Control', 'Dice Rolling']",87,3.3218390804597697,352,2
-1226,UMsW5U0rCk,Legends of Andor,2012,2.0,4.0,Thames & Kosmos,"['Area Movement', 'Cooperative Play', 'Dice Rolling', 'Variable Player Powers']",78,3.2692307692307683,362,4
+1226,UMsW5U0rCk,Legends of Andor,2012,2.0,4.0,Thames & Kosmos,"['Area Movement', 'Cooperative Play', 'Dice Rolling', 'Variable Player Powers']",79,3.265822784810126,362,4
 1228,B8AeSW2TWP,7 Wonders: Cities,2012,2.0,8.0,Repos Production,"['Card Drafting', 'Hand Management', 'Set Collection', 'Simultaneous action selection', 'Teams', 'Variable Player Powers']",69,3.497971014492754,378,6
 1229,E4xFsTbJiG,A Fake Artist Goes to New York,2012,5.0,10.0,Oink Games,['Role Playing'],62,3.451612903225807,396,1
 1230,pH1UCBs9dO,Qwixx,2012,2.0,5.0,Gamewright,"['Dice Rolling', 'Paper and Pencil']",82,3.1463414634146334,408,2
 1231,Gqs49YsnLv,The Manhattan Project,2012,2.0,5.0,Minion Games,"['Card Drafting', 'Tableau Building', 'Take That', 'Worker Placement']",64,3.515625,421,4
 1232,hKCjpV0T98,Zombicide,2012,1.0,6.0,Flat River Group,"['Action Point Allowance System', 'Dice Rolling', 'Hand Management', 'Modular Board', 'Player Elimination', 'Variable Player Powers', 'Cooperative Play']",77,3.103896103896103,433,7
-1233,XVYVL4fQcm,Morels,2012,2.0,2.0,Two Lanterns Games,"['Card Drafting', 'Hand Management', 'Set Collection']",69,3.2318840579710155,445,3
-1234,oF83oEFLg8,Among the Stars,2012,2.0,4.0,Stronghold Games,"['Card Drafting', 'Simultaneous Play', 'Tile Placement', 'Variable Player Powers']",71,3.1684272300469494,455,4
+1233,XVYVL4fQcm,Morels,2012,2.0,2.0,Two Lanterns Games,"['Card Drafting', 'Hand Management', 'Set Collection']",70,3.2428571428571438,445,3
+1234,oF83oEFLg8,Among the Stars,2012,2.0,4.0,Stronghold Games,"['Card Drafting', 'Simultaneous Play', 'Tile Placement', 'Variable Player Powers']",72,3.166087962962964,455,4
 1235,1bVoEWFnmJ,Eight-Minute Empire,2012,2.0,5.0,Red Raven Games,"['Area Control', 'Area Movement', 'Card Drafting', 'Set Collection']",68,3.116176470588235,517,4
 1236,WewYavZ4nY,Tsuro of the Seas,2012,2.0,8.0,Calliope Games,"['Dice Rolling', 'Hand Management', 'Player Elimination', 'Tile Placement', 'Network and Route Building']",63,3.0634920634920637,533,5
 1237,cRgrMYx65o,Nexus Ops,2012,2.0,4.0,Fantasy Flight Publishing,"['Area Control', 'Area Majority/ Influence', 'Dice Rolling', 'Hand Management', 'Hexagon Grid', 'Modular Board', 'Take That']",59,3.186440677966101,552,7
 1238,qECNHYsI6I,Snowdonia,2012,1.0,5.0,Flat River Group,"['Card Drafting', 'Hand Management', 'Worker Placement']",41,3.6975609756097563,594,3
 1239,F5DMXSPtXY,The Great Zimbabwe,2012,2.0,5.0,Splotter Spellen,"['Auction', 'Card Drafting', 'Modular Board', 'Tile Placement', 'Network and Route Building']",33,3.727272727272727,613,5
 1240,KyUv6rMZ14,Freedom: The Underground Railroad,2012,1.0,4.0,Academy Games,"['Cooperative Play', 'Pick-up and Deliver', 'Point to Point Movement', 'Variable Player Powers']",34,3.5588235294117636,622,4
-1241,n9iA2hdhM4,DC Deck-Building Game,2012,2.0,5.0,Cryptozoic Entertainment,['Deck Building'],48,3.208333333333334,653,1
+1241,n9iA2hdhM4,DC Deck-Building Game,2012,2.0,5.0,Cryptozoic Entertainment,['Deck Building'],49,3.204081632653062,653,1
 1242,T02xLDbwAk,Dixit Journey,2012,3.0,6.0,Publisher Services Inc (PSI),"['Acting', 'Storytelling', 'Voting']",45,3.3555555555555556,678,3
 1243,v5J9bmwkTY,Ginkgopolis,2012,1.0,5.0,Pearl Games,"['Area Control', 'Card Drafting', 'Simultaneous Play', 'Tile Placement']",31,3.4838709677419355,718,4
-1244,8nIllMubpC,Cockroach Poker Royal,2012,2.0,6.0,Drei Magier Spiele,"['Hand Management', 'Set Collection']",39,3.3589743589743595,742,2
+1244,8nIllMubpC,Cockroach Poker Royal,2012,2.0,6.0,Drei Magier Spiele,"['Hand Management', 'Set Collection']",40,3.3500000000000005,742,2
 1246,FSRmSgvlV9,Rex: Final Days of an Empire,2012,3.0,6.0,Fantasy Flight Games,"['Area Control', 'Auction', 'Hand Management', 'Partnerships', 'Point to Point Movement', 'Variable Player Powers']",31,3.3225806451612905,815,6
 1247,L9zLRUdpBC,The Palaces of Carrara,2012,2.0,4.0,Flat River Group,"['Set Collection', 'Tile Placement']",28,3.3750000000000004,867,2
 1248,0NJ6jaL0v1,Yedo Board Game,2012,2.0,5.0,Rejects from Studios,"['Action / Movement Programming', 'Hand Management', 'Set Collection', 'Worker Placement']",36,3.083333333333333,882,4
@@ -632,7 +632,7 @@
 1254,bcHVwsjSOJ,Indigo,2012,2.0,4.0,Ravensburger,"['Point to Point Movement', 'Tile Placement', 'Network and Route Building']",30,3.2599999999999993,952,3
 1255,qiLzHpOkeN,Thunderstone Advance Towers Of Ruin,2012,1.0,5.0,Flat River Group,"['Card Drafting', 'Hand Management']",30,3.3666666666666667,957,2
 1256,A8NvYUE1eF,CO₂,2012,1.0,5.0,Giochix.it,"['Area Control', 'Card Drafting', 'Worker Placement']",26,3.3576923076923073,1005,3
-1257,agZokKqUjF,Timeline: Diversity,2012,2.0,8.0,Asmodee Editions,List could not be pulled.,32,3.125,1010,1
+1257,agZokKqUjF,Timeline: Diversity,2012,2.0,8.0,Asmodee Editions,List could not be pulled.,33,3.121212121212121,1010,1
 1258,AM0QgG1RsL,Guildhall,2012,2.0,2.0,Alderac Entertainment Group,"['Hand Management', 'Set Collection', 'Take That']",35,2.942857142857143,1015,3
 1259,kfg2dybfz2,Spartacus: A Game of Blood and Treachery,2012,3.0,4.0,Flat River Group,"['Dice Rolling', 'Grid Movement', 'Hand Management', 'Trading', 'Variable Player Powers']",29,3.03448275862069,1039,5
 1261,4E8ZvBBPJ4,Pixel Tactics,2012,2.0,2.0,Level 99 Games,"['Card Drafting', 'Hand Management', 'Variable Player Powers']",30,2.9333333333333336,1063,3
@@ -664,26 +664,26 @@
 1299,QL3LHkAikR,Würfel Bohnanza,2012,2.0,5.0,AMIGO,"['Dice Rolling', 'Set Collection']",11,2.7272727272727266,9999999,2
 1300,FCuXPSfhDR,Concordia,2013,2.0,5.0,Rio Grande Games,"['Area Control', 'Card Drafting', 'Deck Building', 'Hand Management', 'Point to Point Movement', 'Pool Building']",265,3.9962264150943394,16,6
 1301,61SwzHG7fB,Sushi Go!,2013,2.0,5.0,Gamewright,"['Drafting', 'Hand Management', 'Set Collection']",315,3.2389527430744165,53,3
-1302,8t0Cstr6oX,Forbidden Desert,2013,2.0,5.0,Ceaco,"['Cooperative Play', 'Grid Movement', 'Hand Management', 'Press Your Luck', 'Variable Player Powers']",271,3.199261992619927,75,5
-1303,0DAMHQym7H,Caverna: The Cave Farmers,2013,1.0,7.0,Lookout Games,List could not be pulled.,193,3.654319114244578,78,4
-1304,ZwlnfX1J2z,Eldritch Horror,2013,1.0,8.0,Fantasy Flight Games,"['Cooperative Play', 'Dice Rolling']",185,3.4972972972972975,97,2
+1302,8t0Cstr6oX,Forbidden Desert,2013,2.0,5.0,Ceaco,"['Cooperative Play', 'Grid Movement', 'Hand Management', 'Press Your Luck', 'Variable Player Powers']",272,3.202205882352942,75,5
+1303,0DAMHQym7H,Caverna: The Cave Farmers,2013,1.0,7.0,Lookout Games,List could not be pulled.,194,3.6561009744804305,78,4
+1304,ZwlnfX1J2z,Eldritch Horror,2013,1.0,8.0,Fantasy Flight Games,"['Cooperative Play', 'Dice Rolling']",186,3.5000000000000004,97,2
 1305,EPRL83Yy4x,Bang! The Dice Game,2013,3.0,8.0,daVinci Games,"['Dice Rolling', 'Player Elimination']",193,3.233698943543503,128,2
-1306,1LkeNOwWbB,Hanamikoji,2013,2.0,2.0,Quick Simple Fun,"['Area Control', 'Drafting', 'Hand Management']",115,3.5826086956521723,168,3
+1306,1LkeNOwWbB,Hanamikoji,2013,2.0,2.0,Quick Simple Fun,"['Area Control', 'Drafting', 'Hand Management']",116,3.5862068965517224,168,3
 1307,ESo5hvCkwa,Lords of Waterdeep: Scoundrels of Skullport,2013,2.0,6.0,Wizards of the Coast,"['Drafting', 'Hand Management', 'Worker Placement', 'Commodity Speculation']",107,3.7515576323987543,199,4
 1308,dJz5fFkFEd,Russian Railroads,2013,2.0,4.0,Z-Man Games,['Worker Placement'],88,3.6336081681476418,265,1
 1309,XiPoK8sDYy,Glass Road,2013,1.0,4.0,Feuerland Spiele,"['Drafting', 'Resource Gathering', 'Set Collection', 'Tile Placement']",84,3.5595238095238093,299,4
 1310,fogKPrFHnp,Welcome to the Dungeon,2013,2.0,4.0,IELLO,"['Bluffing', 'Memory', 'Player Elimination', 'Press Your Luck']",132,2.8915373244641542,300,4
-1311,sjWj7oJrWL,Concept,2013,4.0,12.0,Asmodee Editions,['Partnerships'],122,2.9836065573770494,313,1
+1311,sjWj7oJrWL,Concept,2013,4.0,12.0,Asmodee Editions,['Partnerships'],123,2.983739837398374,313,1
 1312,OdjvQmFgtF,Nations,2013,1.0,5.0,Asmodee Editions,"['Card Drafting', 'Variable Player Powers']",70,3.5908163265306126,343,2
 1313,EmYyVC14DP,Quantum,2013,2.0,4.0,Funforge,"['Area Majority/ Influence', 'Dice Rolling', 'Grid Movement', 'Modular Board']",84,3.3333333333333344,345,4
 1314,AvqBwE0if0,Bruges,2013,2.0,4.0,Z-Man Games,"['Dice Rolling', 'Hand Management']",84,3.273809523809524,357,2
-1315,zMCUEhrOan,Viticulture,2013,2.0,6.0,Stonemaier Games,"['Hand Management', 'Worker Placement']",67,3.7910447761194024,360,2
+1315,zMCUEhrOan,Viticulture,2013,2.0,6.0,Stonemaier Games,"['Hand Management', 'Worker Placement']",68,3.794117647058823,360,2
 1316,bh3ZlrrSBT,Euphoria: Build a Better Dystopia,2013,2.0,6.0,Stonemaier Games,"['Dice Rolling', 'Hand Management', 'Race', 'Set Collection', 'Variable Player Powers', 'Worker Placement', 'Worker Placement with Dice Workers']",74,3.4334719334719326,361,7
 1317,qgFaBUwBnD,Pathfinder Adventure Card Game: Rise of the Runelords Base Set,2013,1.0,4.0,Paizo Publishing,"['Cooperative Play', 'Dice Rolling', 'Hand Management', 'Role Playing', 'Variable Player Powers']",87,3.1494252873563227,394,5
 1319,jXzFrntFLr,Bora Bora,2013,2.0,4.0,Ravensburger,"['Dice Rolling', 'Set Collection', 'Worker Placement']",67,3.4328358208955225,415,3
 1320,MQcEH8C8Aa,Boss Monster,2013,2.0,4.0,Blue Orange Games,"['Hand Management', 'Player Elimination', 'Take That', 'Variable Player Powers']",103,2.6699029126213607,440,4
 1321,L3bbRD1H4o,Rococo,2013,2.0,5.0,Eagle-Gryphon Games,"['Area Control', 'Card Drafting', 'Deck Building', 'Hand Management', 'Set Collection']",57,3.432659932659932,475,5
-1322,3O0h8kseCn,Blueprints,2013,2.0,4.0,Z-Man Games,"['Dice Rolling', 'Pattern Building', 'Set Collection']",72,3.1384680134680143,478,3
+1322,3O0h8kseCn,Blueprints,2013,2.0,4.0,Z-Man Games,"['Dice Rolling', 'Pattern Building', 'Set Collection']",73,3.150269821502699,478,3
 1323,Pk9mnq0Bsl,Amerigo,2013,2.0,4.0,Queen Games,"['Action Point Allowance System', 'Grid Movement', 'Modular Board', 'Tile Placement']",59,3.4284957627118646,491,4
 1324,qmcl21WSOV,Terror In Meeple City,2013,2.0,4.0,Repos Production,List could not be pulled.,68,3.1470588235294117,496,5
 1325,E2BDGzVGho,Smash Up: Awesome Level 9000 Expansion,2013,2.0,4.0,Alderac Entertainment Group,"['Hand Management', 'Take That', 'Variable Player Powers']",57,3.2456140350877187,530,3
@@ -692,14 +692,14 @@
 1328,C6YDASIIIE,Spyrium,2013,2.0,5.0,Asmodee,"['Drafting', 'Engine Building', 'Worker Placement']",58,3.135172413793104,589,3
 1329,gn0MN5FGJB,Dungeon Roll,2013,1.0,4.0,Tasty Minstrel Games,"['Dice Rolling', 'Hand Management', 'Press Your Luck', 'Variable Player Powers']",71,2.746478873239437,591,4
 1330,DpxRvzLzP3,CV,2013,2.0,4.0,Passport Game Studios,"['Card Drafting', 'Dice Rolling', 'Hand Management', 'Press Your Luck', 'Set Collection', 'Simulation']",61,3.061475409836064,598,6
-1331,RAf5clAJ1U,Pandemic: In The Lab,2013,1.0,6.0,Z-Man Games,List could not be pulled.,34,3.5882352941176467,608,9
+1331,RAf5clAJ1U,Pandemic: In The Lab,2013,1.0,6.0,Z-Man Games,List could not be pulled.,35,3.5999999999999996,608,9
 1332,a6cubbrAPr,Tash-Kalar: Arena of Legends Game,2013,2.0,4.0,Z-Man Games,"['Grid Movement', 'Hand Management', 'Partnerships', 'Pattern Building', 'Tile Placement', 'Variable Player Powers']",45,3.3777777777777773,616,6
 1333,u1nrsXvtJI,1775: Rebellion,2013,2.0,4.0,Academy Games,"['Area Control', 'Area Movement', 'Campaign', 'Dice Rolling', 'Partnerships', 'Variable Player Powers']",36,3.583333333333333,625,6
 1334,LhQprHOmEU,Gravwell: Escape from the 9th Dimension,2013,1.0,4.0,Renegade Game Studios,"['Action / Movement Programming', 'Card Drafting', 'Simultaneous Play']",53,3.1886792452830184,634,3
 1335,l9QvcB5Gcx,Steam Park,2013,2.0,4.0,Flat River Group,"['Card Drafting', 'Dice Rolling', 'Memory', 'Modular Board']",49,3.142857142857143,672,4
 1337,VTj8YIiD5u,Cuba Libre,2013,1.0,4.0,GMT Games,"['Area Control', 'Area Movement', 'Dice Rolling', 'Variable Player Powers']",33,3.525974025974026,695,4
 1338,IjMcGwdT95,King of Tokyo: Halloween,2013,2.0,6.0,IELLO,"['Card Drafting', 'Dice Rolling', 'Player Elimination', 'Press Your Luck', 'Take That', 'Variable Player Powers']",40,3.2499999999999996,715,6
-1339,fLBWzE5WFC,The Duke,2013,2.0,2.0,Catalyst Game Labs,"['Grid Movement', 'Tile Placement']",37,3.324324324324325,736,2
+1339,fLBWzE5WFC,The Duke,2013,2.0,2.0,Catalyst Game Labs,"['Grid Movement', 'Tile Placement']",38,3.315789473684211,736,2
 1340,RHS4ek1rCN,Francis Drake,2013,3.0,5.0,Eagle-Gryphon Games,"['Dice Rolling', 'Press Your Luck', 'Secret Unit Deployment', 'Set Collection', 'Time Track', 'Worker Placement']",31,3.580645161290322,769,6
 1341,5676mzAY6o,Brew Crafters,2013,2.0,5.0,Dice Hate Me Games,['Worker Placement'],37,3.3513513513513518,785,1
 1342,KiFtnFIIjd,Bruxelles 1893,2013,2.0,5.0,Asmodee Editions,"['Area Control', 'Auction', 'Card Drafting', 'Modular Board', 'Worker Placement']",32,3.4831730769230766,795,5
@@ -737,70 +737,70 @@
 1381,Vrj032dJLH,Room 25,2013,1.0,8.0,Matagot,"['Action / Movement Programming', 'Cooperative Play', 'Grid Movement', 'Hidden Traitor', 'Memory', 'Modular Board', 'Partnerships', 'Player Elimination']",20,2.8999999999999995,9999999,8
 1382,C1DdHnzHSR,Wildcatters,2013,2.0,4.0,Capstone Games,"['Area Control', 'Pick-up and Deliver', 'Stock Holding', 'Network and Route Building']",17,3.2352941176470593,9999999,4
 1383,0t03GzsO47,Camp Grizzly,2013,1.0,6.0,,"['Cooperative Play', 'Player Elimination']",7,3.5714285714285716,9999999,2
-1384,zTCr8LAHYs,The Ravens of Thri Sahashri,2013,2.0,2.0,Osprey Games,"['Cooperative Play', 'Pattern Building', 'Press Your Luck', 'Tile Placement']",13,2.769230769230769,9999999,4
-1389,XNX7mKlAQG,Nothing Personal,2013,3.0,5.0,Dice Tower Games,"['Area Control', 'Dice Rolling', 'Hand Management', 'Take That']",17,2.9411764705882355,9999999,4
+1384,zTCr8LAHYs,The Ravens of Thri Sahashri,2013,2.0,2.0,Osprey Games,"['Cooperative Play', 'Pattern Building', 'Press Your Luck', 'Tile Placement']",14,2.857142857142857,9999999,4
+1389,XNX7mKlAQG,Nothing Personal,2013,3.0,5.0,Dice Tower Games,"['Area Control', 'Dice Rolling', 'Hand Management', 'Take That']",18,3.0,9999999,4
 1390,gqoMfV2qBx,Sail to India,2013,3.0,4.0,OKAZU Brand,"['Action Point Allowance System', 'Area Movement', 'Set Collection', 'Worker Placement']",19,2.789473684210527,9999999,4
 1392,S78W2GT5I9,City of Iron,2013,2.0,4.0,Red Raven Games,"['Action Point Allowance System', 'Area Control', 'Card Drafting', 'Deck Building', 'Hand Management', 'Variable Player Powers']",15,3.466666666666667,9999999,6
 1393,hyZDxVnPkC,Bomb Squad,2013,2.0,6.0,Tasty Minstrel Games,"['Action Queue', 'Communication Limits', 'Cooperative Play', 'Grid Movement', 'Hand Management', 'Memory', 'Modular Board', 'Variable Player Powers']",14,2.7857142857142856,9999999,8
-1394,Q0SWcBlkwN,Kashgar: Merchants of the Silk Road,2013,2.0,4.0,Grail Games,['Deck Building'],19,3.631578947368421,9999999,1
+1394,Q0SWcBlkwN,Kashgar: Merchants of the Silk Road,2013,2.0,4.0,Grail Games,['Deck Building'],20,3.5999999999999996,9999999,1
 1397,3wqBt3m0kK,Patchistory,2013,2.0,2.0,StuntKite Publishing,"['Action Point Allowance System', 'Area Control', 'Auction', 'Card Drafting', 'Grid Movement', 'Hand Management', 'Memory', 'Simultaneous Play', 'Tile Placement', 'Variable Player Powers', 'Voting', 'Worker Placement']",16,3.2500000000000004,9999999,12
 1398,tjl7SYZlZf,Lost Legends,2013,3.0,5.0,Queen Games,['Card Drafting'],14,2.9285714285714284,9999999,1
 1399,StUHgsjXKJ,Blood Bound,2013,6.0,12.0,Fantasy Flight Games,"['Partnerships', 'Role Playing', 'Variable Player Powers']",13,3.0,9999999,3
-1400,O0G8z5Wgz1,Splendor,2014,2.0,4.0,Space Cowboys,"['Drafting', 'Engine Building', 'Set Collection']",468,3.4308344397858486,17,3
-1401,9iBOPn3lES,Patchwork,2014,2.0,2.0,Lookout Games,"['Drafting', 'Tile Placement', 'Time Track']",356,3.569145425591817,22,3
-1402,1dWE5BIcOm,Star Realms,2014,2.0,2.0,White Wizard Games,"['Deck Building', 'Drafting', 'Hand Management', 'Take That']",338,3.454863142006049,30,4
-1403,y56td93iXw,Dead of Winter: A Crossroads Game,2014,2.0,5.0,Plaid Hat Games,"['Dice Rolling', 'Hand Management', 'Hidden Traitor', 'Trading', 'Voting', 'Cooperative Play']",297,3.497182758022866,40,6
-1404,sMTDq4Zeif,Five Tribes,2014,2.0,4.0,Days of Wonder,"['Area Control', 'Auction', 'Drafting', 'Set Collection']",258,3.693321752779191,44,4
+1400,O0G8z5Wgz1,Splendor,2014,2.0,4.0,Space Cowboys,"['Drafting', 'Engine Building', 'Set Collection']",469,3.4320480124089063,17,3
+1401,9iBOPn3lES,Patchwork,2014,2.0,2.0,Lookout Games,"['Drafting', 'Tile Placement', 'Time Track']",357,3.5731534215985628,22,3
+1402,1dWE5BIcOm,Star Realms,2014,2.0,2.0,White Wizard Games,"['Deck Building', 'Drafting', 'Hand Management', 'Take That']",339,3.456471215333465,30,4
+1403,y56td93iXw,Dead of Winter: A Crossroads Game,2014,2.0,5.0,Plaid Hat Games,"['Dice Rolling', 'Hand Management', 'Hidden Traitor', 'Trading', 'Voting', 'Cooperative Play']",298,3.5022257689019836,40,6
+1404,sMTDq4Zeif,Five Tribes,2014,2.0,4.0,Days of Wonder,"['Area Control', 'Auction', 'Drafting', 'Set Collection']",259,3.6945058386757963,44,4
 1405,1sQP1kNHja,Roll For The Galaxy,2014,2.0,5.0,Rio Grande Games,"['Dice Rolling', 'Engine Building', 'Simultaneous Play', 'Tableau Building', 'Variable Player Powers']",252,3.667078280587598,46,5
 1406,inwR6DF3Lx,Star Wars Imperial Assault,2014,2.0,5.0,Fantasy Flight Games,List could not be pulled.,153,3.653374036769949,59,5
-1407,0z7S887o3b,Sheriff of Nottingham,2014,3.0,5.0,Arcane Wonders,"['Drafting', 'Hand Management', 'Set Collection']",280,3.1731265252508365,69,3
+1407,0z7S887o3b,Sheriff of Nottingham,2014,3.0,5.0,Arcane Wonders,"['Drafting', 'Hand Management', 'Set Collection']",281,3.1725104166200504,69,3
 1408,b1nBQaNdH6,Istanbul,2014,2.0,5.0,Alderac Entertainment Group,"['Dice Rolling', 'Grid Movement']",191,3.628266149208557,82,2
-1409,VCoAcOrQX6,Deception: Murder in Hong Kong,2014,4.0,12.0,Grey Fox Games,"['Partnerships', 'Storytelling']",193,3.4818652849740936,83,2
-1410,qYpZFGkKyD,Onitama,2014,2.0,2.0,Arcane Wonders,"['Grid Movement', 'Hand Management']",192,3.4427083333333317,86,2
+1409,VCoAcOrQX6,Deception: Murder in Hong Kong,2014,4.0,12.0,Grey Fox Games,"['Partnerships', 'Storytelling']",194,3.4845360824742273,83,2
+1410,qYpZFGkKyD,Onitama,2014,2.0,2.0,Arcane Wonders,"['Grid Movement', 'Hand Management']",193,3.4455958549222783,86,2
 1411,Y2CAqTW0oJ,One Night Ultimate Werewolf,2014,3.0,10.0,Bezier Games,"['Hidden Traitor', 'Variable Player Powers', 'Voting']",227,3.276356678777108,91,3
-1412,RvQRrz0gEL,Castles of Mad King Ludwig,2014,1.0,4.0,Bezier Games,"['Auction', 'Drafting', 'Set Collection', 'Tile Placement']",202,3.449874461130323,100,4
-1413,gfcOYEnOG4,Colt Express,2014,2.0,6.0,Asmodee Editions,"['Action / Movement Programming', 'Hand Management', 'Memory', 'Modular Board', 'Take That', 'Variable Player Powers']",190,3.23157894736842,136,6
+1412,RvQRrz0gEL,Castles of Mad King Ludwig,2014,1.0,4.0,Bezier Games,"['Auction', 'Drafting', 'Set Collection', 'Tile Placement']",203,3.457510547528696,100,4
+1413,gfcOYEnOG4,Colt Express,2014,2.0,6.0,Asmodee Editions,"['Action / Movement Programming', 'Hand Management', 'Memory', 'Modular Board', 'Take That', 'Variable Player Powers']",191,3.230366492146596,136,6
 1414,unMxq0jVdk,Camel Up,2014,2.0,8.0,Z-Man Games,['Dice Rolling'],182,3.1879000120758345,148,1
-1415,1EXtdJ7zva,Spyfall,2014,3.0,8.0,Cryptozoic Entertainment,"['Acting', 'Memory', 'Role Playing', 'Voting']",191,3.0843239913766562,155,4
-1416,8sCWCvij4B,Paperback,2014,2.0,5.0,Fowers Games,"['Card Drafting', 'Cooperative Play']",156,3.358974358974359,156,2
+1415,1EXtdJ7zva,Spyfall,2014,3.0,8.0,Cryptozoic Entertainment,"['Acting', 'Memory', 'Role Playing', 'Voting']",192,3.0838848039215696,155,4
+1416,8sCWCvij4B,Paperback,2014,2.0,5.0,Fowers Games,"['Card Drafting', 'Cooperative Play']",157,3.3630573248407645,156,2
 1417,AayCJcD6rT,Evolution,2014,2.0,6.0,North Star Games,"['Action Point Allowance System', 'Hand Management', 'Press Your Luck', 'Secret Unit Deployment', 'Simulation', 'Simultaneous Play', 'Tableau Building', 'Take That']",135,3.362962962962963,204,8
 1418,WyCNVFqDN2,Alchemists,2014,2.0,4.0,Czech Games Edition,"['Action Point Allowance System', 'Card Drafting', 'Hand Management', 'Worker Placement']",114,3.592879256965943,208,4
 1419,KEwPXIcfjq,Deep Sea Adventure,2014,2.0,6.0,Oink Games,"['Dice Rolling', 'Press Your Luck']",126,3.261904761904762,212,2
-1420,BVmFj3ACjp,Red7,2014,2.0,4.0,Asmadi Games,List could not be pulled.,132,3.143939393939395,231,4
+1420,BVmFj3ACjp,Red7,2014,2.0,4.0,Asmadi Games,List could not be pulled.,133,3.1353383458646626,231,4
 1421,NequzMRHOq,Lewis & Clark,2014,1.0,5.0,Asmodee Editions,"['Card Drafting', 'Deck Building', 'Hand Management', 'Point to Point Movement', 'Worker Placement']",105,3.4285714285714284,249,5
-1422,ytTnB2SMG6,Xia: Legends of a Drift System,2014,3.0,5.0,Far Off Games,List could not be pulled.,78,3.6538461538461546,259,10
+1422,ytTnB2SMG6,Xia: Legends of a Drift System,2014,3.0,5.0,Far Off Games,List could not be pulled.,79,3.6582278481012667,259,10
 1423,40Qb0frFQo,Legendary Encounters: An Alien Deck Building Game,2014,1.0,1.0,Upper Deck Company,"['Card Drafting', 'Cooperative Play', 'Deck Building', 'Partnerships', 'Player Elimination', 'Variable Player Powers']",88,3.6136363636363638,274,6
-1424,qAUo1yn0pG,King of New York,2014,2.0,6.0,IELLO,"['Area Control', 'Area Movement', 'Card Drafting', 'Dice Rolling', 'Player Elimination', 'Press Your Luck']",122,3.097540983606559,284,6
+1424,qAUo1yn0pG,King of New York,2014,2.0,6.0,IELLO,"['Area Control', 'Area Movement', 'Card Drafting', 'Dice Rolling', 'Player Elimination', 'Press Your Luck']",123,3.1048780487804892,284,6
 1425,LdQnSfXgUN,Fields of Arle,2014,1.0,2.0,Z-Man Games,['Worker Placement'],66,3.742424242424242,288,1
 1426,MSeRAS4X1e,Pandemic: The Cure,2014,2.0,2.0,"Z-Man Games, Inc.","['Cooperative Play', 'Dice Rolling', 'Hand Management', 'Point to Point Movement', 'Press Your Luck', 'Set Collection', 'Variable Player Powers']",93,3.3548387096774186,295,7
 1427,nxHqHmDDt1,Arcadia Quest,2014,2.0,4.0,Cool Mini Or Not,"['Dice Rolling', 'Grid Movement']",85,3.5176470588235293,302,2
-1428,5l1wkppKuX,Ca$h 'n Guns (Second Edition),2014,4.0,8.0,Repos Production,"['Player Elimination', 'Take That', 'Variable Player Powers']",113,3.0977768184761496,305,3
+1428,5l1wkppKuX,Ca$h 'n Guns (Second Edition),2014,4.0,8.0,Repos Production,"['Player Elimination', 'Take That', 'Variable Player Powers']",114,3.0881471972614465,305,3
 1429,RtikkOC9Kc,Port Royal,2014,2.0,5.0,Steve Jackson Games,"['Hand Management', 'Press Your Luck']",92,3.3043478260869565,309,2
 1430,Z8E2tdCwbm,La Granja,2014,1.0,4.0,Stronghold Games,"['Area Control', 'Dice Rolling', 'Hand Management', 'Simultaneous Play', 'Variable Player Powers', 'Worker Placement']",64,3.4999999999999996,387,6
 1431,nxjgIpCyGr,Tiny Epic Kingdoms,2014,2.0,5.0,Gamelyn Games,"['Action Selection', 'Area Control', 'Area Movement', 'Take That', 'Variable Player Powers', 'Worker Placement']",76,3.0668016194331984,431,6
 1432,Z3vMJbRCO6,KLASK,2014,2.0,2.0,Klask ApS,['Dexterity'],53,3.5471698113207544,465,1
 1433,kD6X2kl8Xj,Aquasphere,2014,2.0,4.0,Hall Games,"['Area Movement', 'Modular Board']",59,3.389830508474577,482,2
 1434,HRW5zuJeNC,Deus,2014,2.0,4.0,Asmodee Editions,"['Area Control', 'Grid Movement', 'Hand Management', 'Modular Board', 'Network and Route Building']",62,3.306451612903225,485,5
-1435,dkzrClbG9z,Scoville,2014,2.0,6.0,Tasty Minstrel Games,"['Auction', 'Grid Movement', 'Set Collection']",64,3.2364583333333337,503,3
-1436,alg1QfJagu,Akrotiri,2014,2.0,2.0,Filosofia Éditions,"['Action Point Allowance System', 'Hand Management', 'Pick-up and Deliver', 'Tile Placement']",46,3.3478260869565215,516,4
+1435,dkzrClbG9z,Scoville,2014,2.0,6.0,Tasty Minstrel Games,"['Auction', 'Grid Movement', 'Set Collection']",65,3.2482051282051287,503,3
+1436,alg1QfJagu,Akrotiri,2014,2.0,2.0,Filosofia Éditions,"['Action Point Allowance System', 'Hand Management', 'Pick-up and Deliver', 'Tile Placement']",47,3.361702127659574,516,4
 1437,WYjFG2kHs0,Valley of the Kings,2014,2.0,4.0,Alderac Entertainment Group,List could not be pulled.,50,3.3400000000000007,545,7
 1438,A9l5MRwlI6,Kanban,2014,2.0,4.0,Stronghold Games,"['Action Point Allowance System', 'Variable Phase Order', 'Worker Placement']",37,3.5135135135135136,554,3
 1439,SB5C21NfMM,Eldritch Horror: Forsaken Lore Expansion,2014,1.0,8.0,Fantasy Flight Games,"['Cooperative Play', 'Dice Rolling', 'Point to Point Movement', 'Role Playing', 'Storytelling', 'Variable Player Powers']",32,3.9687499999999996,609,6
 1440,tQzE3WSM4r,Nations: The Dice Game,2014,1.0,4.0,Stronghold Games,['Dice Rolling'],48,3.315104166666666,618,1
 1441,PgdKXWSeqo,Viceroy,2014,1.0,4.0,Mayday Games,"['Card Drafting', 'Hand Management', 'Memory', 'Set Collection', 'Tile Placement']",49,3.266875981161696,627,5
-1442,kgKVBI6IiN,La Isla,2014,2.0,4.0,Ravensburger,"['Action / Movement Programming', 'Area Enclosure', 'Hand Management', 'Modular Board', 'Set Collection']",53,3.1132075471698117,629,5
+1442,kgKVBI6IiN,La Isla,2014,2.0,4.0,Ravensburger,"['Action / Movement Programming', 'Area Enclosure', 'Hand Management', 'Modular Board', 'Set Collection']",54,3.1111111111111116,629,5
 1443,NS9jJJqwby,Flip City,2014,1.0,4.0,Tasty Minstrel Games,"['Pool Building', 'Press Your Luck']",57,2.894736842105263,648,2
 1444,kC284Z9Ffl,Irish Gauge,2014,3.0,5.0,,"['Network and Route Building', 'Stock Holding']",30,3.5666666666666664,658,2
-1445,CJ689HYWUM,Black Fleet,2014,3.0,4.0,Space Cowboys,"['Area Movement', 'Pick-up and Deliver', 'Variable Player Powers']",43,3.3488372093023266,671,3
+1445,CJ689HYWUM,Black Fleet,2014,3.0,4.0,Space Cowboys,"['Area Movement', 'Pick-up and Deliver', 'Variable Player Powers']",44,3.340909090909092,671,3
 1446,B5VE7YWfbB,Hyperborea,2014,2.0,5.0,Asterion Press,"['Area Control', 'Bag Building', 'Grid Movement', 'Modular Board', 'Pool Building', 'Variable Player Powers']",38,3.2894736842105257,679,6
 1447,ZzTGgTGGsv,Marvel Dice Masters: Avengers vs. X-Men,2014,2.0,2.0,,"['Deck Building', 'Dice Rolling', 'Variable Player Powers']",46,3.1956521739130435,698,3
-1448,SuMr3BrO7p,Samurai Spirit,2014,1.0,7.0,Funforge,"['Partnerships', 'Press Your Luck', 'Variable Player Powers', 'Cooperative Play']",42,3.214285714285715,713,4
+1448,SuMr3BrO7p,Samurai Spirit,2014,1.0,7.0,Funforge,"['Partnerships', 'Press Your Luck', 'Variable Player Powers', 'Cooperative Play']",43,3.2558139534883725,713,4
 1449,Ba7UblK39S,The Captain is Dead,2014,2.0,7.0,Alderac Entertainment Group,"['Action Point Allowance System', 'Area Movement', 'Card Drafting', 'Cooperative Play', 'Hand Management', 'Variable Player Powers']",34,3.4411764705882364,716,6
 1450,sai4rM5fOu,Ticket to Ride 10th Anniversary Edition,2014,2.0,5.0,Days of Wonder,"['Hand Management', 'Set Collection', 'Network and Route Building']",33,3.727272727272727,717,3
 1451,b0gLLEEmiq,Marvel Legendary Guardians of The Galaxy,2014,1.0,5.0,Upper Deck,"['Cooperative Play', 'Deck Building']",30,3.733333333333333,740,2
 1453,AZwKU3aCNa,Panamax,2014,2.0,4.0,Stronghold Games,"['Area Control', 'Dice Rolling', 'Pick-up and Deliver', 'Point to Point Movement', 'Stock Holding', 'Worker Placement']",34,3.3823529411764706,793,6
 1454,KwoNC8QHJt,Tuscany: Expand the World of Viticulture,2014,1.0,6.0,Stonemaier Games,"['Variable Player Powers', 'Worker Placement']",26,3.923076923076923,812,2
-1455,gMHerNI10n,"Artifacts, Inc.",2014,2.0,4.0,Red Raven Games,"['Action Point Allowance System', 'Area Control', 'Card Drafting', 'Dice Rolling', 'Set Collection']",40,3.125,823,5
+1455,gMHerNI10n,"Artifacts, Inc.",2014,2.0,4.0,Red Raven Games,"['Action Point Allowance System', 'Area Control', 'Card Drafting', 'Dice Rolling', 'Set Collection']",41,3.1219512195121952,823,5
 1456,S8a0bwsOJr,Good Cop Bad Cop,2014,4.0,8.0,Overworld Games,"['Hand Management', 'Memory', 'Partnerships', 'Player Elimination', 'Take That']",49,2.8707482993197275,829,5
 1457,5sCQz6J5Su,Shadowrun: Crossfire,2014,1.0,4.0,Catalyst Game Labs,"['Cooperative Play', 'Deck Building', 'Pool Building', 'Variable Player Powers']",33,3.242424242424242,846,4
 1458,R4Lps8yyhu,Medieval Academy,2014,2.0,5.0,Blue Cocker Games,"['Area Control', 'Card Drafting', 'Hand Management']",40,2.975,850,3
@@ -812,14 +812,14 @@
 1464,8pObZXFbx7,Witness,2014,4.0,4.0,Publisher Services Inc (PSI),"['Cooperative Play', 'Memory', 'Storytelling']",28,3.2499999999999996,941,3
 1466,z8Uw8rxh47,Greed,2014,2.0,5.0,Queen Games,"['Card Drafting', 'Hand Management', 'Memory', 'Simultaneous action selection']",36,2.9277777777777785,999,4
 1467,qoJhk80LUV,Sankt Petersburg,2014,2.0,5.0,Hans im Gluck,"['Card Drafting', 'Set Collection']",24,3.4583333333333335,1020,2
-1468,0fmLB8rB2G,Fresco Big Box,2014,2.0,4.0,Queen Games,"['Action / Movement Programming', 'Set Collection', 'Worker Placement']",22,3.59090909090909,1029,3
+1468,0fmLB8rB2G,Fresco Big Box,2014,2.0,4.0,Queen Games,"['Action / Movement Programming', 'Set Collection', 'Worker Placement']",23,3.565217391304347,1029,3
 1469,Ui0M4hu0zJ,Eminent Domain: Microcosm,2014,2.0,2.0,Tasty Minstrel Games,"['Card Drafting', 'Deck Building', 'Hand Management']",27,3.0370370370370368,1095,3
 1470,3fph3qc90w,Trains: Rising Sun,2014,2.0,4.0,Publisher Services Inc (PSI),"['Deck Building', 'Hand Management', 'Network and Route Building']",25,3.2066666666666666,1098,3
 1471,dbDTnjOn0q,Ultimate Werewolf: Deluxe Edition,2014,5.0,75.0,Bezier Games,"['Partnerships', 'Player Elimination', 'Role Playing', 'Variable Player Powers', 'Voting']",23,3.3478260869565206,1109,5
 1472,YS6iJu0OLG,Amun-Re: The Card Game,2014,2.0,5.0,Super Meeple,"['Auction', 'Hand Management']",32,2.8437500000000004,1115,2
 1473,TyBPMk60Zd,Thunder Alley,2014,2.0,7.0,GMT Games,['Hand Management'],23,3.2173913043478257,1122,1
 1474,1NVMtpt6KA,Pandemic: Contagion,2014,2.0,5.0,Z-Man Games,"['Area Control', 'Hand Management']",27,2.962962962962963,1133,2
-1475,22Htv224BL,Zombie 15',2014,2.0,4.0,IELLO,"['Action Point Allowance System', 'Cooperative Play', 'Grid Movement', 'Modular Board', 'Variable Player Powers']",21,3.2380952380952386,1165,5
+1475,22Htv224BL,Zombie 15',2014,2.0,4.0,IELLO,"['Action Point Allowance System', 'Cooperative Play', 'Grid Movement', 'Modular Board', 'Variable Player Powers']",22,3.2727272727272734,1165,5
 1476,VX5tV0wiPg,Grifters,2014,2.0,4.0,Indie Boards and Cards,"['Hand Management', 'Pool Building', 'Set Collection', 'Take That']",21,3.2380952380952377,1176,4
 1477,q8WCuNrFq9,Pairs,2014,2.0,8.0,Cheapass Games,['Press Your Luck'],24,2.975490196078432,1191,1
 1478,9CS0OiTAOl,Province,2014,2.0,2.0,Laboratory Games,['Worker Placement'],25,3.04,1192,1
@@ -840,31 +840,31 @@
 1496,cFCjylymJ8,Don't Mess with Cthulhu,2014,4.0,6.0,Indie Boards and Cards,['Partnerships'],18,3.1111111111111107,9999999,1
 1497,lfwZhL9pTi,Doomtown: Reloaded,2014,2.0,4.0,Publisher Services Inc (PSI),"['Hand Management', 'Variable Player Powers']",19,3.210526315789474,9999999,2
 1498,Cd8L9GqTGv,Trekking the National Parks:  First Edition,2014,2.0,6.0,Bink Ink LLC,"['Card Drafting', 'Hand Management', 'Point to Point Movement', 'Set Collection']",10,2.8666666666666663,9999999,4
-1500,7NYbgH2Z2I,Viticulture: Essential Edition,2015,1.0,6.0,Stonemaier Games,"['Engine Building', 'Hand Management', 'Worker Placement']",316,3.896913962561114,5,3
-1501,GP7Y2xOUzj,Codenames,2015,2.0,8.0,Czech Games Edition,['Memory'],560,3.554450334821432,10,1
-1502,j8LdPFmePE,7 Wonders Duel,2015,2.0,2.0,Repos Production,"['Drafting', 'Engine Building', 'Set Collection', 'Tableau Building']",417,3.7759225455456527,12,4
-1503,mce5HZPnF5,Pandemic Legacy: Season 1,2015,2.0,4.0,Z-Man Games,"['Hand Management', 'Legacy', 'Set Collection', 'Trading', 'Cooperative Play']",310,4.152179663605899,13,5
-1504,FldbgzsTYH,Blood Rage,2015,2.0,4.0,CMON,"['Area Control', 'Drafting', 'Hand Management', 'Simultaneous Play']",274,3.7030186811827286,37,4
+1500,7NYbgH2Z2I,Viticulture: Essential Edition,2015,1.0,6.0,Stonemaier Games,"['Engine Building', 'Hand Management', 'Worker Placement']",317,3.89723915510824,5,3
+1501,GP7Y2xOUzj,Codenames,2015,2.0,8.0,Czech Games Edition,['Memory'],561,3.555244540998221,10,1
+1502,j8LdPFmePE,7 Wonders Duel,2015,2.0,2.0,Repos Production,"['Drafting', 'Engine Building', 'Set Collection', 'Tableau Building']",418,3.774066271513247,12,4
+1503,mce5HZPnF5,Pandemic Legacy: Season 1,2015,2.0,4.0,Z-Man Games,"['Hand Management', 'Legacy', 'Set Collection', 'Trading', 'Cooperative Play']",311,4.154905774012311,13,5
+1504,FldbgzsTYH,Blood Rage,2015,2.0,4.0,CMON,"['Area Control', 'Drafting', 'Hand Management', 'Simultaneous Play']",275,3.7004622496147914,37,4
 1505,3tAwjRDw8q,Raiders of the North Sea,2015,2.0,4.0,Garphill Games,"['Hand Management', 'Set Collection', 'Worker Placement']",172,3.7774547803617566,48,3
 1506,nHJNyAWsoo,Mysterium,2015,2.0,7.0,Libellud,"['Cooperative Play', 'Hand Management']",252,3.297619047619049,70,2
 1507,zBikUpC51l,Champions of Midgard,2015,2.0,4.0,Grey Fox Games,"['Dice Rolling', 'Drafting', 'Set Collection', 'Worker Placement']",161,3.7180338402227466,79,4
-1508,rIuNKFl5nr,Isle of Skye: From Chieftain to King,2015,2.0,5.0,Lookout Games,"['Auction', 'Betting', 'Set Collection', 'Tile Placement']",203,3.499507389162562,87,4
-1509,8YYQ8Q3dGv,Arboretum,2015,2.0,4.0,Renegade Game Studios,"['Hand Management', 'Set Collection', 'Tile Placement']",187,3.4942821883998354,89,3
+1508,rIuNKFl5nr,Isle of Skye: From Chieftain to King,2015,2.0,5.0,Lookout Games,"['Auction', 'Betting', 'Set Collection', 'Tile Placement']",204,3.497058823529412,87,4
+1509,8YYQ8Q3dGv,Arboretum,2015,2.0,4.0,Renegade Game Studios,"['Hand Management', 'Set Collection', 'Tile Placement']",188,3.4969721767594106,89,3
 1510,vBBhuJjFVE,Food Chain Magnate,2015,2.0,5.0,Splotter Spellen,"['Drafting', 'Simultaneous Play']",130,3.891268191268192,95,2
 1511,k4sSktfbuH,Through the Ages: A New Story of Civilization,2015,2.0,4.0,Czech Games Edition,"['Action Point Allowance System', 'Auction', 'Card Drafting', 'Tableau Building']",135,3.859259259259258,98,4
 1512,0GVrFfaFUH,Tiny Epic Galaxies,2015,1.0,5.0,Gamelyn Games,"['Area Control', 'Dice Rolling', 'Variable Player Powers']",188,3.396752117145533,104,3
-1513,jBBIIYQmED,The Voyages of Marco Polo,2015,2.0,4.0,Z-Man Games,"['Dice Rolling', 'Drafting', 'Set Collection', 'Variable Player Powers', 'Worker Placement', 'Worker Placement with Dice Workers']",147,3.768959435626102,106,6
+1513,jBBIIYQmED,The Voyages of Marco Polo,2015,2.0,4.0,Z-Man Games,"['Dice Rolling', 'Drafting', 'Set Collection', 'Variable Player Powers', 'Worker Placement', 'Worker Placement with Dice Workers']",148,3.7705205205205203,106,6
 1514,X3vSnCymnX,The Gallerist,2015,1.0,4.0,Eagle-Gryphon Games,"['Set Collection', 'Worker Placement']",91,3.8131868131868134,145,2
-1515,6dSwjFyCwc,The Grizzled,2015,2.0,5.0,CMON,"['Hand Management', 'Press Your Luck', 'Variable Player Powers', 'Cooperative Play']",153,3.418300653594771,149,4
-1516,T8zWWdh0DR,Above and Below,2015,2.0,4.0,Red Raven Games,"['Action Point Allowance System', 'Card Drafting', 'Dice Rolling', 'Set Collection', 'Storytelling', 'Trading']",151,3.4595123419626725,152,6
+1515,6dSwjFyCwc,The Grizzled,2015,2.0,5.0,CMON,"['Hand Management', 'Press Your Luck', 'Variable Player Powers', 'Cooperative Play']",154,3.422077922077922,149,4
+1516,T8zWWdh0DR,Above and Below,2015,2.0,4.0,Red Raven Games,"['Action Point Allowance System', 'Card Drafting', 'Dice Rolling', 'Set Collection', 'Storytelling', 'Trading']",152,3.4696471291866025,152,6
 1517,AqJmP6K78K,Burgle Bros.,2015,1.0,4.0,Tim Fowers,"['Dice Rolling', 'Grid Movement']",128,3.5390624999999973,166,2
 1518,61HxLWWocX,Grand Austria Hotel,2015,2.0,4.0,Lookout Games,"['Dice Rolling', 'Hand Management', 'Set Collection']",105,3.6721804511278204,198,3
 1519,bBQVNekyRm,Potion Explosion,2015,2.0,4.0,CMON,"['Pattern Recognition', 'Set Collection', 'Take That']",125,3.346545454545456,217,3
 1520,J3EADxZcXe,Oh My Goods!,2015,2.0,4.0,Lookout Games,"['Action / Movement Programming', 'Hand Management', 'Press Your Luck', 'Set Collection']",109,3.3021788990825693,222,4
-1521,0X6NaBNOco,Raptor,2015,2.0,2.0,Matagot,"['Action Point Allowance System', 'Grid Movement', 'Hand Management', 'Modular Board', 'Simultaneous Play', 'Take That', 'Variable Player Powers']",103,3.5145631067961167,229,7
-1522,teJTtkbxiX,Fury of Dracula (Third and Fourth Editions),2015,2.0,5.0,Fantasy Flight Games,"['Partnerships', 'Point to Point Movement', 'Secret Unit Deployment', 'Variable Player Powers']",102,3.470588235294116,234,4
+1521,0X6NaBNOco,Raptor,2015,2.0,2.0,Matagot,"['Action Point Allowance System', 'Grid Movement', 'Hand Management', 'Modular Board', 'Simultaneous Play', 'Take That', 'Variable Player Powers']",104,3.5192307692307696,229,7
+1522,teJTtkbxiX,Fury of Dracula (Third and Fourth Editions),2015,2.0,5.0,Fantasy Flight Games,"['Partnerships', 'Point to Point Movement', 'Secret Unit Deployment', 'Variable Player Powers']",103,3.485436893203882,234,4
 1523,DrY71g7Sqw,Between Two Cities,2015,1.0,7.0,Stonemaier Games,"['Card Drafting', 'Partnerships', 'Set Collection', 'Simultaneous Play', 'Tile Placement']",122,3.2219112355057984,238,5
-1524,mKrkemGVFE,Lanterns: The Harvest Festival,2015,2.0,4.0,Renegade Game Studios,"['Hand Management', 'Pattern Building', 'Set Collection', 'Tile Placement']",123,3.252977878615995,260,4
+1524,mKrkemGVFE,Lanterns: The Harvest Festival,2015,2.0,4.0,Renegade Game Studios,"['Hand Management', 'Pattern Building', 'Set Collection', 'Tile Placement']",124,3.25900225056264,260,4
 1525,H6O51FVWf5,Mission: Red Planet (Second Edition),2015,2.0,6.0,Fantasy Flight Games,['Hand Management'],96,3.4879166666666657,276,1
 1526,eQvC7etpPV,Mombasa,2015,2.0,4.0,Eggertspiele,"['Action / Movement Programming', 'Area Control', 'Card Drafting', 'Deck Building', 'Hand Management', 'Simultaneous Play', 'Stock Holding', 'Variable Player Powers', 'Worker Placement']",74,3.719958419958421,296,9
 1527,H0quEw1gSX,Zombicide: Black Plague,2015,1.0,6.0,CMON,"['Cooperative Play', 'Dice Rolling', 'Modular Board', 'Variable Player Powers']",83,3.559979046621268,301,4
@@ -875,15 +875,15 @@
 1533,WlJCBUHsjK,Fuse,2015,1.0,5.0,Renegade Game Studios,"['Card Drafting', 'Dice Rolling', 'Pattern Building']",77,3.2337662337662345,359,3
 1535,a2QjmHyc76,Mottainai,2015,2.0,5.0,Asmadi Games,"['Card Drafting', 'Hand Management', 'Partnerships', 'Set Collection', 'Variable Phase Order']",71,3.283450704225352,382,5
 1536,HU5Lg4E8RT,Star Realms: Colony Wars,2015,2.0,2.0,White Wizard Games,"['Card Drafting', 'Deck Building', 'Hand Management', 'Take That']",67,3.6406429391504034,385,4
-1537,MLnoNb7Hc5,Elysium,2015,3.0,4.0,Asmodee Editions,"['Card Drafting', 'Set Collection']",71,3.3521126760563376,399,2
+1537,MLnoNb7Hc5,Elysium,2015,3.0,4.0,Asmodee Editions,"['Card Drafting', 'Set Collection']",72,3.3611111111111107,399,2
 1538,XDg3Y8HtJP,Monikers,2015,4.0,16.0,Palm Court,"['Acting', 'Card Drafting', 'Role Playing']",54,3.8095238095238084,400,3
 1539,7TsBpyt02g,Stockpile,2015,2.0,5.0,Nauvoo Games,"['Auction', 'Card Drafting', 'Commodity Speculation', 'Stock Holding']",60,3.5666666666666664,401,4
 1540,2RICv6q7dj,Deep Space D-6,2015,1.0,1.0,Tau Leader Games,List could not be pulled.,48,3.666666666666667,404,6
 1541,hR5nHkCzr5,Forbidden Stars,2015,2.0,4.0,Fantasy Flight Games,"['Area Control', 'Dice Rolling', 'Hand Management', 'Modular Board', 'Variable Player Powers']",57,3.4912280701754383,406,5
 1542,WKm8ApKkOk,Celestia,2015,2.0,6.0,Quick Simple Fun,"['Betting', 'Dice Rolling', 'Press Your Luck']",68,3.25,422,3
-1543,uZT3Rb75jp,Specter Ops,2015,2.0,5.0,Plaid Hat Games,"['Dice Rolling', 'Grid Movement', 'Partnerships', 'Point to Point Movement', 'Secret Unit Deployment', 'Variable Player Powers']",67,3.3042479908151554,426,6
+1543,uZT3Rb75jp,Specter Ops,2015,2.0,5.0,Plaid Hat Games,"['Dice Rolling', 'Grid Movement', 'Partnerships', 'Point to Point Movement', 'Secret Unit Deployment', 'Variable Player Powers']",68,3.299773755656109,426,6
 1544,J9W6vjCo0I,Kingdom Death: Monster,2015,1.0,4.0,"Adam Poots Games, LLC","['Cooperative Play', 'Dice Rolling', 'Grid Movement', 'Role Playing', 'Storytelling']",40,3.9000000000000004,451,5
-1545,d1TPKWYUq5,XCOM: The Board Game,2015,1.0,4.0,Fantasy Flight Games,"['Cooperative Play', 'Dice Rolling', 'Hand Management', 'Press Your Luck', 'Real Time', 'Variable Player Powers']",59,3.220338983050847,461,6
+1545,d1TPKWYUq5,XCOM: The Board Game,2015,1.0,4.0,Fantasy Flight Games,"['Cooperative Play', 'Dice Rolling', 'Hand Management', 'Press Your Luck', 'Real Time', 'Variable Player Powers']",60,3.233333333333333,461,6
 1546,TGhVamZQWF,Love Letter: Batman,2015,2.0,4.0,Publisher Services Inc (PSI),"['Hand Management', 'Player Elimination']",72,3.278968253968254,468,2
 1547,X38gi29iJ4,Steampunk Rally,2015,2.0,8.0,Roxley,"['Card Drafting', 'Dice Rolling', 'Modular Board', 'Variable Player Powers']",58,3.275862068965517,473,4
 1548,Uqq7wGK2Dv,Baseball Highlights: 2045,2015,1.0,4.0,Eagle-Gryphon Games,"['Card Drafting', 'Deck Building', 'Hand Management', 'Take That']",47,3.468085106382979,477,4
@@ -894,31 +894,31 @@
 1553,RedQu6t5JD,New York 1901,2015,2.0,4.0,Blue Orange,"['Card Drafting', 'Tile Placement']",63,3.0952380952380953,549,2
 1554,zhqWRndxOQ,Roll for the Galaxy: Ambition,2015,2.0,5.0,Rio Grande Games,"['Deck Building', 'Dice Rolling', 'Variable Phase Order', 'Variable Player Powers', 'Worker Placement']",37,3.8858858858858856,550,5
 1555,4u9feEOO2t,Dice City,2015,1.0,4.0,Alderac Entertainment Group,"['Dice Rolling', 'Take That', 'Worker Placement']",60,3.0666666666666664,558,3
-1556,H54fpEI6RV,TIME Stories: The Marcy Case Expansion,2015,2.0,4.0,Space Cowboys,"['Cooperative Play', 'Dice Rolling', 'Role Playing', 'Storytelling', 'Time Track', 'Variable Player Powers', 'Voting']",47,3.340425531914893,564,7
+1556,H54fpEI6RV,TIME Stories: The Marcy Case Expansion,2015,2.0,4.0,Space Cowboys,"['Cooperative Play', 'Dice Rolling', 'Role Playing', 'Storytelling', 'Time Track', 'Variable Player Powers', 'Voting']",48,3.3749999999999996,564,7
 1557,IaZ7XoAqWt,Cthulhu Wars,2015,2.0,4.0,Petersen Games,"['Action Point Allowance System', 'Area Movement', 'Dice Rolling', 'Variable Player Powers']",39,3.549679487179488,571,4
 1558,RXWalUiX8v,Arctic Scavengers: Base Game + HQ + Recon,2015,1.0,5.0,Rio Grande Games,"['Card Drafting', 'Deck Building', 'Hand Management']",46,3.3913043478260874,575,3
 1559,jRrPiF4ATF,The Bloody Inn,2015,1.0,4.0,Pearl Games,"['Card Drafting', 'Hand Management']",46,3.326086956521739,586,2
-1560,0rkzGcwpi9,Cacao,2015,2.0,4.0,Z-Man Games,"['Area Control', 'Hand Management', 'Tile Placement']",53,3.283018867924528,590,3
+1560,0rkzGcwpi9,Cacao,2015,2.0,4.0,Z-Man Games,"['Area Control', 'Hand Management', 'Tile Placement']",54,3.2777777777777777,590,3
 1562,Twxs1PZ6WJ,Leaving Earth,2015,1.0,5.0,"The Lumenaris Group, Inc.","['Pick-up and Deliver', 'Point to Point Movement', 'Simulation']",24,3.75,611,3
 1563,yfD7VRiMug,Dead Man's Draw,2015,2.0,4.0,Mayday Games,"['Press Your Luck', 'Set Collection', 'Take That', 'Variable Player Powers']",55,3.1043062200956943,633,4
-1564,CZorjyzll1,Epic Card Game,2015,2.0,2.0,Lion Rampant Imports Ltd,"['Card Drafting', 'Hand Management', 'Take That']",56,2.892857142857142,636,3
+1564,CZorjyzll1,Epic Card Game,2015,2.0,2.0,Lion Rampant Imports Ltd,"['Card Drafting', 'Hand Management', 'Take That']",57,2.8771929824561395,636,3
 1565,MHK5opUPFK,Super Motherload,2015,2.0,4.0,Roxley Games,"['Deck Building', 'Hand Management', 'Set Collection', 'Tile Placement', 'Variable Player Powers']",45,3.3999999999999995,638,5
 1566,twgTcBzjW7,Hostage Negotiator,2015,1.0,1.0,Van Ryder Games,"['Card Drafting', 'Dice Rolling', 'Hand Management']",44,3.204545454545454,659,3
 1567,yQ65v0f1U8,The Big Book of Madness,2015,2.0,5.0,IELLO,"['Deck Building', 'Hand Management', 'Player Elimination', 'Variable Player Powers', 'Cooperative Play']",46,3.173913043478261,664,5
 1568,cwqmsJiANz,Warhammer Quest: The Adventure Card Game,2015,1.0,4.0,Fantasy Flight Games,"['Cooperative Play', 'Dice Rolling', 'Role Playing', 'Variable Player Powers']",40,3.4000000000000004,669,4
 1569,qTUeMuDERU,Dale of Merchants,2015,2.0,4.0,Snowdale Design,"['Deck Building', 'Hand Management', 'Set Collection']",29,3.4137931034482762,696,3
-1571,IzGn5EyNo3,Discoveries: The Journals of Lewis and Clark,2015,2.0,4.0,Publisher Services Inc (PSI),"['Dice Rolling', 'Set Collection', 'Worker Placement']",42,3.1904761904761907,721,3
+1571,IzGn5EyNo3,Discoveries: The Journals of Lewis and Clark,2015,2.0,4.0,Publisher Services Inc (PSI),"['Dice Rolling', 'Set Collection', 'Worker Placement']",43,3.2093023255813957,721,3
 1572,ot8xOw2sdr,El Grande Big Box,2015,2.0,5.0,Renegade Game Studios,"['Area Control', 'Area Movement', 'Auction', 'Card Drafting', 'Hand Management', 'Memory', 'Simultaneous Play']",26,3.9038461538461537,745,7
-1573,zq74Pc2Ie3,Risk: Star Wars Edition,2015,2.0,4.0,Hasbro,"['Area Control', 'Area Movement', 'Campaign', 'Dice Rolling', 'Variable Player Powers']",40,3.1999999999999997,760,5
+1573,zq74Pc2Ie3,Risk: Star Wars Edition,2015,2.0,4.0,Hasbro,"['Area Control', 'Area Movement', 'Campaign', 'Dice Rolling', 'Variable Player Powers']",41,3.195121951219512,760,5
 1574,qyndoeKzQ7,Nippon,2015,2.0,4.0,Blackrock Edition,"['Area Control', 'Variable Phase Order']",32,3.651785714285714,762,2
 1575,PLuWVJOKfa,Dr. Eureka,2015,2.0,4.0,Blue Orange Games,['Pattern Building'],43,3.0930232558139537,765,1
-1576,KrgID7g3hL,Catacombs (Third Edition),2015,2.0,5.0,Elzra Games,"['Partnerships', 'Player Elimination', 'Role Playing', 'Variable Player Powers']",23,3.5652173913043472,774,4
+1576,KrgID7g3hL,Catacombs (Third Edition),2015,2.0,5.0,Elzra Games,"['Partnerships', 'Player Elimination', 'Role Playing', 'Variable Player Powers']",24,3.6249999999999996,774,4
 1577,RsQzuBzeZ4,Runebound Third Edition,2015,2.0,4.0,Fantasy Flight Games,"['Dice Rolling', 'Variable Player Powers']",28,3.5,805,2
 1578,i6P5S4sTJ7,Xenoshyft: Onslaught,2015,1.0,4.0,Flat River Group,"['Card Drafting', 'Cooperative Play', 'Variable Player Powers', 'Worker Placement']",37,3.27027027027027,809,4
 1579,oi6gk3J3n6,A Game of Thrones: The Card Game (Second Edition),2015,2.0,4.0,Fantasy Flight Games,"['Card Drafting', 'Hand Management', 'Simultaneous Play', 'Variable Player Powers']",37,3.108108108108108,820,4
-1580,PLTmISGsdZ,Favor of the Pharaoh,2015,2.0,4.0,Bezier Games,"['Deck Building', 'Dice Rolling']",38,3.212719298245614,824,2
+1580,PLTmISGsdZ,Favor of the Pharaoh,2015,2.0,4.0,Bezier Games,"['Deck Building', 'Dice Rolling']",39,3.207264957264957,824,2
 1581,8qOJubR3hK,Shakespeare,2015,1.0,4.0,Asmodee Editions,"['Action Point Allowance System', 'Auction', 'Card Drafting']",31,3.3387096774193554,840,3
-1582,RyWUKZqPfE,Dead Men Tell No Tales,2015,2.0,5.0,Minion Games,"['Action Point Allowance System', 'Cooperative Play', 'Dice Rolling', 'Grid Movement', 'Modular Board', 'Pick-up and Deliver', 'Variable Player Powers']",32,3.1562499999999996,868,7
+1582,RyWUKZqPfE,Dead Men Tell No Tales,2015,2.0,5.0,Minion Games,"['Action Point Allowance System', 'Cooperative Play', 'Dice Rolling', 'Grid Movement', 'Modular Board', 'Pick-up and Deliver', 'Variable Player Powers']",33,3.181818181818181,868,7
 1583,eewJGDEpm4,Smash Up: Pretty Pretty Smash Up Expansion,2015,2.0,4.0,Alderac Entertainment Group,"['Hand Management', 'Variable Player Powers']",33,3.3030303030303036,869,2
 1585,7UXQ2VHkEc,Istanbul: Mocha & Baksheesh Expansion,2015,2.0,5.0,Alderac Entertainment Group,"['Dice Rolling', 'Grid Movement', 'Modular Board', 'Pick-up and Deliver']",21,3.857142857142857,905,4
 1586,MnS3aUJiE5,Tiny Epic Defenders,2015,1.0,4.0,Gamelyn Games,"['Action Point Allowance System', 'Area Control', 'Campaign', 'Cooperative Play', 'Variable Player Powers']",35,3.0285714285714285,910,5
@@ -927,7 +927,7 @@
 1589,6X1nN7ADEb,Porta Nigra,2015,2.0,4.0,Stronghold Games,"['Area Control', 'Area Movement', 'Card Drafting', 'Set Collection']",21,3.2857142857142856,972,4
 1590,vEdMjRlRYj,Magic the Gathering: Arena of the Planeswalkers,2015,2.0,5.0,Wizards of the Coast,"['Dice Rolling', 'Grid Movement', 'Hand Management', 'Modular Board', 'Partnerships']",32,2.9374999999999996,980,5
 1591,b3D20x1QLn,The Prodigals Club,2015,2.0,5.0,Czech Games Edition,"['Action Point Allowance System', 'Hand Management', 'Worker Placement']",28,3.3,991,3
-1592,LVGFgKtrcS,Dragonwood,2015,2.0,4.0,Gamewright,"['Dice Rolling', 'Hand Management', 'Set Collection']",32,2.9687499999999996,1008,3
+1592,LVGFgKtrcS,Dragonwood,2015,2.0,4.0,Gamewright,"['Dice Rolling', 'Hand Management', 'Set Collection']",33,2.939393939393939,1008,3
 1593,nl0eNPCuEm,A Study in Emerald (Second Edition),2015,2.0,5.0,Treefrog Games,"['Area Control', 'Auction', 'Bluffing', 'Card Drafting', 'Deck Building', 'Drafting', 'Partnerships']",25,3.2399999999999998,1009,7
 1594,IZLJrGdopx,Argent: The Consortium,2015,2.0,5.0,Level 99 Games,"['Area Control', 'Worker Placement']",28,3.428571428571429,1014,2
 1595,17BvGBmEuO,Mafia de Cuba,2015,6.0,12.0,Asmodee Editions,"['Partnerships', 'Role Playing', 'Variable Player Powers']",32,2.9375000000000004,1026,3
@@ -937,31 +937,31 @@
 1600,yqR4PtpO8X,Scythe,2016,1.0,5.0,Stonemaier Games,List could not be pulled.,488,3.9482423082076528,3,10
 1601,fDn9rQjH9O,Terraforming Mars,2016,1.0,5.0,Stronghold Games,"['Area Control', 'Tableau Building', 'Cooperative Play']",415,3.8323028605009,7,3
 1602,kPDxpJZ8PD,Spirit Island,2016,1.0,4.0,Greater Than Games,"['Action / Movement Programming', 'Area Control', 'Hand Management', 'Modular Board', 'Set Collection', 'Simultaneous Play', 'Variable Player Powers', 'Cooperative Play']",264,3.9122769753610878,8,8
-1603,VibNUMwsqr,Santorini,2016,2.0,4.0,Spin Master,"['Grid Movement', 'Tile Placement']",299,3.601025156318161,21,2
+1603,VibNUMwsqr,Santorini,2016,2.0,4.0,Spin Master,"['Grid Movement', 'Tile Placement']",300,3.602355072463767,21,2
 1604,wkBw955xS3,Great Western Trail,2016,2.0,4.0,Eggertspiele,"['Deck Building', 'Hand Management', 'Set Collection']",235,3.955573037725729,24,3
 1605,BBg2uXXdB8,Kingdomino,2016,2.0,4.0,Blue Orange Games,"['Drafting', 'Tile Placement']",333,3.4294210928426216,27,2
-1606,4G32qGJZWs,Arkham Horror: The Card Game,2016,1.0,2.0,Fantasy Flight Publishing,"['Cooperative Play', 'Hand Management']",210,3.8608225108225107,39,2
+1606,4G32qGJZWs,Arkham Horror: The Card Game,2016,1.0,2.0,Fantasy Flight Publishing,"['Cooperative Play', 'Hand Management']",211,3.8614821197759586,39,2
 1607,6VQXkkC5ql,Dominion: Second Edition,2016,2.0,4.0,Rio Grande Games,"['Deck Building', 'Engine Building', 'Hand Management']",236,3.470978594765184,41,3
 1608,M5treAlrHc,Agricola (Revised Edition),2016,1.0,4.0,Lookout Games,"['Drafting', 'Hand Management', 'Worker Placement']",212,3.6575971198612716,50,3
-1609,KpKepc41At,Sushi Go Party!,2016,2.0,8.0,Gamewright,"['Card Drafting', 'Drafting', 'Hand Management', 'Set Collection', 'Simultaneous Play']",253,3.4294114599436787,54,5
-1610,Qq2rPNOpoO,Star Wars: Rebellion,2016,2.0,4.0,Fantasy Flight Publishing,"['Area Control', 'Area Movement', 'Dice Rolling', 'Hand Management']",159,3.9661368544019258,55,4
+1609,KpKepc41At,Sushi Go Party!,2016,2.0,8.0,Gamewright,"['Card Drafting', 'Drafting', 'Hand Management', 'Set Collection', 'Simultaneous Play']",254,3.4277208636446876,54,5
+1610,Qq2rPNOpoO,Star Wars: Rebellion,2016,2.0,4.0,Fantasy Flight Publishing,"['Area Control', 'Area Movement', 'Dice Rolling', 'Hand Management']",160,3.9663484990619136,55,4
 1611,ilkKd5gDhg,A Feast For Odin,2016,1.0,4.0,Z-Man Games,"['Dice Rolling', 'Tile Placement', 'Worker Placement']",157,3.8639258830341636,60,3
 1612,Zspd2nNHfz,Mansions of Madness: Second Edition,2016,1.0,5.0,Fantasy Flight Games,"['Dice Rolling', 'Storytelling', 'Variable Player Powers']",185,3.6329139423802457,71,3
 1613,pPZnlKC4G3,Inis,2016,2.0,4.0,Matagot,"['Area Control', 'Drafting', 'Hand Management', 'Memory', 'Tile Placement']",141,3.828336557059962,73,5
-1614,jgUiAHDCTK,Captain Sonar,2016,2.0,8.0,Matagot,"['Grid Movement', 'Hidden Movement', 'Real Time', 'Teams']",183,3.6065573770491794,88,4
+1614,jgUiAHDCTK,Captain Sonar,2016,2.0,8.0,Matagot,"['Grid Movement', 'Hidden Movement', 'Real Time', 'Teams']",184,3.6032608695652164,88,4
 1615,cb1DcPrnkz,Secret Hitler,2016,5.0,10.0,Secret Hitler,"['Bluffing', 'Conversation', 'Player Elimination', 'Teams', 'Voting']",166,3.538914783220473,109,5
 1616,9e0nNBNyOU,Codenames: Duet,2016,2.0,2.0,Czech Games Edition,"['Press Your Luck', 'Partnerships', 'Cooperative Play']",157,3.64968152866242,110,3
-1617,fZ8RsZxJVM,Mechs vs. Minions,2016,2.0,4.0,Riot,"['Action / Movement Programming', 'Card Drafting', 'Cooperative Play', 'Dice Rolling', 'Modular Board', 'Role Playing', 'Variable Player Powers']",140,3.699999999999999,119,7
-1618,a1DnNmZRpb,T.I.M.E. Stories,2016,2.0,4.0,Space Cowboys,"['Cooperative Play', 'Dice Rolling', 'Time Track', 'Variable Player Powers']",172,3.357089272318079,121,4
-1619,7P5sZDmCAC,Roll Player,2016,1.0,4.0,Thunderworks Games,"['Card Drafting', 'Dice Rolling', 'Set Collection', 'Variable Player Powers']",141,3.5810326633782417,127,4
+1617,fZ8RsZxJVM,Mechs vs. Minions,2016,2.0,4.0,Riot,"['Action / Movement Programming', 'Card Drafting', 'Cooperative Play', 'Dice Rolling', 'Modular Board', 'Role Playing', 'Variable Player Powers']",141,3.695035460992907,119,7
+1618,a1DnNmZRpb,T.I.M.E. Stories,2016,2.0,4.0,Space Cowboys,"['Cooperative Play', 'Dice Rolling', 'Time Track', 'Variable Player Powers']",173,3.3665858661197086,121,4
+1619,7P5sZDmCAC,Roll Player,2016,1.0,4.0,Thunderworks Games,"['Card Drafting', 'Dice Rolling', 'Set Collection', 'Variable Player Powers']",142,3.5839831375798035,127,4
 1621,XYkhDbPq0c,Codenames: Pictures,2016,2.0,8.0,Czech Games Edition,"['Memory', 'Partnerships', 'Press Your Luck']",163,3.392638036809818,142,3
 1622,Yd28NnaUA0,Citadels,2016,2.0,8.0,"Z-Man Games, Inc.","['Card Drafting', 'Set Collection', 'Variable Player Powers']",184,3.1197607131685974,159,3
-1623,CT18FG3Yz5,Aeon's End,2016,1.0,4.0,Publisher Services Inc (PSI),"['Deck Building', 'Drafting', 'Hand Management', 'Cooperative Play']",96,3.7500000000000004,161,4
+1623,CT18FG3Yz5,Aeon's End,2016,1.0,4.0,Publisher Services Inc (PSI),"['Deck Building', 'Drafting', 'Hand Management', 'Cooperative Play']",97,3.7525773195876293,161,4
 1625,jPKgqDSmKv,Pandemic: Iberia,2016,2.0,4.0,Z-Man Games,"['Action Point Allowance System', 'Cooperative Play', 'Hand Management', 'Point to Point Movement', 'Set Collection', 'Trading', 'Variable Player Powers']",109,3.704304869442485,167,7
 1626,kKaq4geQYI,Flamme Rouge,2016,2.0,4.0,Stronghold Games,"['Hand Management', 'Modular Board', 'Simulation', 'Simultaneous Play']",111,3.4774774774774775,178,4
 1627,aPOzLfTSS9,Scythe: Invaders from Afar,2016,1.0,7.0,Stonemaier Games,['Area Control'],82,4.035011801730921,184,1
 1628,8xkkOT11DT,Evolution: Climate,2016,2.0,6.0,North Star Games,"['Action Point Allowance System', 'Engine Building', 'Hand Management', 'Press Your Luck', 'Secret Unit Deployment', 'Simulation', 'Tableau Building', 'Take That']",82,3.670731707317073,194,8
-1629,Zd3nGqEu4q,Arkham Horror,2016,1.0,8.0,Fantasy Flight Games,"['Hand Management', 'Cooperative Play']",157,3.1259266993839407,205,2
+1629,Zd3nGqEu4q,Arkham Horror,2016,1.0,8.0,Fantasy Flight Games,"['Hand Management', 'Cooperative Play']",158,3.137787922805561,205,2
 1630,fDqZtSW73n,Acquire,2016,3.0,6.0,3M,"['Hand Management', 'Stock Holding', 'Tile Placement']",129,3.366109071127429,207,3
 1631,7aNZGj840b,Imhotep,2016,2.0,4.0,Thames & Kosmos,"['Area Control', 'Modular Board', 'Set Collection']",107,3.429906542056074,211,3
 1632,UfbQPfF6jK,Hero Realms,2016,1.0,4.0,Lion Rampant Imports Ltd,"['Deck Building', 'Drafting', 'Hand Management', 'Take That']",119,3.4653474292942983,214,4
@@ -973,22 +973,22 @@
 1638,liDOjtmpFp,7 Wonders Duel: Pantheon,2016,2.0,2.0,Repos Production,"['Card Drafting', 'Engine Building', 'Set Collection']",74,3.8524538524538525,257,3
 1639,0iNuJdgbmq,One Deck Dungeon,2016,1.0,2.0,Asmadi Games,"['Deck Building', 'Dice Rolling', 'Cooperative Play']",100,3.2510714285714286,258,3
 1640,ehzTCNFlhw,Exit: The Abandoned Cabin,2016,1.0,6.0,Thames & Kosmos,['Cooperative Play'],86,3.7093023255813957,278,1
-1641,9F2mfE7Y6Z,Mystic Vale,2016,2.0,4.0,Alderac Entertainment Group,"['Deck Building', 'Press Your Luck']",98,3.370262390670554,281,2
+1641,9F2mfE7Y6Z,Mystic Vale,2016,2.0,4.0,Alderac Entertainment Group,"['Deck Building', 'Press Your Luck']",99,3.376623376623377,281,2
 1642,M0VQtU5g13,Cry Havoc,2016,2.0,4.0,Portal Publishing,"['Area Control', 'Deck Building']",72,3.3750000000000004,294,2
 1643,gOTObAtSjb,Vast: The Crystal Caverns,2016,1.0,5.0,Leder Games,"['Action Point Allowance System', 'Grid Movement', 'Hand Management', 'Modular Board', 'Tile Placement', 'Variable Player Powers']",81,3.248842592592594,315,6
 1644,on5IaANEQh,The Networks,2016,1.0,5.0,Formal Ferret Games,"['Card Drafting', 'Set Collection']",83,3.4282584884994507,320,2
 1645,TI54ZDYCGS,Lorenzo il Magnifico,2016,2.0,4.0,CMON,"['Card Drafting', 'Dice Rolling', 'Variable Player Powers', 'Worker Placement', 'Worker Placement with Dice Workers']",56,3.8928571428571423,325,5
 1646,dFmuPja8c6,The Manhattan Project: Energy Empire,2016,1.0,5.0,Minion Games,"['Dice Rolling', 'Tableau Building', 'Worker Placement']",63,3.6238095238095234,358,3
 1647,ZsBRsquOIu,Junk Art,2016,2.0,6.0,Pretzel Games,"['Dexterity', 'Hand Management', 'Player Elimination', 'Simultaneous Play']",73,3.397260273972602,365,4
-1648,Jr6iHnx4Mn,Pandemic: Reign of Cthulhu,2016,2.0,4.0,Z-Man Games,"['Action Point Allowance System', 'Cooperative Play', 'Hand Management', 'Point to Point Movement', 'Set Collection', 'Trading', 'Variable Player Powers']",74,3.432432432432433,366,7
+1648,Jr6iHnx4Mn,Pandemic: Reign of Cthulhu,2016,2.0,4.0,Z-Man Games,"['Action Point Allowance System', 'Cooperative Play', 'Hand Management', 'Point to Point Movement', 'Set Collection', 'Trading', 'Variable Player Powers']",75,3.426666666666667,366,7
 1649,r6ZEp8TnXX,Millennium Blades,2016,2.0,5.0,Level 99 Games,List could not be pulled.,59,3.813559322033898,383,11
 1650,9uhmUaJqat,Adrenaline,2016,3.0,5.0,Czech Games Edition,"['Action Point Allowance System', 'Area Control', 'Card Drafting', 'Grid Movement', 'Hand Management']",75,3.2951937984496116,395,5
-1651,c6zGlYyFXt,Dead of Winter: The Long Night,2016,2.0,5.0,Plaid Hat Games,"['Action Point Allowance System', 'Area Movement', 'Dice Rolling', 'Hand Management', 'Press Your Luck', 'Storytelling', 'Variable Player Powers', 'Voting', 'Cooperative Play']",63,3.3968253968253967,411,9
+1651,c6zGlYyFXt,Dead of Winter: The Long Night,2016,2.0,5.0,Plaid Hat Games,"['Action Point Allowance System', 'Area Movement', 'Dice Rolling', 'Hand Management', 'Press Your Luck', 'Storytelling', 'Variable Player Powers', 'Voting', 'Cooperative Play']",64,3.40625,411,9
 1652,XDNYRxIjFH,The Castles of Burgundy: The Card Game,2016,1.0,4.0,Ravensburger,"['Card Drafting', 'Hand Management', 'Set Collection']",74,3.1216216216216206,425,3
 1653,xz0xM0AKTu,Exit: The Secret Lab,2016,1.0,6.0,Thames & Kosmos,['Cooperative Play'],66,3.4173553719008267,428,1
 1654,M9B3TQBnjK,Valeria: Card Kingdoms,2016,1.0,5.0,Daily Magic Games,"['Card Drafting', 'Deck Building', 'Dice Rolling']",57,3.674185463659148,429,3
 1655,Nr3vGlo1Iz,Tyrants of the Underdark,2016,2.0,4.0,Gale Force Nine,"['Area Control', 'Deck Building', 'Take That']",50,3.779999999999999,432,3
-1656,EnGYEQzyCo,Cottage Garden,2016,1.0,4.0,Stronghold Games,"['Pattern Building', 'Tile Placement']",75,3.2275555555555555,434,2
+1656,EnGYEQzyCo,Cottage Garden,2016,1.0,4.0,Stronghold Games,"['Pattern Building', 'Tile Placement']",76,3.2508771929824563,434,2
 1657,s7n0Tqhpzh,Not Alone,2016,2.0,7.0,Stronghold Games,"['Deck Building', 'Engine Building', 'Hand Management']",67,3.164179104477612,436,3
 1658,iHa5BgZnIC,Exit: The Pharaoh's Tomb,2016,1.0,6.0,Thames & Kosmos,['Cooperative Play'],64,3.46875,437,1
 1659,OfW8SkMrMy,51st State: Master Set,2016,1.0,4.0,Portal Publishing,"['Card Drafting', 'Hand Management', 'Variable Phase Order', 'Worker Placement']",54,3.541152263374486,438,4
@@ -998,12 +998,12 @@
 1663,nErpFnUWwP,Happy Salmon,2016,3.0,6.0,North Star Games,['Simultaneous Play'],62,3.161290322580645,518,1
 1664,fxLx94woFL,Islebound,2016,2.0,4.0,Red Raven Games,"['Area Control', 'Area Movement', 'Modular Board']",56,3.327008928571429,522,3
 1665,InZ8fuJ07I,Star Wars: Destiny,2016,2.0,2.0,,"['Dice Rolling', 'Hand Management', 'Variable Player Powers']",49,3.469387755102041,526,3
-1666,eKnUDWn7Qi,Kanagawa,2016,2.0,4.0,IELLO,"['Card Drafting', 'Hand Management', 'Pattern Building', 'Press Your Luck', 'Set Collection', 'Worker Placement']",57,3.1206140350877187,532,6
+1666,eKnUDWn7Qi,Kanagawa,2016,2.0,4.0,IELLO,"['Card Drafting', 'Hand Management', 'Pattern Building', 'Press Your Luck', 'Set Collection', 'Worker Placement']",58,3.135775862068965,532,6
 1667,teMrdkdVEU,Fabled Fruit,2016,2.0,5.0,Stronghold Games,"['Set Collection', 'Worker Placement']",51,3.3529411764705883,551,2
 1668,nTC0G1Y8Mc,First Class,2016,2.0,4.0,Z-Man Games,"['Card Drafting', 'Set Collection']",41,3.6341463414634148,599,2
 1669,7Bt5FAdB1Q,Viticulture: Moor Visitors Expansion,2016,1.0,6.0,Stonemaier Games,"['Hand Management', 'Worker Placement']",33,3.9350649350649345,610,2
 1670,fJeloI8k9B,Kodama: The Tree Spirits,2016,2.0,5.0,Indie Boards and Cards,"['Card Placement', 'Set Collection']",55,3.071861471861472,630,2
-1671,VZjARlZNqM,Welcome Back to the Dungeon,2016,2.0,4.0,IELLO,"['Memory', 'Player Elimination', 'Press Your Luck']",49,3.182570325427468,632,3
+1671,VZjARlZNqM,Welcome Back to the Dungeon,2016,2.0,4.0,IELLO,"['Memory', 'Player Elimination', 'Press Your Luck']",50,3.1789189189189186,632,3
 1672,qFjVAUzLLh,Tiny Epic Western,2016,1.0,4.0,Gamelyn Games,"['Area Control', 'Dice Rolling', 'Set Collection', 'Variable Player Powers', 'Worker Placement']",52,3.0,639,5
 1673,H11xb8oEA3,Explorers of the North Sea,2016,1.0,4.0,Garphill Games,"['Action Point Allowance System', 'Area Control', 'Grid Movement', 'Modular Board', 'Pick-up and Deliver', 'Set Collection', 'Tile Placement', 'Variable Player Powers']",35,3.6857142857142855,654,8
 1674,EpG7ZCEsVi,The Colonists,2016,1.0,4.0,Lookout Games,"['Area Movement', 'Card Drafting', 'Hand Management', 'Modular Board', 'Tile Placement', 'Worker Placement']",32,3.5,682,6
@@ -1017,7 +1017,7 @@
 1682,cVOMRdgFbs,The Oracle of Delphi,2016,2.0,4.0,Tasty Minstrel Games,"['Dice Rolling', 'Engine Building', 'Pick-up and Deliver', 'Point to Point Movement', 'Variable Player Powers']",38,3.2090643274853803,784,5
 1683,18IdkflEML,A Game of Thrones: Hand of the King,2016,2.0,4.0,Fantasy Flight Games,"['Card Drafting', 'Grid Movement', 'Set Collection']",43,3.021963824289406,796,3
 1684,9EBi0ZuksD,Mare Nostrum: Empires,2016,3.0,5.0,Academy Games,"['Area Control', 'Dice Rolling', 'Set Collection', 'Trading', 'Variable Player Powers']",31,3.5387096774193547,822,5
-1685,a3zG8DCor2,The Grizzled: At Your Orders!,2016,1.0,5.0,CMON,"['Cooperative Play', 'Hand Management']",24,3.708333333333333,830,2
+1685,a3zG8DCor2,The Grizzled: At Your Orders!,2016,1.0,5.0,CMON,"['Cooperative Play', 'Hand Management']",25,3.7199999999999998,830,2
 1686,8o3bb4IoSk,La Granja: No Siesta,2016,1.0,4.0,Stronghold Games,"['Card Drafting', 'Dice Rolling']",34,3.38235294117647,833,2
 1687,NYv3LVGTtE,Automobiles,2016,2.0,5.0,Alderac Entertainment Group,"['Deck Building', 'Hand Management']",32,3.4374999999999996,844,2
 1688,Qbmxkc72UX,Archaeology: The New Expedition,2016,2.0,5.0,Z-Man Games,"['Card Drafting', 'Press Your Luck', 'Set Collection']",30,3.2666666666666675,859,3
@@ -1025,43 +1025,43 @@
 1690,YjeK7kKy46,Awkward Guests,2016,2.0,8.0,Megacorpin Games,"['Card Drafting', 'Hand Management', 'Trading']",21,3.5714285714285707,879,3
 1691,sX6oYnBhGo,"Machi Koro: Bright Lights, Big City",2016,2.0,2.0,IDW Games,"['Card Drafting', 'Dice Rolling']",42,2.8506493506493498,884,2
 1692,zVcRIELAGe,Codenames: Deep Undercover,2016,4.0,8.0,Czech Games Edition,"['Memory', 'Partnerships', 'Press Your Luck']",34,3.2352941176470584,892,3
-1693,hdmugUAp7H,Lotus,2016,2.0,4.0,Renegade Game Studios,"['Area Majority/ Influence', 'Hand Management', 'Set Collection']",43,2.7976744186046516,939,3
+1693,hdmugUAp7H,Lotus,2016,2.0,4.0,Renegade Game Studios,"['Area Majority/ Influence', 'Hand Management', 'Set Collection']",44,2.8022727272727277,939,3
 1694,vfm0WEZKmZ,TIME Stories: Under The Mask Expansion,2016,2.0,4.0,Space Cowboys,"['Cooperative Play', 'Dice Rolling', 'Role Playing', 'Storytelling', 'Time Track', 'Variable Player Powers', 'Voting']",23,3.5217391304347823,942,7
 1695,dl1bheGD2t,The Flow of History,2016,2.0,5.0,Tasty Minstrel Games,"['Auction', 'Set Collection', 'Take That']",29,3.1724137931034493,973,3
 1696,LoFcjCA0bZ,Ulm,2016,2.0,4.0,R and R Games,"['Area Control', 'Set Collection']",28,3.2959183673469394,990,2
 1697,e1bDTLO58Z,Joking Hazard,2016,3.0,10.0,Joking Hazard LLC,['Hand Management'],44,2.590909090909091,1011,1
-1698,F0TIZSS4Iw,Escape Room: The Game,2016,3.0,5.0,Spin Master,['Cooperative Play'],26,3.3846153846153855,1018,1
+1698,F0TIZSS4Iw,Escape Room: The Game,2016,3.0,5.0,Spin Master,['Cooperative Play'],27,3.4074074074074083,1018,1
 1699,yqh79TlCi8,New Angeles,2016,4.0,6.0,Fantasy Flight Games,"['Cooperative Play', 'Variable Player Powers', 'Voting']",25,3.2399999999999993,1022,3
-1700,RLlDWHh7hR,Gloomhaven,2017,1.0,4.0,Cephalofair Games,"['Campaign', 'Cooperative Play', 'Grid Movement', 'Hand Management', 'Legacy', 'Modular Board', 'Role Playing', 'Simultaneous action selection', 'Storytelling', 'Variable Player Powers']",293,4.160759937190983,2,10
-1701,i5Oqu5VZgP,Azul,2017,2.0,4.0,Next Move Games,['Tile Placement'],466,3.7223956301209498,6,1
+1700,RLlDWHh7hR,Gloomhaven,2017,1.0,4.0,Cephalofair Games,"['Campaign', 'Cooperative Play', 'Grid Movement', 'Hand Management', 'Legacy', 'Modular Board', 'Role Playing', 'Simultaneous action selection', 'Storytelling', 'Variable Player Powers']",294,4.1636144952277485,2,10
+1701,i5Oqu5VZgP,Azul,2017,2.0,4.0,Next Move Games,['Tile Placement'],467,3.7251313996495985,6,1
 1702,8YoVXov23k,Clans of Caledonia,2017,1.0,4.0,Karma Games,"['Modular Board', 'Variable Player Powers', 'Network and Route Building']",142,3.9272862052698985,33,3
-1703,mJr3oebP6p,Sagrada,2017,1.0,4.0,Floodgate Games,List could not be pulled.,253,3.521519691929747,45,5
+1703,mJr3oebP6p,Sagrada,2017,1.0,4.0,Floodgate Games,List could not be pulled.,254,3.523403472670181,45,5
 1704,yPwGVk8lB2,Gaia Project,2017,1.0,4.0,Z-Man Games,"['Area Control', 'Network and Route Building']",106,4.1037735849056585,68,2
 1705,E35EBpxuDX,Century: Spice Road,2017,2.0,5.0,Plan B Games,"['Drafting', 'Hand Management', 'Set Collection']",199,3.4745466462748515,85,3
-1706,5tnoVda0AY,Twilight Imperium 4th Edition,2017,3.0,6.0,Fantasy Flight Games,"['Area Control', 'Dice Rolling', 'Set Collection', 'Trading', 'Voting']",93,4.258064516129035,93,5
+1706,5tnoVda0AY,Twilight Imperium 4th Edition,2017,3.0,6.0,Fantasy Flight Games,"['Area Control', 'Dice Rolling', 'Set Collection', 'Trading', 'Voting']",94,4.255319148936173,93,5
 1707,kDvbzBiavI,The 7th Continent,2017,1.0,4.0,,"['Cooperative Play', 'Grid Movement', 'Hand Management', 'Modular Board', 'Storytelling', 'Variable Player Powers']",115,3.8591897233201586,101,6
-1708,bSFxESny3q,The Quest for El Dorado,2017,2.0,4.0,Ravensburger,"['Card Drafting', 'Deck Building', 'Grid Movement', 'Hand Management', 'Modular Board']",133,3.6269706524375454,111,5
+1708,bSFxESny3q,The Quest for El Dorado,2017,2.0,4.0,Ravensburger,"['Card Drafting', 'Deck Building', 'Grid Movement', 'Hand Management', 'Modular Board']",134,3.6222917669715935,111,5
 1709,MVuJW1rWlY,Dinosaur Island,2017,1.0,4.0,Pandasaurus Games,"['Dice Rolling', 'Set Collection', 'Tile Placement', 'Worker Placement']",135,3.630779465417394,113,4
 1710,q4g2Y5eqyZ,The Fox in the Forest,2017,2.0,2.0,Renegade Game Studios,['Hand Management'],156,3.5042648883374694,117,1
 1711,mFWYqQTYl4,Anachrony,2017,1.0,4.0,Mindclash Games,"['Dice Rolling', 'Engine Building', 'Set Collection', 'Tableau Building', 'Worker Placement']",110,3.834249471458773,120,5
 1712,HQTOoWnfJm,Charterstone,2017,1.0,6.0,Stonemaier Games,"['Drafting', 'Hand Management', 'Legacy', 'Worker Placement']",134,3.514925373134328,130,4
-1713,Kv7jwuCexB,Century: Golem Edition,2017,2.0,5.0,Plan B Games,"['Card Drafting', 'Hand Management', 'Set Collection']",109,3.6422018348623855,133,3
+1713,Kv7jwuCexB,Century: Golem Edition,2017,2.0,5.0,Plan B Games,"['Card Drafting', 'Hand Management', 'Set Collection']",110,3.6363636363636367,133,3
 1714,nlcJOyC0SG,Photosynthesis,2017,2.0,4.0,Blue Orange Games,['Action Point Allowance System'],154,3.2807192807192815,150,1
 1715,xBN25pEVRv,Magic Maze,2017,1.0,8.0,Dude Games,"['Cooperative Play', 'Grid Movement']",159,3.2830188679245285,153,2
-1716,e9D9i2fESi,Barenpark,2017,2.0,4.0,Lookout Games,"['Card Drafting', 'Set Collection', 'Tile Placement']",135,3.5138401559454193,157,3
+1716,e9D9i2fESi,Barenpark,2017,2.0,4.0,Lookout Games,"['Card Drafting', 'Set Collection', 'Tile Placement']",136,3.5100619195046443,157,3
 1717,vFMkVLRu8x,Ethnos,2017,2.0,6.0,CMON,"['Area Control', 'Drafting', 'Hand Management', 'Set Collection']",129,3.4806201550387597,169,4
 1718,FUZ8eXUZCw,Dice Forge,2017,2.0,4.0,Libellud,"['Card Drafting', 'Dice Building', 'Dice Rolling']",123,3.463414634146342,177,3
 1719,uNNMm6GiSF,Too Many Bones,2017,1.0,4.0,Chip Theory Games,"['Campaign', 'Cooperative Play', 'Dice Building', 'Dice Rolling', 'Hand Management', 'Pool Building', 'Role Playing', 'Variable Player Powers']",50,4.121818181818182,183,8
 1720,f895NWgAcx,Lisboa,2017,1.0,4.0,Eagle-Gryphon Games,"['Area Control', 'Drafting', 'Hand Management', 'Tile Placement']",64,4.013671874999999,201,4
-1721,1ESn6eONfa,Pandemic Legacy: Season 2,2017,2.0,4.0,Z-Man Games,"['Cooperative Play', 'Legacy']",86,3.8111210494931416,202,2
+1721,1ESn6eONfa,Pandemic Legacy: Season 2,2017,2.0,4.0,Z-Man Games,"['Cooperative Play', 'Legacy']",87,3.8247863247863236,202,2
 1722,xGn6ak2zxy,Clank! In! Space!,2017,2.0,4.0,Renegade Game Studios,"['Card Drafting', 'Deck Building', 'Modular Board', 'Player Elimination', 'Point to Point Movement', 'Pool Building', 'Press Your Luck']",69,3.851315083199142,216,7
 1723,btFnlGIdZD,Near and Far,2017,2.0,4.0,Red Raven Games,"['Dice Rolling', 'Drafting', 'Set Collection', 'Network and Route Building']",85,3.748235294117646,223,4
 1724,X1Ry7UjFFp,Downforce,2017,2.0,6.0,Restoration Games,"['Auction', 'Betting', 'Hand Management', 'Variable Player Powers']",92,3.5869565217391313,244,4
 1725,2jYvBeI0jp,My Little Scythe,2017,1.0,6.0,,"['Area Control', 'Dice Rolling', 'Grid Movement', 'Pick-up and Deliver', 'Take That']",53,3.536915504511894,245,5
 1726,emXlF6hhuP,Fog of Love,2017,2.0,2.0,Hush Hush Projects,"['Cooperative Play', 'Hand Management', 'Role Playing', 'Simulation', 'Simultaneous Play', 'Storytelling']",96,3.427083333333332,248,6
-1727,5ygNA78TL1,Queendomino,2017,2.0,4.0,Blue Orange Games,"['Area Enclosure', 'Card Drafting', 'Tile Placement', 'Variable Phase Order']",90,3.348263888888888,289,4
+1727,5ygNA78TL1,Queendomino,2017,2.0,4.0,Blue Orange Games,"['Area Enclosure', 'Card Drafting', 'Tile Placement', 'Variable Phase Order']",91,3.3444368131868125,289,4
 1728,dYkdFNrWYy,Altiplano,2017,2.0,5.0,Renegade Game Studios,"['Action Point Allowance System', 'Bag Building', 'Variable Player Powers']",77,3.502515502515502,307,3
-1729,dfjoaijLcJ,Rajas of the Ganges,2017,2.0,4.0,HUCH!,"['Dice Rolling', 'Tile Placement', 'Worker Placement']",76,3.5975877192982453,318,3
+1729,dfjoaijLcJ,Rajas of the Ganges,2017,2.0,4.0,HUCH!,"['Dice Rolling', 'Tile Placement', 'Worker Placement']",77,3.6028138528138527,318,3
 1730,inrjoSn8GD,Tiny Epic Quest,2017,1.0,4.0,Gamelyn Games,"['Area Movement', 'Dice Rolling', 'Modular Board', 'Press Your Luck']",86,3.1880214101144335,327,4
 1731,k7nXOrGDtW,Mint Works,2017,1.0,4.0,Mr. B Games,"['Action Selection', 'Card Drafting', 'Worker Placement']",91,3.1868131868131853,329,3
 1732,HoUzABdX9t,Heaven & Ale,2017,2.0,4.0,Eggertspiele,"['Resource Gathering', 'Rondel', 'Tile Placement']",65,3.6106508875739642,342,3
@@ -1073,23 +1073,23 @@
 1738,58eqTsOAuC,This War Of Mine: The Board Game,2017,1.0,6.0,Awaken Realms,"['Action Point Allowance System', 'Cooperative Play', 'Dice Rolling', 'Grid Movement', 'Press Your Luck', 'Role Playing', 'Simulation', 'Storytelling', 'Worker Placement']",46,3.739130434782608,384,9
 1739,esVg9eV5Ue,Bunny Kingdom,2017,2.0,4.0,IELLO,"['Area Control', 'Card Drafting']",66,3.3939393939393945,386,2
 1740,YfElAOb9o7,Sidereal Confluence,2017,4.0,9.0,WizKids Games,"['Auction', 'Trading']",47,3.76595744680851,392,2
-1741,88ZDb8829K,Caverna: Cave vs Cave,2017,1.0,2.0,Lookout Games,"['Tile Placement', 'Worker Placement']",69,3.335748792270532,423,2
+1741,88ZDb8829K,Caverna: Cave vs Cave,2017,1.0,2.0,Lookout Games,"['Tile Placement', 'Worker Placement']",70,3.345238095238096,423,2
 1742,SXVWTlUcEb,Aeon's End: War Eternal,2017,1.0,4.0,PSIQ7,"['Card Drafting', 'Cooperative Play', 'Deck Building', 'Hand Management', 'Variable Phase Order', 'Variable Player Powers']",44,4.0681818181818175,430,6
 1743,krIC603gYl,NMBR 9,2017,1.0,4.0,Z-Man Games,"['Pattern Building', 'Simultaneous Play', 'Tile Placement']",73,3.1394769613947693,441,3
 1744,B5suE6HYs5,Wasteland Express Delivery Service,2017,2.0,5.0,Publisher Services Inc (PSI),"['Action Point Allowance System', 'Dice Rolling', 'Modular Board', 'Pick-up and Deliver', 'Variable Player Powers']",52,3.5576923076923075,450,5
 1745,4MSnryD1uj,Ex Libris,2017,2.0,4.0,Renegade Game Studios,"['Card Drafting', 'Hand Management', 'Set Collection', 'Tile Placement', 'Variable Player Powers', 'Worker Placement']",58,3.310344827586207,470,6
 1746,otIQ3ZB83G,Spirit Island: Branch & Claw,2017,1.0,4.0,Greater Than Games,"['Card Drafting', 'Cooperative Play', 'Hand Management', 'Modular Board', 'Simultaneous Play', 'Variable Player Powers']",31,4.129032258064516,471,6
-1747,Qvd6HFMI9t,Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures,2017,1.0,8.0,Asmodee Editions,"['Cooperative Play', 'Storytelling']",39,3.923076923076922,476,2
+1747,Qvd6HFMI9t,Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures,2017,1.0,8.0,Asmodee Editions,"['Cooperative Play', 'Storytelling']",40,3.924999999999999,476,2
 1748,dwLdPI1qlv,Nusfjord,2017,1.0,5.0,Lookout Games,['Worker Placement'],45,3.577777777777778,480,1
 1749,MqTAWdPzke,Dragon Castle,2017,2.0,4.0,CMON,"['Card Drafting', 'Pattern Building', 'Pattern Recognition', 'Tile Placement']",51,3.392156862745099,486,4
 1750,BsW53eMDNO,Terraforming Mars: Hellas & Elysium,2017,1.0,5.0,Stronghold Games,"['Card Drafting', 'Hand Management', 'Tile Placement', 'Variable Player Powers']",33,3.9090909090909087,488,4
 1751,QAfBISmJ1O,The Godfather: Corleone's Empire,2017,2.0,5.0,CMON Limited,"['Area Control', 'Auction', 'Card Drafting', 'Hand Management', 'Variable Player Powers', 'Worker Placement']",49,3.489795918367347,489,6
 1752,Yq4y7EwjYD,Bargain Quest,2017,2.0,6.0,Renegade Game Studios,"['Auction', 'Card Drafting', 'Hand Management']",42,3.5476190476190474,497,3
 1753,Oz9RDjiS8j,Civilization: A New Dawn,2017,2.0,4.0,Fantasy Flight Games,"['Modular Board', 'Variable Player Powers']",47,3.531914893617021,513,2
-1754,wuAWDG8K9t,Cat Lady,2017,2.0,4.0,Alderac Entertainment Group,"['Card Drafting', 'Set Collection']",57,3.228070175438597,529,2
+1754,wuAWDG8K9t,Cat Lady,2017,2.0,4.0,Alderac Entertainment Group,"['Card Drafting', 'Set Collection']",58,3.2241379310344835,529,2
 1755,X1FiXL8ZaB,Santa Maria,2017,1.0,4.0,Aporta Games,"['Dice Rolling', 'Set Collection', 'Tile Placement', 'Variable Player Powers']",40,3.6888888888888896,534,4
 1756,uFpj7zM2b0,The Lost Expedition,2017,1.0,5.0,Osprey Games,"['Cooperative Play', 'Hand Management']",50,3.22,538,2
-1757,Jh1A6HVO3t,Fantasy Realms,2017,3.0,6.0,WizKids Games,"['Card Drafting', 'Hand Management']",41,3.5365853658536586,555,2
+1757,Jh1A6HVO3t,Fantasy Realms,2017,3.0,6.0,WizKids Games,"['Card Drafting', 'Hand Management']",42,3.5476190476190474,555,2
 1758,pBPfgso6ei,Tak,2017,2.0,2.0,Cheapass Games,"['Grid Movement', 'Network and Route Building']",37,3.7027027027027026,569,2
 1759,kUefRFdVfs,The Castles of Burgundy: The Dice Game,2017,1.0,5.0,Ravensburger,"['Dice Rolling', 'Paper and Pencil']",45,3.4533333333333336,573,2
 1760,cuPy8mJUdR,New York Slice,2017,2.0,6.0,Bezier Games,['Set Collection'],55,3.218181818181818,574,1
@@ -1100,11 +1100,11 @@
 1765,RJrBco8d3Z,Majesty: For the Realm,2017,2.0,4.0,Z-Man Games,"['Card Drafting', 'Set Collection']",53,3.055493895671476,601,2
 1766,GuTs57m9Wv,London Second Edition,2017,2.0,4.0,Osprey Games,"['Card Drafting', 'Hand Management', 'Tableau Building', 'Variable Player Powers']",35,3.7365079365079366,614,4
 1767,2xp2MYTeJd,Werewords,2017,4.0,10.0,Bezier Games,"['Variable Player Powers', 'Voting']",43,3.279069767441861,617,2
-1768,rG1lFF979D,Unearth,2017,2.0,4.0,Brotherwise Games,"['Dice Rolling', 'Set Collection', 'Tile Placement', 'Worker Placement']",48,3.19140625,624,4
+1768,rG1lFF979D,Unearth,2017,2.0,4.0,Brotherwise Games,"['Dice Rolling', 'Set Collection', 'Tile Placement', 'Worker Placement']",49,3.1875,624,4
 1769,lRjLm64IIk,Whitehall Mystery,2017,2.0,4.0,Fantasy Flight Games,"['Partnerships', 'Point to Point Movement', 'Secret Unit Deployment']",33,3.7163636363636368,631,3
 1770,uCpzeP9aHx,Battle for Rokugan,2017,2.0,5.0,Fantasy Flight Games,"['Area Control', 'Hand Management', 'Variable Player Powers']",39,3.4871794871794863,642,3
 1771,uIAbNA34UF,Champions of Midgard: Valhalla,2017,2.0,5.0,Grey Fox Games,"['Card Drafting', 'Dice Rolling', 'Set Collection', 'Variable Player Powers', 'Worker Placement']",30,3.822222222222222,651,5
-1772,cBpAOZRoCu,Herbaceous,2017,1.0,4.0,Pencil First Games,"['Press Your Luck', 'Set Collection']",44,3.181818181818181,686,2
+1772,cBpAOZRoCu,Herbaceous,2017,1.0,4.0,Pencil First Games,"['Press Your Luck', 'Set Collection']",45,3.1999999999999993,686,2
 1773,v0Uhijv6Zq,Unfair,2017,2.0,5.0,CMON Limited,"['Card Drafting', 'Hand Management', 'Set Collection', 'Take That', 'Variable Player Powers']",34,3.558823529411765,687,5
 1774,akCvTPO5un,Lovecraft Letter,2017,2.0,6.0,"Z-Man Games, Inc.","['Hand Management', 'Player Elimination']",39,3.487179487179487,691,2
 1775,Ziqo3Fh42F,Sentient,2017,2.0,4.0,Renegade Game Studios,"['Area Control', 'Dice Rolling', 'Set Collection']",32,3.451388888888889,692,3
@@ -1158,21 +1158,21 @@
 1823,KPW86hS7fU,Cryptid,2018,3.0,5.0,Osprey Games,['Deduction'],74,3.642471042471043,268,1
 1824,L2xBNjxZjk,Gizmos,2018,2.0,4.0,CMON,"['Drafting', 'Tableau Building']",75,3.613333333333333,269,2
 1825,dBDlFuXo5i,Coimbra,2018,2.0,4.0,Eggertspiele,"['Card Drafting', 'Dice Rolling', 'Set Collection', 'Worker Placement with Dice Workers']",77,3.6046600458365163,273,4
-1826,YDr6ZHfkja,Azul: Stained Glass of Sintra,2018,2.0,4.0,Plan B Games,"['Pattern Building', 'Tile Placement']",78,3.5641025641025643,285,2
+1826,YDr6ZHfkja,Azul: Stained Glass of Sintra,2018,2.0,4.0,Plan B Games,"['Pattern Building', 'Tile Placement']",79,3.5696202531645573,285,2
 1827,GqdiH2bkZ1,Root: The Riverfolk Expansion,2018,2.0,2.0,Leder Games,"['Area Control', 'Area Movement', 'Cooperative Play', 'Dice Rolling', 'Hand Management', 'Variable Player Powers']",44,4.181818181818182,286,6
 1828,XAI0dayGSY,Disney Villainous,2018,2.0,6.0,The Wonder Forge,"['Hand Management', 'Take That', 'Variable Player Powers']",90,3.4844444444444442,290,3
 1829,eMAjAxUNyJ,Camel Up (Second Edition),2018,3.0,8.0,eggertspiele,"['Betting', 'Dice Rolling', 'Roll / Spin and Move']",45,3.777777777777778,336,3
 1830,pYGZPqbmbN,Endeavor: Age of Sail,2018,2.0,5.0,Burnt Island Games,"['Area Control', 'Card Drafting', 'Set Collection']",63,3.7916666666666656,337,3
 1831,Sb1CIhPwOu,The Estates,2018,2.0,5.0,Capstone Games,"['Area Control', 'Auction']",41,3.8048780487804876,349,2
 1832,Tc2Iq70NYl,Gùgōng,2018,1.0,5.0,,"['Hand Management', 'Set Collection', 'Worker Placement']",59,3.661016949152543,355,3
-1833,caLKjC1Enr,Century: Eastern Wonders,2018,2.0,4.0,Plan B Games,"['Grid Movement', 'Modular Board', 'Pick-up and Deliver', 'Set Collection']",62,3.473790322580645,376,4
+1833,caLKjC1Enr,Century: Eastern Wonders,2018,2.0,4.0,Plan B Games,"['Grid Movement', 'Modular Board', 'Pick-up and Deliver', 'Set Collection']",63,3.466269841269841,376,4
 1834,B3Ic8OBdfK,Detective: A Modern Crime Game,2018,1.0,5.0,Portal Publishing,"['Cooperative Play', 'Storytelling']",51,3.666666666666667,379,2
 1835,HnrbYX2qhH,Vindication,2018,2.0,5.0,"Orange Nebula, LLC","['Area Control', 'Modular Board', 'Role Playing', 'Variable Phase Order']",43,3.945736434108527,390,4
 1836,1CsoCmVUjw,Stuffed Fables,2018,2.0,4.0,Plaid Hat Games,"['Cooperative Play', 'Dice Rolling', 'Role Playing', 'Storytelling', 'Variable Player Powers']",42,3.482993197278912,391,5
 1837,R7SYLEG8nQ,Between Two Castles of Mad King Ludwig,2018,2.0,7.0,Stonemaier Games,"['Card Drafting', 'Partnerships', 'Set Collection', 'Tile Placement']",57,3.4912280701754383,409,4
 1838,CD0uhFDJnN,War Chest,2018,2.0,4.0,Alderac Entertainment Group,"['Area Control', 'Bag Building', 'Hand Management', 'Partnerships', 'Variable Player Powers']",33,3.9696969696969697,416,5
 1839,Hg5S2Wjc2E,Railroad Ink: Blazing Red,2018,1.0,6.0,CMON,"['Dice Rolling', 'Paper and Pencil', 'Network and Route Building']",51,3.392156862745098,435,3
-1840,l3TMEluK8v,Roll Player: Monsters & Minions,2018,1.0,4.0,Thunderworks Games,"['Dice Rolling', 'Set Collection']",36,4.111111111111111,469,2
+1840,l3TMEluK8v,Roll Player: Monsters & Minions,2018,1.0,4.0,Thunderworks Games,"['Dice Rolling', 'Set Collection']",37,4.108108108108108,469,2
 1841,odf6rzEnxx,Treasure Island,2018,2.0,5.0,Matagot,"['Drawing', 'Hand Management', 'Variable Player Powers']",42,3.476190476190476,493,3
 1842,1sfTEQm7EI,Hardback,2018,1.0,5.0,Fowers Games,"['Deck Building', 'Press Your Luck', 'Cooperative Play']",51,3.4148606811145505,499,3
 1843,FknHStKZ4z,Mage Knight: Ultimate Edition,2018,1.0,4.0,WizKids Games,"['Card Drafting', 'Cooperative Play', 'Deck Building', 'Dice Rolling', 'Grid Movement', 'Hand Management', 'Modular Board', 'Role Playing', 'Tile Placement', 'Variable Player Powers']",24,4.458333333333333,520,10
@@ -1183,15 +1183,15 @@
 1848,fMsqOx6Onh,Betrayal Legacy,2018,3.0,5.0,Wizards of the Coast,"['Cooperative Play', 'Dice Rolling', 'Grid Movement', 'Legacy', 'Modular Board', 'Player Elimination', 'Role Playing', 'Storytelling', 'Tile Placement']",32,3.78125,542,9
 1849,EiVU77dgUm,Ticket to Ride: New York,2018,2.0,4.0,Days of Wonder,"['Card Drafting', 'Hand Management', 'Set Collection', 'Network and Route Building']",55,3.290909090909091,543,4
 1850,kSqMntBWP0,Pandemic: Fall of Rome,2018,1.0,5.0,,"['Action Point Allowance System', 'Cooperative Play', 'Hand Management', 'Point to Point Movement', 'Set Collection', 'Variable Player Powers']",30,3.8999999999999995,556,6
-1851,Isz8oWlpj1,Carpe Diem,2018,2.0,4.0,alea,"['Card Drafting', 'Tile Placement']",35,3.7626373626373626,566,2
+1851,Isz8oWlpj1,Carpe Diem,2018,2.0,4.0,alea,"['Card Drafting', 'Tile Placement']",36,3.769230769230769,566,2
 1852,mzOVCeS4c8,The Grimm Forest,2018,2.0,4.0,Skybound Games,List could not be pulled.,46,3.347826086956522,572,5
 1853,e44jncYuUp,Duelosaur Island,2018,2.0,2.0,Pandasaurus Games,"['Card Drafting', 'Dice Rolling', 'Hand Management', 'Set Collection']",39,3.5897435897435908,583,4
 1854,4RRDuFmcoD,Tiny Epic Zombies,2018,1.0,5.0,Gamelyn Games,"['Area Control', 'Cooperative Play', 'Dice Rolling', 'Modular Board', 'Partnerships', 'Pick-up and Deliver', 'Press Your Luck', 'Variable Player Powers']",41,3.317073170731707,592,8
 1855,rJltte4DX0,Thunderstone Quest,2018,2.0,5.0,Alderac Entertainment Group,['Deck Building'],33,3.731060606060606,600,1
 1856,pqUKdUsnjR,Fireball Island: The Curse of Vul-Kar,2018,2.0,2.0,Restoration Games,"['Action / Movement Programming', 'Action Point Allowance System', 'Area Movement', 'Pick-up and Deliver', 'Press Your Luck', 'Set Collection', 'Take That']",36,3.444444444444444,604,7
 1857,sfb8gcABF8,Concordia: Venus Expansion,2018,2.0,6.0,Rio Grande Games,"['Card Drafting', 'Hand Management', 'Partnerships', 'Point to Point Movement']",30,3.916666666666667,606,4
-1858,Xpc4HzJgFE,Arkham Horror (Third Edition),2018,1.0,6.0,Fantasy Flight Games,"['Cooperative Play', 'Dice Rolling', 'Modular Board', 'Variable Player Powers']",27,3.8888888888888893,623,4
-1859,80yQ56cD2C,Palm Island,2018,1.0,2.0,,"['Cooperative Play', 'Deck Building', 'Hand Management', 'Memory', 'Simultaneous Play']",38,3.4473684210526314,628,5
+1858,Xpc4HzJgFE,Arkham Horror (Third Edition),2018,1.0,6.0,Fantasy Flight Games,"['Cooperative Play', 'Dice Rolling', 'Modular Board', 'Variable Player Powers']",28,3.8928571428571432,623,4
+1859,80yQ56cD2C,Palm Island,2018,1.0,2.0,,"['Cooperative Play', 'Deck Building', 'Hand Management', 'Memory', 'Simultaneous Play']",39,3.4871794871794872,628,5
 1860,dOY6iUE2aM,Wildlands,2018,2.0,4.0,Osprey Games,"['Area Movement', 'Hand Management', 'Secret Unit Deployment', 'Variable Player Powers']",30,3.6999999999999997,635,4
 1861,cyLmnkBJRq,Dice Throne,2018,2.0,6.0,Roxley,"['Dice Rolling', 'Take That']",44,3.204545454545455,644,2
 1862,xt6pC8Y51e,Blue Lagoon,2018,2.0,4.0,Blue Orange Games,"['Area Control', 'Set Collection', 'Network and Route Building']",33,3.7575757575757573,660,3
@@ -1210,7 +1210,7 @@
 1876,xR5jNzIUUf,"Heroes of Land, Air, & Sea",2018,1.0,4.0,Gamelyn Games,"['Action Point Allowance System', 'Area Control', 'Take That', 'Variable Player Powers', 'Worker Placement']",22,3.4545454545454537,788,5
 1877,G0oa0arGbg,Unbroken,2018,1.0,1.0,,"['Dice Rolling', 'Press Your Luck', 'Role Playing']",27,3.3333333333333335,808,3
 1878,A3jTDyHzfI,Mint Delivery,2018,1.0,5.0,Five24 Labs,"['Action Point Allowance System', 'Pick-up and Deliver', 'Point to Point Movement']",36,2.9999999999999996,821,3
-1879,Nyy7ukxejj,Choose Your Own Adventure: House of Danger,2018,1.0,8.0,Z-Man Games,"['Cooperative Play', 'Hand Management', 'Storytelling']",33,3.0303030303030307,825,3
+1879,Nyy7ukxejj,Choose Your Own Adventure: House of Danger,2018,1.0,8.0,Z-Man Games,"['Cooperative Play', 'Hand Management', 'Storytelling']",34,2.970588235294118,825,3
 1880,KyiRI2i7Ep,Lowlands,2018,2.0,5.0,Z-Man Games,"['Action Point Allowance System', 'Set Collection', 'Tile Placement', 'Worker Placement']",25,3.48,828,4
 1881,KOD0zHOzcL,5-Minute Marvel,2018,2.0,5.0,Wiggles-3D,"['Hand Management', 'Variable Player Powers', 'Cooperative Play']",32,3.312499999999999,838,3
 1882,5DaPxqEdee,Newton,2018,1.0,4.0,CMON,"['Card Drafting', 'Deck Building', 'Hand Management', 'Point to Point Movement', 'Pool Building', 'Tile Placement']",24,3.666666666666667,839,6
@@ -1219,9 +1219,9 @@
 1885,frlqASOm7e,Maximum Apocalypse,2018,1.0,6.0,Rock Manor Games,"['Action Point Allowance System', 'Campaign', 'Cooperative Play', 'Hand Management', 'Modular Board', 'Pick-up and Deliver']",28,3.6428571428571432,854,6
 1886,0HcMxeJuyX,Raccoon Tycoon,2018,2.0,5.0,Forbidden Games,['Auction'],25,3.4,857,1
 1887,poOCA6P4XA,Kingdomino: Age of Giants,2018,2.0,5.0,Blue Orange Games,"['Card Drafting', 'Pattern Building', 'Take That', 'Tile Placement', 'Variable Phase Order']",25,3.52,870,5
-1888,jwkSFURCQ4,Planet,2018,2.0,4.0,Blue Orange,['Tile Placement'],32,3.125,896,1
+1888,jwkSFURCQ4,Planet,2018,2.0,4.0,Blue Orange,['Tile Placement'],33,3.121212121212121,896,1
 1889,FYDls3xiob,Illusion,2018,2.0,5.0,Pandasaurus Games,['Pattern Recognition'],30,3.333333333333334,902,1
-1890,9exf9EQLum,Forbidden Sky: Height of Danger,2018,2.0,5.0,Gamewright,"['Action Point Allowance System', 'Cooperative Play', 'Modular Board', 'Tile Placement', 'Variable Player Powers']",27,2.9629629629629632,916,5
+1890,9exf9EQLum,Forbidden Sky: Height of Danger,2018,2.0,5.0,Gamewright,"['Action Point Allowance System', 'Cooperative Play', 'Modular Board', 'Tile Placement', 'Variable Player Powers']",28,3.0000000000000004,916,5
 1891,uK3HiNH56N,Crypt,2018,1.0,4.0,Road To Infamy Games,"['Auction', 'Dice Rolling', 'Press Your Luck', 'Set Collection']",32,3.1250000000000004,922,4
 1892,YadUC1YFfW,Dice Hospital,2018,1.0,4.0,Alley Cat Games,"['Dice Rolling', 'Engine Building']",25,3.3999999999999995,927,2
 1893,YaIZZYmG6p,Men At Work,2018,2.0,5.0,,['Dexterity'],22,3.5,932,1
@@ -1230,20 +1230,20 @@
 1896,53WpjsB44z,Spirits of The Wild,2018,2.0,2.0,Mattel,"['Hand Management', 'Set Collection']",24,3.416666666666666,955,2
 1898,g3oUIcXQjX,Tiny Epic Mechs,2018,1.0,4.0,,"['Action / Movement Programming', 'Area Control', 'Grid Movement', 'Modular Board', 'Take That', 'Variable Player Powers']",21,3.4285714285714284,1017,6
 1899,1J4PWep5HZ,Petrichor,2018,1.0,4.0,Advanced Primate Entertainment,"['Area Control', 'Hand Management', 'Modular Board', 'Voting']",21,3.5714285714285716,1021,4
-1900,5H5JS0KLzK,Wingspan,2019,1.0,5.0,Stonemaier Games,"['Dice Rolling', 'Engine Building', 'Set Collection', 'Tableau Building']",291,3.940841924398627,4,4
+1900,5H5JS0KLzK,Wingspan,2019,1.0,5.0,Stonemaier Games,"['Dice Rolling', 'Engine Building', 'Set Collection', 'Tableau Building']",292,3.944469178082193,4,4
 1901,fAFWwA5CwK,Tapestry,2019,1.0,5.0,Stonemaier Games,"['Hand Management', 'Tile Placement', 'Variable Player Powers']",114,3.5789473684210535,107,3
 1902,v9ThnzqnW5,Pax Pamir (Second Edition),2019,1.0,5.0,Wehrlegig Games,"['Area Control', 'Area Movement', 'Hand Management', 'Simulation', 'Storytelling', 'Tableau Building']",42,4.214285714285714,116,6
-1903,iEEoo9hTRo,Tiny Towns,2019,1.0,6.0,Alderac Entertainment Group,['Pattern Building'],108,3.5970418470418473,118,1
+1903,iEEoo9hTRo,Tiny Towns,2019,1.0,6.0,Alderac Entertainment Group,['Pattern Building'],109,3.6007387108304543,118,1
 1904,YWb0VhaxGm,Paladins of the West Kingdom,2019,1.0,4.0,Garphill Games,"['Hand Management', 'Worker Placement']",53,4.113207547169811,123,2
 1905,zP1jQ8Ueb4,The Crew: The Quest for Planet Nine,2019,2.0,5.0,,"['Campaign', 'Cooperative Play', 'Trick-taking']",31,4.225806451612902,147,3
 1906,ApSXoXA1Gs,PARKS,2019,1.0,5.0,,"['Point to Point Movement', 'Set Collection', 'Worker Placement']",50,3.92,176,3
-1907,9wsHFLpu3G,Cartographers: A Roll Player Tale,2019,1.0,100.0,,"['Line Drawing', 'Roll and Write']",57,3.842105263157894,191,2
+1907,9wsHFLpu3G,Cartographers: A Roll Player Tale,2019,1.0,100.0,,"['Line Drawing', 'Roll and Write']",59,3.864406779661016,191,2
 1908,Yq6uL19JmQ,Res Arcana,2019,2.0,4.0,Sand Castle Games,"['Card Drafting', 'Hand Management', 'Tableau Building', 'Variable Player Powers']",58,3.8965517241379306,215,4
 1909,jYcMsxI5zP,Horrified,2019,1.0,5.0,,"['Cooperative Play', 'Pick-up and Deliver']",56,3.7857142857142856,233,2
 1910,OkrapKvy8z,Maracaibo,2019,1.0,4.0,,"['Hand Management', 'Point to Point Movement']",25,4.319999999999999,270,2
-1911,r4SLAaCX6Z,Marvel Champions: The Card Game,2019,1.0,4.0,Fantasy Flight Games,List could not be pulled.,49,3.83673469387755,272,4
+1911,r4SLAaCX6Z,Marvel Champions: The Card Game,2019,1.0,4.0,Fantasy Flight Games,List could not be pulled.,50,3.859999999999999,272,4
 1912,gEbKCsDsDk,The Lord of the Rings: Journeys in Middle-earth,2019,1.0,5.0,Fantasy Flight Games,"['Cooperative Play', 'Deck Building', 'Modular Board', 'Role Playing']",38,3.9473684210526314,321,4
-1913,y1Umv3Jc3w,The Isle of Cats,2019,1.0,4.0,,"['Card Drafting', 'Pattern Building', 'Set Collection', 'Tile Placement']",29,4.3103448275862055,324,4
+1913,y1Umv3Jc3w,The Isle of Cats,2019,1.0,4.0,,"['Card Drafting', 'Pattern Building', 'Set Collection', 'Tile Placement']",30,4.299999999999999,324,4
 1914,0WNFgoI5HG,Point Salad,2019,2.0,6.0,,"['Card Drafting', 'Set Collection']",59,3.576271186440678,340,2
 1915,BgXeKFHwhz,On Mars,2019,2.0,4.0,Eagle-Gryphon Games,"['Area Control', 'Hand Management', 'Pick-up and Deliver', 'Point to Point Movement', 'Tile Placement', 'Variable Phase Order']",29,4.275862068965517,364,6
 1916,E2upodPoNQ,Imperial Settlers: Empires of the North,2019,1.0,4.0,,List could not be pulled.,24,3.7916666666666665,374,6
@@ -1255,10 +1255,10 @@
 1922,5n5G4CNXuZ,Wingspan: European Expansion,2019,1.0,5.0,Stonemaier Games,"['Card Drafting', 'Dice Rolling', 'Hand Management', 'Set Collection']",22,4.318181818181818,481,4
 1923,yzgDrh4MAy,Escape Plan,2019,1.0,5.0,Eagle-Gryphon Games,"['Action Point Allowance System', 'Area Enclosure', 'Area Movement', 'Card Drafting', 'Hand Management', 'Modular Board', 'Tile Placement']",36,3.8333333333333335,498,7
 1924,t8ViKyjm4H,Black Angel,2019,1.0,4.0,Pearl Games,['Dice Rolling'],25,3.6399999999999997,567,1
-1926,TxsyDyZ2TT,Twice As Clever,2019,1.0,4.0,Schmidt Spiele,['Dice Rolling'],30,3.8333333333333335,649,1
-1928,kan5kAKNyY,Call to Adventure,2019,2.0,4.0,Brotherwise Games,"['Dice Rolling', 'Set Collection', 'Storytelling']",30,3.5666666666666664,657,3
+1926,TxsyDyZ2TT,Twice As Clever,2019,1.0,4.0,Schmidt Spiele,['Dice Rolling'],31,3.774193548387097,649,1
+1928,kan5kAKNyY,Call to Adventure,2019,2.0,4.0,Brotherwise Games,"['Dice Rolling', 'Set Collection', 'Storytelling']",31,3.6129032258064515,657,3
 1930,lQ81luXhHD,The Taverns of Tiefenthal,2019,2.0,4.0,Schmidt Spiele,['Dice Rolling'],27,3.740740740740741,697,1
-1931,Gg1qvsXUtN,Draftosaurus,2019,2.0,5.0,,"['Card Drafting', 'Dice Rolling', 'Set Collection']",25,3.6799999999999997,743,3
+1931,Gg1qvsXUtN,Draftosaurus,2019,2.0,5.0,,"['Card Drafting', 'Dice Rolling', 'Set Collection']",26,3.615384615384615,743,3
 1932,ObFBe4WGSi,Fantastic Factories,2019,1.0,5.0,,"['Card Drafting', 'Dice Rolling', 'Hand Management', 'Simultaneous Play', 'Worker Placement', 'Worker Placement with Dice Workers']",26,3.538461538461538,759,6
 1933,TPgmEwDgyX,Ecos: First Continent,2019,2.0,6.0,,"['Modular Board', 'Set Collection', 'Tile Placement']",21,3.5714285714285707,810,3
 1934,JdJsDvrLTT,Sushi Roll,2019,2.0,5.0,Gamewright,['Dice Rolling'],22,3.3636363636363633,970,1
@@ -1274,17 +1274,17 @@
 1946,WEAJIzhHXK,DinoGenics,2019,2.0,5.0,Ninth Haven Games,['Worker Placement'],8,3.5,9999999,1
 1947,llEcYsjSgM,Set a Watch,2019,1.0,4.0,Rock Manor Games,['Cooperative Play'],14,3.571428571428571,9999999,1
 1948,e5oNsUTHxz,Batman: Gotham City Chronicles,2019,2.0,4.0,Monolith,"['Action / Movement Programming', 'Action Point Allowance System', 'Area Movement', 'Dice Rolling', 'Partnerships', 'Variable Phase Order', 'Variable Player Powers']",10,3.6999999999999997,9999999,7
-1951,s8wSChmBTN,Azul: Summer Pavilion,2019,2.0,4.0,Next Move Games,"['Pattern Building', 'Set Collection']",15,3.9999999999999996,9999999,2
-1952,HsvPjAZACv,Aerion,2019,1.0,2.0,"Z-Man Games, Inc.","['Cooperative Play', 'Dice Rolling']",12,3.9583333333333335,9999999,2
+1951,s8wSChmBTN,Azul: Summer Pavilion,2019,2.0,4.0,Next Move Games,"['Pattern Building', 'Set Collection']",16,3.9999999999999996,9999999,2
+1952,HsvPjAZACv,Aerion,2019,1.0,2.0,"Z-Man Games, Inc.","['Cooperative Play', 'Dice Rolling']",13,3.9615384615384617,9999999,2
 1953,q4uwSQ7wtF,Bosk,2019,2.0,4.0,Floodgate Games,"['Area Control', 'Grid Movement', 'Hand Management']",10,3.5,9999999,3
 1954,NcxqD8yFuL,Century: A New World,2019,2.0,4.0,Plan B Games,['Worker Placement'],20,3.6666666666666665,9999999,1
 1956,cJFWQXpQV2,Cthulhu: Death May Die,2019,1.0,5.0,CMON Limited,"['Cooperative Play', 'Variable Player Powers']",19,4.105263157894737,9999999,2
 1957,1e63ywInZ4,Village Pillage,2019,2.0,5.0,Jellybean Games,"['Hand Management', 'Simultaneous Play']",14,3.5,9999999,2
 1958,xMG3oZu8E7,Edge of Darkness,2019,2.0,4.0,Alderac Entertainment Group,"['Card Drafting', 'Deck Building', 'Worker Placement']",11,3.272727272727273,9999999,3
 1960,W8F5hJjBZa,Sabotage,2019,2.0,4.0,Fowers Games,"['Action Selection', 'Dice Rolling', 'Grid Movement', 'Hidden Movement', 'Teams']",10,3.6999999999999993,9999999,5
-1961,JsrWCok3Fp,Shobu,2019,2.0,2.0,,['Grid Movement'],8,3.375,9999999,1
-1963,NHwyTtPl00,Aeon's End: The New Age,2019,1.0,4.0,,"['Card Drafting', 'Cooperative Play', 'Hand Management', 'Variable Phase Order', 'Variable Player Powers']",8,4.5,9999999,5
-1964,3iWLTLRZeP,Circadians: First Light,2019,1.0,4.0,Garphill Games,"['Dice Rolling', 'Set Collection', 'Variable Player Powers', 'Worker Placement']",8,3.8749999999999996,9999999,4
+1961,JsrWCok3Fp,Shobu,2019,2.0,2.0,,['Grid Movement'],9,3.4444444444444446,9999999,1
+1963,3iWLTLRZeP,Circadians: First Light,2019,1.0,4.0,Garphill Games,"['Dice Rolling', 'Set Collection', 'Variable Player Powers', 'Worker Placement']",8,3.8749999999999996,9999999,4
+1964,NHwyTtPl00,Aeon's End: The New Age,2019,1.0,4.0,,"['Card Drafting', 'Cooperative Play', 'Hand Management', 'Variable Phase Order', 'Variable Player Powers']",8,4.5,9999999,5
 1965,7Vprzij3Yi,Hadara,2019,2.0,5.0,,['Set Collection'],20,3.5999999999999996,9999999,1
 1966,siLJ5aQ27t,Nova Luna,2019,1.0,4.0,,['Tile Placement'],10,3.9,9999999,1
 1967,ZChbvsZh3G,Obscurio,2019,2.0,8.0,,"['Cooperative Play', 'Hidden Traitor', 'Variable Player Powers', 'Voting']",11,3.181818181818182,9999999,4
@@ -1308,4 +1308,4 @@
 1990,qTl7hcj1nu,Tiny Epic Tactics,2019,1.0,4.0,Gamelyn Games,"['Cooperative Play', 'Partnerships', 'Take That', 'Variable Player Powers']",10,3.7999999999999994,9999999,4
 1991,GGvHuT0Kk7,Ragusa,2019,1.0,5.0,,"['Trading', 'Worker Placement']",15,3.1333333333333333,9999999,2
 1994,dfzZ3VkSy7,Copenhagen,2019,2.0,4.0,Queen Games,['Pattern Building'],15,3.4000000000000004,9999999,1
-1995,WqTmewicvF,Nine Tiles Panic,2019,2.0,5.0,,['Pattern Building'],9,3.0,9999999,1
+1996,WqTmewicvF,Nine Tiles Panic,2019,2.0,5.0,,['Pattern Building'],9,3.0,9999999,1
