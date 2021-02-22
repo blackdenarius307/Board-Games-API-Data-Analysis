@@ -33,3 +33,10 @@ Project Description & Outline: Using Board Game Atlas, a popular forum for ratin
 	- [x] Remove any game with no mechanics listed
 - [x] Create summary dataframes for each year for mechanics and player count
 - [x] Create charts showing trends over time
+
+# Visualizations Created
+![Scatter plot showing increase of one player games increasing over time](https://github.com/MaxBrowning/Board-Games-Group-F/blob/main/Images/One%20Player%20Game%20Scatter%20Plot.png)
+
+![Box plot showing number of mechanics per game per year](https://github.com/MaxBrowning/Board-Games-Group-F/blob/main/Images/GameMechanicsPerYearBoxPlot.png)
+
+![Linear regression of number of mechanics per game per year](https://github.com/MaxBrowning/Board-Games-Group-F/blob/main/Images/GameMechanicsPerYearScatter.png)
