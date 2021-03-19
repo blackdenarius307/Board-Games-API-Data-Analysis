@@ -1,4 +1,4 @@
-# Board-Games-Group-F
+# Board-Games-An analysis
 
 # Project Title: How have board games changed over the last 20 years?
 Team Members: Max Browning & Zach Gibbs
